@@ -3,14 +3,22 @@ CREATE TABLE IF NOT EXISTS communes (
     nom_commune VARCHAR(255) NOT NULL,
     latitude DOUBLE,
     longitude DOUBLE,
-    departement VARCHAR(10)
+    departement VARCHAR(10),
+    cdreseau VARCHAR(20),
+    nomreseau VARCHAR(255)
 );
 
 CREATE TABLE IF NOT EXISTS prelevements (
     id INT AUTO_INCREMENT PRIMARY KEY,
     code_insee VARCHAR(10) NOT NULL,
+    cdreseau VARCHAR(20),
+    referenceprel VARCHAR(30),
     dateprel DATE,
+    heureprel VARCHAR(10),
     conclusionprel VARCHAR(255),
+    ugelib VARCHAR(255),
+    distrlib VARCHAR(255),
+    moalib VARCHAR(255),
     plvconformitebacterio CHAR(1),
     plvconformitechimique CHAR(1),
     plvconformitereferencebact CHAR(1),
@@ -33,3 +41,4 @@ CREATE TABLE IF NOT EXISTS resultats_analyses (
 
 CREATE INDEX idx_name ON communes(nom_commune);
 CREATE INDEX idx_prelevements_commune_date ON prelevements(code_insee, dateprel);
+CREATE INDEX idx_prelevements_reseau ON prelevements(cdreseau);

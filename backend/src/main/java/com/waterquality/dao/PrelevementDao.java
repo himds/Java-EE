@@ -42,8 +42,7 @@ public class PrelevementDao {
     }
 
     public Map<String, Prelevement> findLatestByCommuneAndFilters(Integer year, String pollutant) throws Exception {
-        StringBuilder sql = new StringBuilder(baseLatestQuery())
-                .append(" WHERE 1=1 ");
+        StringBuilder sql = new StringBuilder(baseLatestQuery()).append(" WHERE 1=1 ");
         if (year != null) sql.append(" AND YEAR(dateprel) = ? ");
         sql.append(buildPollutantCondition(pollutant));
         sql.append(" ORDER BY code_insee, dateprel DESC, id DESC");
@@ -65,7 +64,8 @@ public class PrelevementDao {
 
     private String baseLatestQuery() {
         return """
-                SELECT id, code_insee, dateprel, conclusionprel,
+                SELECT id, code_insee, cdreseau, referenceprel, dateprel, heureprel, conclusionprel,
+                       ugelib, distrlib, moalib,
                        plvconformitebacterio, plvconformitechimique,
                        plvconformitereferencebact, plvconformitereferencechim
                 FROM prelevements
@@ -86,8 +86,14 @@ public class PrelevementDao {
         Prelevement prelevement = new Prelevement();
         prelevement.setId(rs.getInt("id"));
         prelevement.setCodeInsee(rs.getString("code_insee"));
+        prelevement.setCdreseau(rs.getString("cdreseau"));
+        prelevement.setReferenceprel(rs.getString("referenceprel"));
         prelevement.setDateprel(String.valueOf(rs.getDate("dateprel")));
+        prelevement.setHeureprel(rs.getString("heureprel"));
         prelevement.setConclusionprel(rs.getString("conclusionprel"));
+        prelevement.setUgelib(rs.getString("ugelib"));
+        prelevement.setDistrlib(rs.getString("distrlib"));
+        prelevement.setMoalib(rs.getString("moalib"));
         prelevement.setPlvconformitebacterio(rs.getString("plvconformitebacterio"));
         prelevement.setPlvconformitechimique(rs.getString("plvconformitechimique"));
         prelevement.setPlvconformitereferencebact(rs.getString("plvconformitereferencebact"));
