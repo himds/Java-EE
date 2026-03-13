@@ -1,0 +1,13 @@
+# ignore dataset
+data/*.txt
+
+# Java build files
+target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
