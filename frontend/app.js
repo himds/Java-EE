@@ -30,12 +30,21 @@ const metricPollutant = document.getElementById('metric-pollutant');
 const metricYear = document.getElementById('metric-year');
 const metricSamples = document.getElementById('metric-samples');
 const detailHeading = document.getElementById('detail-heading');
+const territoryJumpButtons = document.querySelectorAll('.territory-btn');
 
 let currentMode = 'regions';
 let currentYear = null;
 let currentPollutant = 'all';
 let currentSearchItems = [];
 
+const TERRITORY_VIEWS = {
+  metro: [[41.0, -5.8], [51.7, 9.8]],
+  guadeloupe: [[15.7, -61.9], [16.6, -60.9]],
+  martinique: [[14.25, -61.35], [14.95, -60.75]],
+  guyane: [[2.0, -54.9], [6.1, -51.3]],
+  reunion: [[-21.45, 55.15], [-20.8, 55.95]],
+  mayotte: [[-13.1, 45.0], [-12.45, 45.4]]
+};
 
 function escapeHtml(value) {
   return String(value ?? '').replace(/[&<>"']/g, char => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[char]));
@@ -480,6 +489,21 @@ categoryFilter.addEventListener('change', async () => {
 viewModeFilter.addEventListener('change', async () => {
   currentMode = viewModeFilter.value;
   await loadMap();
+});
+
+territoryJumpButtons.forEach(button => {
+  button.addEventListener('click', () => {
+    const territory = button.dataset.territory;
+    const bounds = TERRITORY_VIEWS[territory];
+    if (!bounds) return;
+    map.fitBounds(bounds, { padding: [20, 20] });
+    openPanel();
+    communeTitle.textContent = button.textContent;
+    detailHeading.textContent = 'Territoire';
+    communeMeta.textContent = `Vue rapide vers ${button.textContent}. Utilise ensuite le zoom et clique sur une zone pour afficher sa fiche.`;
+    setStatusBadge('Navigation', '#22c55e');
+    analysisList.innerHTML = '<li>Raccourci de navigation territoriale.</li>';
+  });
 });
 
 loadMap().catch(err => {
