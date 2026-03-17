@@ -1,0 +1,25 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+97415,97400146138,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97409,97400146145,2025-12-31,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+97411,97400146144,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97404,97400146095,2025-12-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97414,97400146085,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97416,97400146090,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97413,97400146081,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97408,97400146098,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97420,97400146049,2025-12-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97418,97400146071,2025-12-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97405,97400146059,2025-12-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97410,97400146017,2025-12-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97421,97400145947,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97402,97400146282,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97422,97400145926,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97403,97400145937,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+97419,97400145911,2025-12-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97424,97400145895,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97407,97400145812,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97412,97400145766,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97423,97400145750,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97401,97400145757,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97406,97400145623,2025-11-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97417,97400145488,2025-11-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N

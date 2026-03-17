@@ -1,0 +1,793 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+02231,00200207163,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02561,00200207068,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02621,00200207067,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02128,00200207044,2025-12-29,Eau d’alimentation non conforme aux limites de qualité pour le métabol ite chlorothalonil-4-hydroxy dont la pertinence éventuelle n’a pas enc ore été caractérisée. Cette situation de non-conformité par rapport au x limites de qualité n'empêche pas la consommation de l'eau. Un contrô le renforcé est mis en place.,S,N,S,C
+02307,00200207049,2025-12-19,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02796,00200206999,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02449,00200206995,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02258,00200206994,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02543,00200206998,2025-12-19,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme incrustante. Il est demandé de remédier à la si tuation de non-conformité constatée. En attendant, l'eau reste consomm able.",C,C,C,N
+02744,00200206996,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02168,00200207071,2025-12-19,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre dalapon. Toutefois, cette eau est propre à la consommati on humaine car la concentration du pesticide concerné reste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",S,N,S,C
+02064,00200206981,2025-12-18,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme incrustante. Il est demandé de remédier à la si tuation de non-conformité constatée. En attendant, l'eau reste consomm able.",C,C,C,N
+02564,00200206983,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02644,00200206976,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02303,00200206987,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02525,00200206988,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02466,00200206986,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02571,00200206977,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02420,00200206978,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02637,00200206979,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02334,00200206984,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02364,00200206970,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02250,00200206971,2025-12-16,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme légèrement agressive. Il est demandé de remédie r à la situation de non-conformité constatée. En attendant, l'eau rest e consommable.",C,C,C,N
+02171,00200206973,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02565,00200206972,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02508,00200206992,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02406,00200206952,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02619,00200206953,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02707,00200206955,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02159,00200206956,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02093,00200207021,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02750,00200207022,2025-12-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre plomb. Cette teneur en plomb n’est représentative que pour le point d’utilisation d’eau concerné et non pour l’ensemble du réseau de distribution. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée dans le bâtiment concerné pour des usages alimentaires sans avoir réalisé un écoulement au préalable.",S,C,S,C
+02632,00200206951,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02111,00200206949,2025-12-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02602,00200206950,2025-12-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02624,00200206894,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02494,00200206893,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02814,00200206889,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02361,00200206902,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02386,00200206895,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02753,00200206896,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02028,00200206890,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02408,00200207048,2025-12-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02046,00200207024,2025-12-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone, méthyl-desphénylchloridazone, a trazine déséthyl déisopropylatrazine et les nitrates. La concentration des pesticides concernés reste inférieure aux valeurs sanitaires. Cet te eau est déconseillée aux populations sensibles (femmes enceintes, n ourrissons) pour des usages alimentaires. Un contrôle renforcé est mis en place sur ces paramètres.",S,N,S,C
+02832,00200207023,2025-12-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02554,00200206837,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02340,00200206886,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02555,00200206878,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02596,00200206957,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02691,00200206871,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02163,00200206881,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02371,00200206870,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02259,00200206865,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02360,00200206839,2025-12-08,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme agressive. Il est demandé de remédier à la situ ation de non-conformité constatée. En attendant, l'eau reste consommab le.",C,C,C,N
+02302,00200206864,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02418,00200206849,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02749,00200206866,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02276,00200206846,2025-12-08,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme agressive. Il est demandé de remédier à la situ ation de non-conformité constatée. En attendant, l'eau reste consommab le.",C,C,C,N
+02286,00200206851,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02761,00200206868,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02141,00200206850,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02073,00200206840,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02298,00200206997,2025-12-08,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et chlorothalonil R417888 et pré sentant des dépassements de la valeur indicative de 0,9 µg/L pour le p aramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphénylchlo ridazone et chlorothalonil R417888 reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02072,00200206843,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02312,00200206847,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02696,00200206844,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02676,00200206845,2025-12-08,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme légèrement agressive. Il est demandé de remédie r à la situation de non-conformité constatée. En attendant, l'eau rest e consommable.",C,C,C,N
+02546,00200206799,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02566,00200206778,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02719,00200206784,2025-12-05,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme légèrement agressive. Il est demandé de remédie r à la situation de non-conformité constatée. En attendant, l'eau rest e consommable.",C,C,C,N
+02372,00200206962,2025-12-05,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811 et non satisfaisante à la référe nce de qualité pour le paramètre Carbone Organique Total. Toutefois, c ette eau est propre à la consommation humaine car la concentration des paramètres desphénylchloridazone et méthyl-desphénylchloridazone rest e inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en p lace.",C,N,C,N
+02706,00200206961,2025-12-05,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811 et non satisfaisante à la référe nce de qualité pour le paramètre Carbone Organique Total. Toutefois, c ette eau est propre à la consommation humaine car la concentration des paramètres desphénylchloridazone et méthyl-desphénylchloridazone rest e inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en p lace.",C,N,C,N
+02173,00200207065,2025-12-05,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02807,00200206774,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02738,00200206775,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02195,00200206963,2025-12-05,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02711,00200206787,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02533,00200206791,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02804,00200206788,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02504,00200207161,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02544,00200206796,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02342,00200206795,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02321,00200206793,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02789,00200206792,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02109,00200206798,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02378,00200206797,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02574,00200207000,2025-12-04,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme incrustante. Il est demandé de remédier à la si tuation de non-conformité constatée. En attendant, l'eau reste consomm able.",C,C,C,N
+02148,00200206772,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02131,00200206773,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02722,00200206903,2025-12-02,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02316,00200206761,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02438,00200206740,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02822,00200206738,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02528,00200206739,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02687,00200206741,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02415,00200206737,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02071,00200206743,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02673,00200206809,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02643,00200206831,2025-11-27,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02720,00200206914,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02729,00200206830,2025-11-27,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02628,00200206736,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02812,00200206907,2025-11-27,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02627,00200206824,2025-11-27,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme légèrement agressive. Il est demandé de remédie r à la situation de non-conformité constatée. En attendant, l'eau rest e consommable.",C,C,C,N
+02613,00200206745,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02102,00200206820,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02675,00200206802,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02100,00200206731,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02776,00200206909,2025-11-26,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02818,00200206717,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02417,00200206826,2025-11-26,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02370,00200206732,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02701,00200206720,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02653,00200206729,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02539,00200206734,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02186,00200206728,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02426,00200206726,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02708,00200206725,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02805,00200206709,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02089,00200206708,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02780,00200206707,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02243,00200206706,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02245,00200206716,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02775,00200206810,2025-11-25,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre plomb. Cette teneur en plomb n’est représentative que pour le point d’utilisation d’eau concerné et non pour l’ensemble du réseau de distribution. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée dans le bâtiment concerné pour des usages alimentaires sans avoir réalisé un écoulement au préalable.",S,C,S,C
+02610,00200206832,2025-11-25,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02766,00200206811,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02414,00200206691,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02284,00200206692,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02618,00200206829,2025-11-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02728,00200206693,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02030,00200206766,2025-11-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre chlorothalonil R417888. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné r este inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02352,00200206804,2025-11-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02500,00200206805,2025-11-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811 et non satisfaisante à la référence de qualité pour le caractère de l'eau , l’eau étant notée comme légèrement agressive. Toutefois, cette eau e st propre à la consommation humaine car la concentration des pesticide s concernés reste inférieure aux valeurs sanitaires. Un contrôle renfo rcé est mis en place. ",C,N,C,N
+02381,00200206689,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02240,00200206803,2025-11-24,"Eau d’alimentation non conforme aux limites de qualité pour les paramè tres desphénylchloridazone et méthyl-desphénylchloridazone et  non sat isfaisante à la référence de qualité pour le caractère de l'eau, l ’eu étant notée comme légèrement agressive. Toutefois, cette eau est prpre à la consommation humaine car la concen tration des pesticides concernés reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,N
+02134,00200206690,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02319,00200206698,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02331,00200206667,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02668,00200206668,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02823,00200206666,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02463,00200206665,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02698,00200206658,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02551,00200206670,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02549,00200206661,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02359,00200206663,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02659,00200206660,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02070,00200206758,2025-11-19,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02552,00200206669,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02788,00200206648,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02473,00200206639,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02123,00200206664,2025-11-18,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme légèrement agressive. Il est demandé de remédie r à la situation de non-conformité constatée. Présence de perchlorates >4 μg/l et <15μg/l, la consommation de l'eau est déconseillée aux nou rrissons de moins de 6 mois. Un contrôle renforcé est mis en place sur ce paramètre.",C,C,C,N
+02746,00200206652,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02452,00200206642,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02336,00200206651,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02774,00200206641,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02785,00200206640,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02382,00200206656,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02145,00200206650,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02476,00200206760,2025-11-17,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et  non satisfaisante à la référence de qu alité pour le caractère de l'eau, l’eau étant notée comme incrustante. Toutefois, cette eau est propre à la consommation humaine car la conc entration des métabolites pertinents reste inférieure aux valeurs sani taires. Un contrôle renforcé est mis en place.",C,N,C,N
+02177,00200206746,2025-11-14,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre chlorothalonil R417888. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné r este inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02648,00200206819,2025-11-14,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02413,00200206585,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02640,00200206575,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02732,00200206574,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02717,00200206688,2025-11-14,"Eau d’alimentation non conforme aux limites de qualité pour les paramè tres desphénylchloridazone et méthyl-desphénylchloridazone et  non sat isfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme agressive. Toutefois, cette eau est propre à la consommation humaine car la conce ntration des pesticides concernés reste inférieure aux valeurs sanitai res. Un contrôle renforcé est mis en place.",C,N,C,N
+02697,00200206584,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02483,00200206554,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02346,00200206588,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02457,00200206561,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02430,00200206587,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02486,00200206589,2025-11-14,"Eau d'alimentation conforme aux limites de qualité en vigueur mais non satisfaisante aux références de qualité pour le paramètre bactéries coliformes. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,N,C
+02380,00200206990,2025-11-14,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents. Toutefois, cette eau est propre à la cons ommation humaine car la concentration des métabolites pertinents reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en pl ace.",S,N,S,C
+02421,00200206549,2025-11-13,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le paramètre fer et p our le paramètre turbidité. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,C,N
+02230,00200206548,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02341,00200206558,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02790,00200206553,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02577,00200206568,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02039,00200206678,2025-11-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02730,00200206551,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02689,00200206573,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02252,00200206567,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02101,00200206753,2025-11-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents. Toutefois, cette eau est propre à la cons ommation humaine car la concentration des métabolites pertinents reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en pl ace.",C,N,C,C
+02623,00200206559,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02373,00200206557,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02167,00200206564,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02620,00200206751,2025-11-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02116,00200206679,2025-11-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02078,00200206570,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02140,00200206571,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02704,00200206759,2025-11-12,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre plomb. Cette teneur en plomb n’est représentative que pour le point d’utilisation d’eau concerné et non pour l’ensemble du réseau de distribution. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée dans le bâtiment concerné pour des usages alimentaires sans avoir réalisé un écoulement au préalable.",S,C,S,C
+02217,00200206566,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02768,00200206634,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02080,00200206481,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02821,00200206482,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02180,00200206484,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02617,00200206483,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02037,00200206525,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02540,00200206474,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02157,00200206527,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02328,00200206477,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02053,00200206478,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02264,00200206677,2025-11-05,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents. Toutefois, cette eau est propre à la cons ommation humaine car la concentration des métabolites pertinents reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en pl ace.",C,N,C,C
+02666,00200206680,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02660,00200206532,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02586,00200206533,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02266,00200206531,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02672,00200206472,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02036,00200206422,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02714,00200206423,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02362,00200206387,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02056,00200206519,2025-10-31,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02523,00200206538,2025-10-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02179,00200206541,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02022,00200206536,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02817,00200206392,2025-10-30,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le paramètre turbidité. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,C,N
+02633,00200206539,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02735,00200206403,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02520,00200206534,2025-10-30,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le caractère de l'eau, l ’eau étant notée comme incrustante. Il est demandé de remédier à la si tuation de non-conformité constatée. En attendant, l'eau reste consomm able.",C,C,C,N
+02054,00200206388,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02226,00200206382,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02212,00200206399,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02810,00200206390,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02115,00200206407,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02410,00200206379,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02583,00200206397,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02086,00200206378,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02150,00200206408,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02001,00200206410,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02734,00200206389,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02461,00200206411,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02178,00200206409,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02368,00200206381,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02501,00200206393,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02587,00200206394,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02272,00200206375,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02499,00200206307,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02493,00200206308,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02153,00200206315,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02248,00200206312,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02416,00200206311,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02018,00200206334,2025-10-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02589,00200206306,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02174,00200206337,2025-10-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02755,00200206468,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02196,00200206521,2025-10-24,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02497,00200206314,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02424,00200206514,2025-10-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471 811. Toutefois, cette eau est propre à la consommation humaine car la concentration du desphénylchloridazone reste inférieure aux valeurs sa nitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02175,00200206515,2025-10-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02598,00200206305,2025-10-23,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le paramètre fer. Les inconvénients d’une eau trop riche en fer sont d’ordre principalement ménager et organoleptique (odeur, couleur, saveur).",C,C,C,N
+02011,00200206301,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02326,00200206349,2025-10-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02576,00200206303,2025-10-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, il convient de prévenir les populations sensibles (nourrissons et enfants) de ne pas utiliser cette eau pour des usages alimentaires.",C,N,C,C
+02237,00200206673,2025-10-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02769,00200206460,2025-10-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02412,00200206579,2025-10-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents, non satisfaisante à la référence de quali té pour le chlore libre et présentant des dépassements de la valeur in dicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Toutefo is, cette eau est propre à la consommation humaine car la concentratio n des métabolites pertinents reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02338,00200206351,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02787,00200206324,2025-10-22,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le paramètre turbidité. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,C,N
+02529,00200206346,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02462,00200206323,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02057,00200206352,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02816,00200206340,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02193,00200206341,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02220,00200206343,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02353,00200206309,2025-10-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02271,00200206342,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02600,00200206310,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02442,00200206335,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02815,00200206321,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02305,00200206339,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02758,00200206289,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02210,00200206297,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02464,00200206291,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02828,00200206292,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02723,00200206510,2025-10-21,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres chlorothalonil R417888 et nitrates et présentant des d épassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlo rothalonil R471811. La concentration du chlorothalonil R417888 reste i nférieure aux valeurs sanitaires. Cette eau est déconseillée aux popul ations sensibles (femmes enceintes, nourrissons) pour des usages alime ntaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02800,00200206279,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02518,00200206281,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02439,00200206255,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02725,00200206251,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02242,00200206428,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02492,00200206274,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02295,00200206249,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02684,00200206265,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02017,00200206448,2025-10-20,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02304,00200206450,2025-10-20,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02074,00200206248,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02608,00200206275,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02685,00200206270,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02238,00200206522,2025-10-20,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811 et non satisfaisante à la référence de qualité pour le caractère de l'eau , l’eau étant notée comme agressive. Toutefois, cette eau est propre à la consommation humaine car la concentration des pesticides concernés reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,N
+02283,00200206162,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02468,00200206181,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02206,00200206144,2025-10-17,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02401,00200206165,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02377,00200206169,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02296,00200206156,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02759,00200206173,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02327,00200206434,2025-10-17,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. La concentration des métabolites pertinents reste inférieure aux valeurs sanitaires. Présence de perchlorates >4 μg/l et <15μg/l, la consommati on de l'eau est déconseillée aux nourrissons de moins de 6 mois. Un co ntrôle renforcé est mis en place sur ces paramètres.",C,N,C,C
+02731,00200206432,2025-10-17,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471 811. Toutefois, cette eau est propre à la consommation humaine car la concentration du desphénylchloridazone reste inférieure aux valeurs sa nitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02032,00200206426,2025-10-17,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres chlorothalonil R417888, desphénylchloridazone et nitra tes et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre chlorothalonil R471811. Toutefois, cette eau est pr opreà la consommation humaine car la concentration des paramètres chlo rothalonil R417888 et desphénylchloridazone reste inférieure aux valeu rs sanitaires. Cette eau est déconseillée aux populations sensibles (f emmes enceintes, nourrissons) pour des usages alimentaires. Un contrôl e renforcé est mis en place.",C,N,C,C
+02524,00200206147,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02715,00200206146,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02120,00200206151,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02110,00200206153,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02702,00200206466,2025-10-16,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre plomb. Cette teneur en plomb n’est représentative que pour le point d’utilisation d’eau concerné et non pour l’ensemble du réseau de distribution. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée dans le bâtiment concerné pour des usages alimentaires sans avoir réalisé un écoulement au préalable.",S,C,S,C
+02505,00200206177,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02458,00200206180,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02773,00200206163,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02777,00200206175,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02581,00200206164,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02091,00200206446,2025-10-16,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02737,00200206457,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02556,00200206471,2025-10-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02060,00200206158,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02772,00200206155,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02317,00200206157,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02658,00200206145,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02690,00200206369,2025-10-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02474,00200206347,2025-10-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02397,00200206136,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02345,00200206282,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02149,00200206129,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02532,00200206451,2025-10-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02481,00200206454,2025-10-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02009,00200206128,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02756,00200206425,2025-10-13,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02541,00200206076,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02601,00200206083,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02299,00200206246,2025-10-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et nitrates et présentant des dé passements de la valeur indicative de 0,9 µg/L pour le paramètre Chlor othalonil R471811. La concentration du desphénylchloridazone reste inf érieure aux valeurs sanitaires. Cette eau est déconseillée aux populat ions sensibles (femmes enceintes, nourrissons) pour des usages aliment aires. Un contrôle renforcé est mis en place.",C,N,C,C
+02013,00200206087,2025-10-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02802,00200206082,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02678,00200206078,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02433,00200206079,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02069,00200206081,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02519,00200206168,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02502,00200206330,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02185,00200206069,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02512,00200206074,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02061,00200206065,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02125,00200206075,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02339,00200206071,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02112,00200206057,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02521,00200206070,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02095,00200206066,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02241,00200206072,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02356,00200206073,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02563,00200206184,2025-10-08,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02279,00200206429,2025-10-08,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02363,00200206268,2025-10-07,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02527,00200206269,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02793,00200206047,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02277,00200206048,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02398,00200206052,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02739,00200206054,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02553,00200206051,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02400,00200206053,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02010,00200206055,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02184,00200206001,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02450,00200205988,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02757,00200206004,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02783,00200205999,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02403,00200206183,2025-10-03,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone, méthyl-desphénylchloridazone et et les nitrates et présentant des dépassements de la valeur indicativ e de 0,9 µg/L pour le paramètre Chlorothalonil R471811. La concentrati on des paramètres desphénylchloridazone et méthyl-desphénylchloridazon e reste inférieure aux valeurs sanitaires. Cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usa ges alimentaires. Un contrôle renforcé est mis en place.",S,N,S,C
+02480,00200206000,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02517,00200206189,2025-10-03,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone, méthyl-desphénylchloridazone et non satisfaisante aux références de qualité pour le caractère de l'ea u, l’eau étant notée comme agressive.  La concentration des pesticides concernés reste inférieure aux valeurs sanitaires. Présence de perchl orates >4 μg/l et <15μg/l. Cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires . Un contrôle renforcé est mis en place.",C,N,C,N
+02665,00200205998,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02090,00200206005,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02015,00200205997,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02192,00200205992,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02387,00200206198,2025-10-02,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02233,00200205995,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02082,00200206007,2025-10-02,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02004,00200205989,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02189,00200206096,2025-10-01,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Les concentrations des pesticides concernés restent inférieures aux v aleurs sanitaires. Présence de perchlorates >15 µg/l, la consommation de l'eau est déconseillée aux nourrissons de moins de 6 mois etaux fem mes enceintes et allaitantes. Un contrôle renforcé est mis en place su r ces paramètres.",C,N,C,C
+02705,00200205996,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02133,00200206003,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02409,00200206008,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02534,00200205971,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02431,00200206217,2025-09-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02106,00200205973,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02797,00200205970,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02639,00200206037,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02224,00200205964,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02007,00200205981,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02215,00200205984,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02066,00200206219,2025-09-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et chlorothalonil R417888 et pré sentant des dépassements de la valeur indicative de 0,9 µg/L pour le p aramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphénylchlo ridazone et chlorothalonil R417888 reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02287,00200206276,2025-09-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02399,00200205976,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02263,00200205975,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02572,00200205986,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02124,00200205982,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02005,00200205977,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02560,00200205961,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02559,00200205957,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02591,00200205958,2025-09-29,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02096,00200205944,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02169,00200205959,2025-09-29,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02827,00200205954,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02118,00200206222,2025-09-26,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02198,00200205908,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02829,00200205909,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02423,00200206210,2025-09-26,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02395,00200205942,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02747,00200205894,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02390,00200206224,2025-09-26,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone, méthyl-desphénylchloridazone et les nitrates. La concentration des paramètres desphénylchloridazone e t méthyl-desphénylchloridazone reste inférieure aux valeurs sanitaires . Cette eau est déconseillée aux populations sensibles (femmes enceint es, nourrissons) pour des usages alimentaires. Un contrôle renforcé es t mis en place.",C,N,C,C
+02573,00200206223,2025-09-25,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02006,00200206111,2025-09-25,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone, méthyl-desphénylchloridazone e t à la référence de qualité pour le caractère de l'eau, à savoir incru stante, et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811.  Toutefois, cette eau e st propre à la consommation humaine car la concentration des paramètre s desphénylchloridazone et méthyl-desphénylchloridazone reste inférieu re aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,N
+02609,00200205900,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02033,00200205897,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02582,00200205902,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02471,00200205892,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02235,00200205898,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02578,00200205899,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02294,00200205896,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02310,00200206043,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02191,00200206038,2025-09-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02694,00200206042,2025-09-22,"Eau d’alimentation conforme aux limites de qualité en vigueur. Présenc e de perchlorates >4 μg/l et <15μg/l, la consommation de l'eau est déc onseillée aux nourrissons de moins de 6 mois. Un contrôle renforcé est mis en place sur ce paramètre.",C,C,C,C
+02604,00200206108,2025-09-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02570,00200205891,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02019,00200205890,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02315,00200205945,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02199,00200206116,2025-09-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre chlorothalonil R417888 et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R47 1811. Toutefois, cette eau est propre à la consommation humaine car la concentration du paramètre chlorothalonil R417888 reste inférieure au x valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02367,00200206099,2025-09-22,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02626,00200206039,2025-09-19,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02743,00200206026,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02257,00200205860,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02097,00200205841,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02322,00200205931,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02440,00200205827,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02293,00200205837,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02454,00200206103,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02142,00200205857,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02355,00200205847,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02615,00200205848,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02265,00200205852,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02204,00200205851,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02160,00200205836,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02641,00200205845,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02526,00200205853,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02477,00200205825,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02267,00200205820,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02667,00200205819,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02260,00200205806,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02059,00200205790,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02422,00200205817,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02820,00200205802,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02791,00200205920,2025-09-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471 811. Toutefois, cette eau est propre à la consommation humaine car la concentration du desphénylchloridazone reste inférieure aux valeurs sa nitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02824,00200205921,2025-09-15,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents, présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811.  Tout efois, cette eau est propre à la consommation humaine car la concentra tion des pesticides concernés reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02779,00200205798,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02282,00200205788,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02488,00200205799,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02830,00200205797,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02031,00200206034,2025-09-12,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471 811. Toutefois, cette eau est propre à la consommation humaine car la concentration du desphénylchloridazone reste inférieure aux valeurs sa nitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02055,00200205753,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02470,00200205752,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02831,00200205751,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02065,00200206035,2025-09-12,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02392,00200205759,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02374,00200205755,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02291,00200205768,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02808,00200205767,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02376,00200205887,2025-09-11,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02404,00200205758,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02507,00200205761,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02579,00200205914,2025-09-09,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02724,00200205743,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02047,00200205739,2025-09-09,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Présence de perchlorates >15 µg/l. Cette e au est déconseillée aux populations sensibles (femmes enceintes, nourr issons) pour des usages alimentaires.",C,N,C,C
+02203,00200205725,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02239,00200205727,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02389,00200205729,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02748,00200205728,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02383,00200205732,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02197,00200205662,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02324,00200205663,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02584,00200205664,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02495,00200205661,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02318,00200205780,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02767,00200205707,2025-08-29,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02736,00200205568,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02253,00200205594,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02254,00200205577,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02795,00200205602,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02288,00200205584,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02459,00200205706,2025-08-28,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la concentration du pesticide concerné re ste inférieure à la valeur sanitaire. Un contrôle renforcé est mis en place.",C,N,C,C
+02718,00200205776,2025-08-27,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02139,00200205567,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02456,00200205566,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02631,00200205565,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02232,00200205700,2025-08-27,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone. Toutefois, cette eau est propre à la consommation humaine car la conc entration des pesticides concernés reste inférieure aux valeurs sanita ires. Un contrôle renforcé est mis en place.",C,N,C,C
+02599,00200205569,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02786,00200205570,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02522,00200205558,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02593,00200205606,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02347,00200205512,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02792,00200205526,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02465,00200205527,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02221,00200205528,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02330,00200205507,2025-08-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02569,00200205464,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02366,00200205471,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02455,00200205533,2025-08-11,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents, non satisfaisante à la référence de quali té pour le chlore libre et présentant des dépassements de la valeur in dicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Toutefo is, cette eau est propre à la consommation humaine car la concentratio n des métabolites pertinents reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,C
+02379,00200205428,2025-08-07,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02491,00200205418,2025-08-07,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre nitrates. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée aux populations sensibles (femmes enceintes, nourrissons) pour des usages alimentaires.",C,N,C,C
+02813,00200205426,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02498,00200205474,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02444,00200205370,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02657,00200205372,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02742,00200205361,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02194,00200205369,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02545,00200205364,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02606,00200205491,2025-07-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",S,N,S,C
+02585,00200205490,2025-07-30,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",S,N,S,C
+02236,00200205360,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02616,00200205359,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02778,00200205342,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02751,00200205336,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02205,00200205335,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02158,00200205338,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02121,00200205280,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02119,00200205439,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02682,00200205267,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02255,00200205351,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02087,00200205258,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02537,00200205285,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02008,00200205246,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02484,00200205156,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02677,00200205155,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02151,00200205162,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02638,00200205160,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02478,00200205159,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02489,00200205165,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02170,00200205174,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02721,00200205173,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02636,00200205137,2025-07-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02745,00200205135,2025-07-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02709,00200205098,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02538,00200205065,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02580,00200205068,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02803,00200205101,2025-07-10,"Eau d'alimentation conforme aux limites de qualité en vigueur mais non satisfaisante aux références de qualité pour le paramètre bactéries coliformes. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,N,C
+02655,00200205067,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02809,00200205066,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02183,00200205060,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02703,00200205292,2025-07-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les métabolites pertinents et présentant des dépassements de la valeu r indicative de 0,9 µg/L pour le paramètre Chlorothalonil R471811. Tou tefois, cette eau est propre à la consommation humaine car la concentr ation des métabolites pertinents reste inférieure aux valeurs sanitair es. Un contrôle renforcé est mis en place.",C,N,C,C
+02511,00200205290,2025-07-10,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et  non satisfaisante à la référence de qualité pour le caractère de l 'eau, l’eau étant notée comme incrustante. Il est demandé de remédier à la situation de non-conformité constatée. Toutefois, cette eau est p ropre à la consommation humaine car la concentration des pesticides co ncernés reste inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en place.",C,N,C,N
+02358,00200205202,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02138,00200205204,2025-07-04,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811. Toutefois, cette eau est propre à la consommation humaine car la concentration des paramètres desphén ylchloridazone et méthyl-desphénylchloridazone reste inférieure aux va leurs sanitaires. Un contrôle renforcé est mis en place.",S,N,S,C
+02012,00200205203,2025-07-04,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour les paramètres desphénylchloridazone et méthyl-desphénylchloridazone et présentant des dépassements de la valeur indicative de 0,9 µg/L pou r le paramètre Chlorothalonil R471811 et non satisfaisante à la référe nce de qualité pour le paramètre Carbone Organique Total. Toutefois, c ette eau est propre à la consommation humaine car la concentration des paramètres desphénylchloridazone et méthyl-desphénylchloridazone rest e inférieure aux valeurs sanitaires. Un contrôle renforcé est mis en p lace.",C,N,C,N
+02165,00200204961,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02350,00200204967,2025-07-02,"Eau d’alimentation conforme aux limites de qualité en vigueur mais non satisfaisante à la référence de qualité pour le paramètre turbidité. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,C,N
+02200,00200204965,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02513,00200204966,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02801,00200204929,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02535,00200204928,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02369,00200204930,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02136,00200204931,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02663,00200204854,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02447,00200204853,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02152,00200204860,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02343,00200204886,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02432,00200204890,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02270,00200204885,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02273,00200204865,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02427,00200204868,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02129,00200204867,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02482,00200204881,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02214,00200204861,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02710,00200204864,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02656,00200204882,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02104,00200204883,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02592,00200204841,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02605,00200204987,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02467,00200204837,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02557,00200204852,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02662,00200204836,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02306,00200204844,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02222,00200204829,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02219,00200204831,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02043,00200204817,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02562,00200204818,2025-06-23,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre fluor. Il est demandé de remédier à la situation de non- conformité constatée. En attendant, il convient de prévenir les popula tions sensibles(nourrissons et enfants) de ne pas utiliser cette eau p our des usages alimentaire.",C,N,C,C
+02762,00200204921,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02443,00200204706,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02137,00200204707,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02297,00200204708,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02509,00200204713,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02225,00200204705,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02076,00200204723,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02188,00200204678,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02269,00200204681,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02088,00200204661,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02680,00200204663,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02309,00200204660,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02049,00200204662,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02558,00200204680,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02349,00200204757,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02081,00200204657,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02542,00200204665,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02042,00200204733,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02487,00200204645,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02654,00200204612,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02313,00200204583,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02261,00200204617,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02290,00200204592,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02625,00200204600,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02228,00200204536,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02166,00200204537,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02649,00200204539,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02127,00200204542,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02806,00200204540,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02351,00200204541,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02181,00200204528,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02819,00200204478,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02652,00200204503,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02799,00200204499,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02651,00200204494,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02635,00200204390,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02485,00200204402,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02614,00200204394,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02514,00200204387,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02144,00200204395,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02216,00200204403,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02727,00200204365,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02547,00200204363,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02182,00200204362,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02688,00200204364,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02550,00200204348,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02135,00200204360,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02661,00200204358,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02155,00200204359,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02490,00200204357,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02323,00200204334,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02308,00200204323,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02647,00200204315,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02187,00200204307,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02645,00200204309,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02213,00200204310,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02784,00200204316,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02114,00200204372,2025-05-16,"Eau d’alimentation non conforme aux limites de qualité en vigueur pour le paramètre plomb. Cette teneur en plomb n’est représentative que pour le point d’utilisation d’eau concerné et non pour l’ensemble du réseau de distribution. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, cette eau est déconseillée dans le bâtiment concerné pour des usages alimentaires sans avoir réalisé un écoulement au préalable.",S,C,S,C
+02126,00200204285,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02038,00200204297,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02642,00200204298,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02391,00200204286,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02256,00200204287,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02229,00200204196,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02445,00200204184,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02275,00200204183,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02278,00200204185,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02650,00200204124,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02594,00200204100,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02798,00200203888,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02103,00200203868,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02664,00200203886,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02289,00200203885,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02223,00200203887,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02209,00200203863,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02041,00200203818,2025-04-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02671,00200203902,2025-04-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02085,00200203794,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02105,00200203801,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02375,00200203793,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02752,00200203804,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02117,00200203809,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02794,00200203772,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02595,00200203762,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02079,00200203745,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02164,00200203763,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02435,00200203767,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02227,00200203770,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02712,00200203771,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02765,00200203632,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02333,00200203636,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02834,00200203633,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02052,00200203649,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02132,00200203661,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02084,00200203626,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02506,00200203613,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02201,00200203612,2025-03-31,"Eau d'alimentation conforme aux limites de qualité en vigueur mais non satisfaisante aux références de qualité pour le paramètre bactéries coliformes. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,N,C
+02568,00200203678,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02531,00200203544,2025-03-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02249,00200203582,2025-03-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre conductivité.,C,C,C,N
+02612,00200203536,2025-03-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02176,00200203581,2025-03-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02274,00200203534,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02448,00200203548,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02770,00200203605,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02754,00200203521,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02207,00200203522,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02575,00200203472,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02075,00200203455,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02002,00200203457,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02234,00200203470,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02208,00200203425,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02453,00200203474,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02058,00200203426,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02588,00200203469,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02024,00200203471,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02764,00200203468,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02396,00200203467,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02211,00200203434,2025-03-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02143,00200203389,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02683,00200203392,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02760,00200203393,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02035,00200203301,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02629,00200203300,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02027,00200203298,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02003,00200203304,2025-03-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre conductivité.,C,C,C,N
+02190,00200203311,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02763,00200203315,2025-03-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre conductivité.,C,C,C,N
+02548,00200203280,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02067,00200203279,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02337,00200203278,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02740,00200203195,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02384,00200203180,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02357,00200203194,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02833,00200203187,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02405,00200203185,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02411,00200203172,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02679,00200203168,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02622,00200203170,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02428,00200203169,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02098,00200203083,2025-02-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02515,00200203085,2025-02-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02146,00200203084,2025-02-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02099,00200203220,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02016,00200203077,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02262,00200203076,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02451,00200203165,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02034,00200203008,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02441,00200203002,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02156,00200203004,2025-02-19,"Eau d'alimentation conforme aux limites de qualité en vigueur mais non satisfaisante aux références de qualité pour le paramètre bactéries coliformes. Il est demandé de remédier à la situation de non-conformité constatée. En attendant, l'eau reste consommable.",C,C,N,C
+02048,00200202970,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02332,00200202966,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02713,00200202965,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02393,00200202961,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02108,00200202968,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02429,00200202969,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02446,00200202940,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02460,00200202945,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02516,00200202959,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02083,00200202944,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02536,00200202909,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02154,00200202888,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02172,00200202889,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02693,00200202886,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02050,00200202958,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02469,00200202884,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02472,00200202818,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02218,00200202819,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02782,00200202862,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02063,00200202809,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02385,00200202794,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02068,00200202796,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02826,00200202801,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02681,00200202795,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02402,00200202784,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02029,00200202783,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02407,00200202851,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02130,00200202735,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02567,00200202734,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02503,00200202706,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02741,00200202707,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02419,00200202688,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02040,00200202687,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02425,00200202672,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02020,00200202671,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02122,00200202625,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02329,00200202626,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02094,00200202614,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02281,00200202645,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+02590,00200202638,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02510,00200202616,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02051,00200202620,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02716,00200202601,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02014,00200202598,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02246,00200202597,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02726,00200202600,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02025,00200202599,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02607,00200202595,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02320,00200202593,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02496,00200202566,2025-01-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02023,00200202567,2025-01-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02699,00200202543,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02268,00200202542,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02062,00200202539,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02335,00200202527,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02674,00200202477,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02044,00200202478,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02280,00200202484,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02781,00200202480,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02162,00200202486,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02251,00200202475,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02388,00200202476,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02354,00200202460,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02634,00200202473,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02021,00200202474,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+02530,00200202495,2025-01-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C

@@ -1,0 +1,321 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+47183,04700086131,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47184,04700086132,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47241,04700086133,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47300,04700086201,2025-12-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+47186,04700086117,2025-12-29,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47090,04700086145,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47238,04700086170,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47016,04700086146,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47282,04700086173,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47145,04700086182,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47201,04700086206,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47001,04700086166,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47031,04700086167,2025-12-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité en raison d'un dépassement pour le paramètre am monium. Le recontrôle réalisé par l'exploitant le 29/12/2025 s'est avé ré conforme.,C,C,C,N
+47128,04700086168,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47293,04700086169,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47004,04700086176,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47250,04700086128,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47143,04700086279,2025-12-23,"Le dépassement de la limite de qualité de 0,1 µg/l observé précédemmen t pour le paramètre Chloridazone Desphényl est confirmé.Il est demandé à la PRPDE d'avertir la population concernée et de prendre les mesure s nécessaires pour rétablir la qualité de l'eau. Le contrôle renforcé est maintenu.",S,N,S,C
+47317,04700086179,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47216,04700086139,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47301,04700086138,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47168,04700086137,2025-12-22,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47018,04700086198,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47278,04700086136,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47271,04700086197,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47157,04700086276,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47326,04700086223,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47110,04700086199,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47310,04700086140,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47272,04700086130,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47027,04700086163,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+24572,04700086204,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47123,04700086203,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47029,04700086113,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47178,04700085949,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47242,04700086112,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47109,04700086114,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47202,04700086205,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47106,04700086109,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47185,04700086174,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47072,04700086129,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47209,04700086165,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47138,04700086135,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47228,04700086196,2025-12-17,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47117,04700086134,2025-12-17,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. En effet, un dépassement est observé pour le p aramètre fer total.  L’exploitant mène actuellement des investigations pour en identifier l’origine. Il devra transmettre à l’ARS les résult ats de ses contrôles afin de vérifier l’efficacité de ses actions.",C,C,C,N
+47030,04700086110,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47062,04700086195,2025-12-17,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47087,04700086111,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47113,04700086180,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47257,04700086126,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47246,04700086144,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47156,04700086216,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47224,04700086127,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47195,04700086207,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47308,04700086124,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47323,04700086155,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47043,04700086218,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47008,04700086123,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47058,04700086214,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47315,04700086125,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47280,04700086154,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47119,04700086122,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47203,04700086222,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47286,04700086108,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47208,04700086211,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47052,04700086107,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47049,04700086152,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47206,04700086208,2025-12-08,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Sur cet échantillon, l'eau se révèle agressive .",C,C,C,N
+47146,04700086151,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47006,04700086120,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47252,04700086153,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47306,04700086121,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47054,04700086141,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47065,04700086215,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47019,04700086164,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47155,04700086200,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47140,04700086103,2025-12-03,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47135,04700086102,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47221,04700086105,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47207,04700086116,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47041,04700085959,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47032,04700085964,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47237,04700085996,2025-11-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,C
+47051,04700086004,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47294,04700085950,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47059,04700085952,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47024,04700085983,2025-11-25,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore largement inférieur à 0.05 mg/l. Il convient donc d'être pa rticulièrement attentif au bon fonctionnement de l'étape de désinfecti on d'autant plus qu'il a été constaté la présence de bactéries aérobie s revivifiables.",C,C,C,C
+47213,04700086021,2025-11-24,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47085,04700085943,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47127,04700086018,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47038,04700085955,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47120,04700086099,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47034,04700085994,2025-11-17,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47227,04700085946,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47254,04700085933,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47136,04700086094,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47012,04700085932,2025-11-17,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore largement inférieur à 0.05 mg/l. Il convient donc d'être pa rticulièrement attentif au bon fonctionnement de l'étape de désinfecti on d'autant plus qu'il a été constaté la présence de bactéries aérobie s revivifiables.",C,C,C,C
+47014,04700086096,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47118,04700086000,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47040,04700085966,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47225,04700085967,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47137,04700085989,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47133,04700085958,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47101,04700085998,2025-11-12,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47046,04700085962,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47175,04700086033,2025-11-10,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Sur cet échantillon, l'eau se révèle incrustan te.",C,C,C,N
+47048,04700085978,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47259,04700085980,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47314,04700085991,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47100,04700085970,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47103,04700085984,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47021,04700085936,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47267,04700085947,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47005,04700086013,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47164,04700085941,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47290,04700085940,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47035,04700085939,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47188,04700085979,2025-11-04,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47283,04700085935,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47312,04700085944,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47171,04700085954,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47017,04700085990,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47162,04700086030,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47318,04700085960,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47217,04700085929,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47274,04700085930,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47279,04700085968,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47299,04700085732,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47235,04700085828,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47196,04700085736,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47066,04700085751,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47068,04700085742,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47222,04700085786,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47013,04700085741,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47037,04700085735,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47061,04700085729,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47130,04700085822,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47292,04700085725,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47077,04700085724,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47325,04700085795,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47036,04700085726,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47078,04700085743,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47064,04700085739,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47105,04700085752,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47305,04700085721,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47067,04700085783,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47047,04700085792,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47295,04700085811,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47291,04700085773,2025-10-07,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47023,04700085772,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47071,04700085796,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47321,04700085748,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47215,04700085753,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47180,04700085755,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47169,04700085764,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47095,04700085730,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47304,04700085745,2025-10-02,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47263,04700085776,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47131,04700085775,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47015,04700085762,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47197,04700085778,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47167,04700085777,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47327,04700085757,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47039,04700085737,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47007,04700085723,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47081,04700085511,2025-09-29,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47070,04700085717,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47289,04700085485,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47026,04700085487,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47148,04700085488,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47060,04700085523,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47092,04700085524,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47158,04700085547,2025-09-10,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47176,04700085517,2025-09-10,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre égal à 0,05 mg/l. Il convient donc d'être particulièr ement attentif au bon fonctionnement de l'étape de désinfection d'auta nt plus qu'il a été constaté la présence de bactéries aérobies revivif iables.",C,C,C,C
+47057,04700085498,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47083,04700085551,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47122,04700085506,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47002,04700085505,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47223,04700085500,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47088,04700085509,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47230,04700085507,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47179,04700085492,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47264,04700085560,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47226,04700085499,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47115,04700085503,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47253,04700085496,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47233,04700085539,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47079,04700085548,2025-09-04,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47102,04700085567,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47134,04700085540,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47069,04700085526,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47210,04700085553,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47129,04700085513,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47247,04700085508,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47056,04700085510,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47172,04700085149,2025-08-28,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47269,04700085119,2025-08-28,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47191,04700085138,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47099,04700085161,2025-08-26,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47107,04700085147,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47296,04700085162,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47044,04700085133,2025-08-20,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47132,04700085130,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47174,04700085163,2025-08-19,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47302,04700085164,2025-08-19,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47284,04700085124,2025-08-13,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47187,04700085175,2025-08-11,"Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité . En effet, une non-conformité aux limites de qualité a été constatée pour le paramètre chlorure de vinyl e monomère (CVM) sur un tronçon spécifique du réseau.La collectivité e st actuellement engagée dans des actions correctives afin de rétablir une qualité conforme sur ce tronçon. Un suivi renforcé est mis en plac e jusqu’au retour à la conformité.",C,N,C,C
+47194,04700085131,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47199,04700085143,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47025,04700085454,2025-08-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+47248,04700084743,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47198,04700084808,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47091,04700084774,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47297,04700084762,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47328,04700084747,2025-07-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+47249,04700084765,2025-07-10,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47173,04700084785,2025-07-08,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47229,04700085072,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47003,04700084750,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47080,04700084753,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47028,04700085074,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47074,04700084756,2025-07-02,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47309,04700084760,2025-07-02,Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. A noter une température élevée de l'eau nécessitant une attention particulière vis à vis du traitement de désinfection.,C,C,C,N
+47093,04700084757,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47097,04700084767,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47112,04700084538,2025-06-18,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre égal à 0,05 mg/l. Il convient donc d'être particulièr ement attentif au bon fonctionnement de l'étape de désinfection d'auta nt plus qu'il a été constaté la présence de bactéries aérobies revivif iables.",C,C,C,C
+47275,04700084550,2025-06-17,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47114,04700084523,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47212,04700084539,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47076,04700084558,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47170,04700084569,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47063,04700084533,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47200,04700084534,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47124,04700084525,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47231,04700084548,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47204,04700084532,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47307,04700084524,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47045,04700084359,2025-05-27,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés. Toutefois, les mesures terrains ont révélé un taux de chlore libre inférieur à 0,05 mg/l. Il convient donc d'être partic ulièrement attentif au bon fonctionnement de l'étape de désinfection d 'autant plus qu'il a été constaté la présence de bactéries aérobies re vivifiables.",C,C,C,C
+47324,04700084370,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47256,04700084327,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47320,04700084319,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47288,04700084317,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47010,04700084329,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47260,04700084316,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47159,04700084343,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47160,04700084321,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47075,04700084335,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47182,04700084357,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47232,04700084331,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47142,04700084325,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47245,04700084334,2025-05-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité par la présence de colonies de bactéries colifo rmes. Le faible nombre de colonies de coliformes ne présente pas de ri sque sanitaire. Il n'est donc pas nécessaire de réaliser un prélèvemen t de recontrôle.,C,C,N,C
+47218,04700084326,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47311,04700084237,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47111,04700084254,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47098,04700084274,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47287,04700084257,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47151,04700084246,2025-04-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47089,04700084245,2025-04-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47152,04700084270,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47033,04700084269,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47181,04700084190,2025-04-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,C
+47050,04700084252,2025-04-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47276,04700084251,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47190,04700084250,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47139,04700084275,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47258,04700084277,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47214,04700084187,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47313,04700084243,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47262,04700084262,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47319,04700084028,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47144,04700083986,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47303,04700083993,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47055,04700084026,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47265,04700084051,2025-03-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité par la présence de colonies de bactéries colifo rmes. Le faible nombre de colonies de coliformes ne présente pas de ri sque sanitaire. Il n'est donc pas nécessaire de réaliser un prélèvemen t de recontrôle.,C,C,N,C
+47220,04700084009,2025-03-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47121,04700083978,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47094,04700083992,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47053,04700083997,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47126,04700083995,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47163,04700083996,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47277,04700084045,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47240,04700083989,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47082,04700084144,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47255,04700083975,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47281,04700083976,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47251,04700083879,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47161,04700083887,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47234,04700083858,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47177,04700083892,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47316,04700083881,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47189,04700083882,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47211,04700083912,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47244,04700083860,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47239,04700083954,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47193,04700083902,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47084,04700083869,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47096,04700083871,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47154,04700083922,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47141,04700083921,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47104,04700083886,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47147,04700083885,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47073,04700083925,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47020,04700083884,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47236,04700083927,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47165,04700083877,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47108,04700083876,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47298,04700083654,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47150,04700083696,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47285,04700083638,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47011,04700083636,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47125,04700083649,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47205,04700083693,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+47022,04700083648,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47042,04700083672,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47192,04700083674,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47219,04700083616,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47086,04700083642,2025-01-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47009,04700083679,2025-01-13,"Eau d'alimentation conforme aux normes en vigueur pour l'ensemble des paramètres mesurés, toutefois il est constaté la présence de bactéries aérobies revivifiables.",C,C,C,C
+47273,04700083690,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+47266,04700083681,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

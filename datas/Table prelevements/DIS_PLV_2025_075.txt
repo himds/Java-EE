@@ -1,0 +1,4 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+75056,07500214322,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+92064,07500213600,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+94038,07500213596,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

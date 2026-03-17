@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Carte embarquée</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="embed-body">
+  <div class="app-shell">
+    <main class="map-stage">
+      <div id="map"></div>
+      <div class="top-controls">
+        <button type="button" id="fullscreen-btn" class="control-chip" title="Plein écran" aria-label="Plein écran">⛶</button>
+        <div class="control-chip">
+          <label for="year-filter">Année</label>
+          <select id="year-filter">
+            <option value="latest">Dernière analyse</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+          </select>
+        </div>
+        <div class="control-chip">
+          <label for="category-filter">Polluant</label>
+          <select id="category-filter">
+            <option value="all">Tous polluants</option>
+            <option value="bacterio">Bactériologique</option>
+            <option value="chimique">Chimique</option>
+            <option value="reference">Référence qualité</option>
+          </select>
+        </div>
+        <div class="control-chip">
+          <label for="view-mode">Vue</label>
+          <select id="view-mode">
+            <option value="regions">Départements</option>
+            <option value="communes">Communes (carte)</option>
+            <option value="points">Communes (points)</option>
+          </select>
+        </div>
+        <div class="search-wrap">
+          <input id="search" type="text" placeholder="Nom de commune ou n° département (3 caractères min.)" />
+          <div id="results" class="results"></div>
+        </div>
+      </div>
+      <button id="panel-toggle" class="panel-toggle" type="button" aria-label="Afficher les détails">‹</button>
+      <section class="legend-card" id="legend-card">
+        <button class="legend-header" id="legend-toggle" type="button">
+          <span>Légende — Qualité de l'eau</span>
+          <span id="legend-arrow">▾</span>
+        </button>
+        <div class="legend-body" id="legend-body">
+          <div class="legend-item"><span class="swatch swatch-gray"></span><span>Aucune donnée récente</span></div>
+          <div class="legend-item"><span class="swatch swatch-green"></span><span>Conforme</span></div>
+          <div class="legend-item"><span class="swatch swatch-yellow"></span><span>Surveillance</span></div>
+          <div class="legend-item"><span class="swatch swatch-orange"></span><span>Alerte chimique</span></div>
+          <div class="legend-item"><span class="swatch swatch-red"></span><span>Alerte forte</span></div>
+          <p class="legend-note">La vue « Territoires » agrège plusieurs communes d’un même département pour donner une lecture plus proche d’une zone de desserte que d’un point isolé.</p>
+        </div>
+      </section>
+    </main>
+    <aside class="side-panel" id="side-panel">
+      <div class="side-panel-header">
+        <div>
+          <div class="eyebrow">FICHE D’INFORMATION</div>
+          <h1 id="commune-title">Tous polluants</h1>
+          <div id="status-badge" class="status-badge neutral">En attente</div>
+        </div>
+        <button id="close-panel" class="close-btn" type="button">✕</button>
+      </div>
+      <div class="side-panel-body">
+        <section class="metric-grid" id="metric-grid">
+          <article class="metric-card"><span class="metric-label">Vue</span><strong id="metric-view">Territoires</strong></article>
+          <article class="metric-card"><span class="metric-label">Polluant</span><strong id="metric-pollutant">Tous polluants</strong></article>
+          <article class="metric-card"><span class="metric-label">Année</span><strong id="metric-year">Dernière analyse</strong></article>
+          <article class="metric-card"><span class="metric-label">Échantillons</span><strong id="metric-samples">—</strong></article>
+        </section>
+        <section class="info-card-panel hero-summary">
+          <h2 id="detail-heading">Sélectionne une zone</h2>
+          <p id="commune-meta">Clique sur un territoire ou une commune pour afficher son niveau de qualité, son résumé et le dernier prélèvement disponible.</p>
+        </section>
+        <section class="info-card-panel">
+          <h2>Territoires</h2>
+          <div class="territory-jumps" id="territory-jumps">
+            <button type="button" class="territory-btn" data-territory="metro">Métropole</button>
+            <button type="button" class="territory-btn" data-territory="guadeloupe">Guadeloupe</button>
+            <button type="button" class="territory-btn" data-territory="martinique">Martinique</button>
+            <button type="button" class="territory-btn" data-territory="guyane">Guyane</button>
+            <button type="button" class="territory-btn" data-territory="reunion">La Réunion</button>
+            <button type="button" class="territory-btn" data-territory="mayotte">Mayotte</button>
+          </div>
+        </section>
+        <section class="info-card-panel">
+          <h2>Analyses détaillées</h2>
+          <ul id="analysis-list" class="analysis-list">
+            <li>Pas encore de zone sélectionnée.</li>
+          </ul>
+        </section>
+      </div>
+    </aside>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

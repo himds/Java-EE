@@ -1,0 +1,23 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+97302,97300063472,2025-12-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,S,C,S,N
+97307,97300063447,2025-12-22,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,S,C,S,N
+97310,97300063442,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+97312,97300063493,2025-12-22,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,S,C,S,N
+97313,97300063475,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+97301,97300063481,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97303,97300063436,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+97305,97300063467,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+97308,97300063441,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97311,97300063486,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97353,97300063296,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97304,97300063405,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97358,97300063247,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+97356,97300063241,2025-12-10,Eau respectant les limites de qualité (annexe I-I) contenues dans l'arrêté du 11/01/2007. Les références de qualité (annexe I-II) sont dépassées  pour le paramètre conductivité. L'eau est potable et peut être consommée.,C,C,C,N
+97309,97300063403,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97361,97300063401,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97314,97300063198,2025-12-09,Eau d'alimentation non conforme aux exigences de qualité.,N,C,N,N
+97306,97300063397,2025-12-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97357,97300063190,2025-11-26,"Eau respectant les limites de qualité (annexe I-I) contenues dans l'arrêté du 11/01/2007. Les références de qualité (annexe I-II) sont dépassées  pour les paramètre Turbidité et Aluminium Total. La présence excessive d’aluminium peut être le signe d’un dysfonctionn ement du traitement de l’eau (coagulation/floculation) et peut altérer les caractéristiques organoleptiques de l’eau (goût, couleur, dépôt).",C,C,C,N
+97352,97300063166,2025-11-12,Eau d'alimentation non conforme aux limites et références de qualité.,N,C,N,N
+97360,97300063218,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+97362,97300062972,2025-10-01,Eau respectant les limites de qualité (annexe I-I) contenues dans l'arrêté du 11/01/2007. Les références de qualité (annexe I-II) sont dépassées  pour le paramètre conductivité. L'eau est potable et peut être consommée.,C,C,C,N

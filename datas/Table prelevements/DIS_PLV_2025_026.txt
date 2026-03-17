@@ -1,0 +1,357 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+26300,02600177341,2025-12-30,"Eau NON CONFORME à la norme ""Distribution"", en Bactériologie. Les mesures de correction nécessaires ont été préconisées au gestionnaire du réseau. Cf. bulletin d'alerte du 5/01. Un nouveau prélèvement sera réalisé après leur mise en œuvre.",N,C,N,C
+26253,02600177333,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26076,02600177280,2025-12-30,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26136,02600177293,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26181,02600178062,2025-12-29,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26362,02600177447,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26057,02600177273,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26204,02600178061,2025-12-23,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26086,02600177765,2025-12-23,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26069,02600177462,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26281,02600177456,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26020,02600177764,2025-12-22,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26272,02600177449,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26191,02600176588,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26198,02600177415,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26227,02600178060,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26058,02600177502,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26212,02600177754,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26153,02600177299,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26189,02600177381,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26163,02600177406,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26292,02600177340,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26303,02600177497,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26208,02600177537,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+26370,02600177360,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26267,02600177336,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26168,02600177760,2025-12-18,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau ont été préconisées ainsi que la recherche des causes possibles d'altération d e la qualité de l'eau. Cf Alerte du 22/12/25. Un prélèvement de vérifi cation sera réalisé prochainement.",C,C,N,C
+26218,02600177422,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26269,02600177337,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26282,02600177338,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26306,02600177346,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26113,02600177399,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26175,02600177309,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26046,02600177465,2025-12-18,"Eau NON CONFORME à la norme ""Distribution"", en Bactériologie. Les mesures de correction nécessaires ont été préconisées au gestionnaire du réseau. Cf. bulletin d'alerte du 22/12/2025. Un nouveau prélèvement sera réalisé après leur mise en œuvre.",N,C,N,C
+26308,02600177458,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26091,02600177300,2025-12-17,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26190,02600177320,2025-12-17,"Eau NON CONFORME à la norme ""Distribution"" en Bactériologie. Une désin fection ponctuelle du réseau a été recommandée. CF alerte du 19/12/25. Un prélèvement de vérification sera réalisé prochainement.",N,C,N,C
+26304,02600177344,2025-12-17,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau ont été préconisées ainsi que la recherche des causes possibles d'altération d e la qualité de l'eau. Cf Alerte du 19/12/25. Un prélèvement de vérifi cation sera réalisé prochainement.",C,C,N,C
+26103,02600176606,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26332,02600177437,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26238,02600177468,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre Carbone organique total (C OT).,C,C,C,N
+26288,02600177431,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26333,02600177369,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26325,02600177435,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26213,02600177421,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26155,02600177548,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26084,02600177281,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26235,02600177423,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26145,02600177485,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26073,02600177744,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau. La flore banale est également élevée.",C,C,N,C
+26093,02600177489,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26320,02600177753,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26024,02600177265,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26331,02600177377,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26035,02600177758,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26302,02600177343,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26240,02600177469,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26307,02600177433,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26316,02600177348,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26223,02600177364,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26270,02600177365,2025-12-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26165,02600177408,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26144,02600177507,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26025,02600177266,2025-12-15,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26045,02600177388,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26185,02600177412,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26343,02600177353,2025-12-15,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26251,02600177494,2025-12-15,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26243,02600177756,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+26167,02600177491,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26248,02600177332,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26114,02600177490,2025-12-15,Eau d'alimentation non-conforme à la limite de qualité pour le paramètre Plomb et conforme aux exigences de qualité pour les autres paramètres analysés. Cette analyse n'est représentative que pour ce point de prélèvement. Cf alerte du 18/12/2025. Un recontrôle est programmé sur ce point et un autre point du réseau.,C,N,C,C
+26186,02600177319,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26006,02600177517,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26296,02600177757,2025-12-15,Résultats du recontrôle : Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26036,02600177270,2025-12-15,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26126,02600177289,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26375,02600177362,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26200,02600177321,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26026,02600177363,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26231,02600177329,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26263,02600177335,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26301,02600177496,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26193,02600177380,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26018,02600177262,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26135,02600177404,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26176,02600177508,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26318,02600177750,2025-12-11,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26349,02600177355,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26298,02600177372,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26157,02600177135,2025-12-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,C
+26043,02600177500,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26078,02600177394,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26210,02600177317,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26131,02600177290,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26063,02600177513,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26363,02600177751,2025-12-11,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau. La flore banale est élevée.",C,C,N,C
+26259,02600177427,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26278,02600177738,2025-12-11,Résultats du recontrôle : Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26299,02600177748,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26159,02600177301,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26001,02600177261,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26205,02600177378,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26357,02600177512,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26345,02600177511,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26203,02600177323,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26342,02600177352,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26099,02600177285,2025-12-10,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26326,02600177351,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26146,02600177367,2025-12-10,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26324,02600177536,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26341,02600177371,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26178,02600177521,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26179,02600177310,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26347,02600177480,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26271,02600177477,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26290,02600177452,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26317,02600177349,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26364,02600177357,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26059,02600177392,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26182,02600177410,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26088,02600177375,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26075,02600177277,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26283,02600177749,2025-12-09,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26220,02600177451,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26021,02600177534,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26323,02600177434,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26067,02600177276,2025-12-09,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26137,02600177295,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26117,02600177288,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26215,02600177370,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26016,02600177488,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26056,02600177271,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26104,02600177287,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour les paramètres Turbidité et bactéries coliformes. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.,C,C,N,N
+26315,02600177347,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26101,02600177286,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26264,02600177547,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26322,02600177743,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26118,02600177401,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26330,02600177436,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26064,02600177393,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26252,02600177426,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26169,02600177379,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26143,02600177506,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26005,02600177383,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26148,02600177405,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26339,02600177438,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26083,02600177484,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26037,02600177385,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26313,02600177498,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26124,02600177402,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26125,02600177403,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26019,02600177464,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26027,02600177267,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26108,02600177398,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26368,02600177358,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26289,02600177339,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26098,02600177284,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26087,02600177551,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26141,02600177297,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26232,02600177476,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26268,02600177549,2025-12-04,Eau d'alimentation conforme aux limites de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+26081,02600177396,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26166,02600177409,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26079,02600177395,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26206,02600177420,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26382,02600177443,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26276,02600177495,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26042,02600177387,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26049,02600177389,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26202,02600177419,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26373,02600177499,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26065,02600177692,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+26023,02600177264,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26149,02600177368,2025-12-04,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26034,02600177268,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26092,02600177283,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26177,02600177522,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26085,02600177467,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26352,02600177482,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité pour le paramètre Carbone Organique Total.,C,C,C,N
+26116,02600177400,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26261,02600177334,2025-12-02,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26348,02600177354,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26052,02600177475,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26195,02600177382,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26062,02600177735,2025-12-01,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26183,02600177411,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26234,02600177736,2025-12-01,"Eau CONFORME à la norme ""DISTRIBUTION"" pour les paramètres mesurés. La flore banale est cependant élevée. Un entretien préventif du réseau, purge et désinfection ponctuelle, est recommandé.",C,C,C,C
+26328,02600177737,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26011,02600177454,2025-12-01,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26015,02600177463,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26094,02600177505,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26247,02600177331,2025-12-01,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26041,02600177386,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26010,02600177384,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26055,02600177699,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26133,02600177130,2025-11-28,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité pour le paramètre turbidité.,C,C,C,N
+26360,02600177166,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26367,02600177003,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26022,02600177729,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26111,02600177099,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26351,02600177731,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+26344,02600176968,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité pour le paramètre Carbone Organique Total.,C,C,C,N
+26287,02600177157,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26258,02600177152,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26060,02600177714,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26350,02600177725,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26112,02600177036,2025-11-21,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26138,02600177107,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26244,02600176977,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26329,02600176981,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26032,02600177116,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26254,02600177713,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26119,02600177039,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26160,02600176908,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26162,02600177187,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26346,02600176984,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26188,02600176901,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26161,02600177048,2025-11-19,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26369,02600177090,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26376,02600177091,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26192,02600177705,2025-11-19,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26222,02600177056,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26361,02600176969,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26054,02600177119,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26033,02600176894,2025-11-18,Eau d'alimentation conforme aux limites de qualité en vigueur sauf pou r le paramètre Turbidité.,C,N,C,N
+26106,02600177125,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26201,02600177052,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26279,02600177072,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26128,02600177043,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26154,02600177047,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26335,02600177710,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26221,02600177054,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26174,02600176985,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26359,02600177165,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26090,02600177033,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26080,02600177028,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26246,02600177060,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26122,02600177040,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26051,02600177685,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26250,02600177150,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26266,02600177066,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26008,02600177115,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26139,02600177044,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26017,02600177010,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26216,02600177145,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26321,02600177081,2025-11-12,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26378,02600177092,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26211,02600177053,2025-11-10,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26217,02600177673,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26379,02600177093,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26327,02600176971,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26262,02600177064,2025-11-07,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité pourle paramètre turbidité.,C,C,C,N
+26072,02600177095,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26311,02600177078,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26040,02600176896,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26074,02600177180,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26255,02600177660,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26377,02600177170,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26226,02600177057,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26285,02600176980,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité pour le paramètre Carbone Organique Total.,C,C,C,N
+26239,02600177189,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26127,02600176913,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26236,02600177059,2025-11-06,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26229,02600176897,2025-11-06,Eau d'alimentation conforme aux limites de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+26007,02600177114,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26152,02600177046,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26293,02600176997,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26196,02600177137,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26115,02600177128,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26197,02600177138,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26273,02600177068,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26129,02600176904,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26170,02600177136,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26284,02600177665,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26030,02600176683,2025-10-27,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26003,02600176677,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26294,02600176743,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26105,02600177618,2025-10-17,Résultats du recontrôle : Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26353,02600176662,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26089,02600177612,2025-10-17,Résultats du recontrôle : Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26123,02600177631,2025-10-16,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26314,02600176644,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26337,02600176664,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26002,02600176593,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26228,02600176553,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26277,02600176741,2025-10-15,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26340,02600176756,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26372,02600176763,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26365,02600176656,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26374,02600176765,2025-10-13,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26070,02600176699,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26312,02600176643,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26257,02600176634,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26309,02600176748,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26066,02600176602,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26039,02600176688,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26014,02600176578,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26130,02600176613,2025-10-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre Turbidité.,C,C,C,N
+26050,02600176775,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26038,02600176579,2025-10-03,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26142,02600176505,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26356,02600175449,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26336,02600175580,2025-09-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité pour le paramètre COT.,C,C,C,N
+26207,02600176071,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26180,02600176245,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26047,02600176090,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26319,02600176142,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26082,02600176183,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26199,02600176113,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26358,02600176228,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26100,02600176187,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26147,02600176006,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26013,02600176084,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26209,02600176119,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26242,02600176021,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26164,02600175945,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26249,02600176210,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26305,02600176218,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26338,02600176224,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26295,02600176217,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26009,02600176172,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26004,02600176171,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26071,02600176069,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26156,02600176154,2025-09-09,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26061,02600176179,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26380,02600175453,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26097,02600175607,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26096,02600175363,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26334,02600175645,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26095,02600175606,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26233,02600175629,2025-08-13,Eau d'alimentation conforme aux limites de qualité en vigueur. La référence de qualité fixée à 25°C pour la température  est dépassée. Ce paramètre n'est représentatif que du lieu de prélèvement.,C,C,C,N
+26173,02600175389,2025-08-12,Eau d'alimentation conforme aux limites de qualité en vigueur. La référence de qualité fixée à 25°C pour la température  est dépassée. Ce paramètre n'est représentatif que du lieu de prélèvement.,C,C,C,N
+26107,02600175534,2025-08-11,Eau d'alimentation conforme aux limites de qualité en vigueur. La réfé rence de qualité fixée à 25°C pour la température  est dépassée. Ce pa ramètre n'est représentatif que du lieu de prélèvement.,C,C,C,N
+26225,02600175402,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26214,02600175801,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26121,02600174789,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26110,02600175782,2025-07-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26031,02600174773,2025-07-23,Eau d'alimentation conforme aux limites de qualité en vigueur. La référence de qualité fixée à 25°C pour la température  est dépassée. Ce paramètre n'est représentatif que du lieu de prélèvement.,C,C,C,N
+26224,02600174931,2025-07-18,Eau d'alimentation conforme aux limites de qualité en vigueur. La réfé rence de qualité fixée à 25°C pour la température  est dépassée. Ce pa ramètre n'est représentatif que du lieu de prélèvement.,C,C,C,N
+26291,02600174820,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26275,02600174816,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26068,02600174201,2025-06-27,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la qualité bactérienne de l'eau n'entraine pas la non conformité du prélèvement, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont recommandés ainsi que la recherche des causes possibles d'altération de la qualité de l'eau.",C,C,N,C
+26241,02600174265,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26381,02600174255,2025-06-05,"Eau CONFORME à la norme ""Distribution"" pour les paramètres mesurés. La présence de coliformes sans autres indices de dégradation de la quali té bactérienne de l'eau n'entraine pas la non-conformité du prélèvemen t, bien que la Référence Qualité pour ce paramètre soit fixée à 0. Un entretien des ouvrages et une chloration préventive du réseau sont rec ommandés ainsi que la recherche des causes possibles d'altération de l a qualité de l'eau.",C,C,N,C
+26102,02600174115,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26134,02600173479,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26048,02600172988,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26077,02600172920,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26171,02600172586,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26194,02600172810,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26028,02600172071,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26256,02600172191,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26355,02600172376,2025-01-27,Résultats du recontrôle : Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26310,02600172001,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+26172,02600171866,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

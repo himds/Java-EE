@@ -1,0 +1,257 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+43113,04300209590,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43115,04300209591,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43144,04300209592,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43162,04300209605,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+43025,04300209607,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+43018,04300209593,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43234,04300209585,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43220,04300209584,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43268,04300209594,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43198,04300209583,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43181,04300209565,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43158,04300209564,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43137,04300209561,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43024,04300209571,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43205,04300209560,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43028,04300209570,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43213,04300209563,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43224,04300209562,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43194,04300209572,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43135,04300209547,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43108,04300209554,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43201,04300209559,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43010,04300209546,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43034,04300209558,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43196,04300209553,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43218,04300209552,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43200,04300209550,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+63412,04300209611,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43204,04300209536,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43197,04300209535,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43257,04300209527,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43056,04300209534,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43038,04300209529,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43236,04300209524,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43256,04300209555,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43121,04300209531,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43151,04300209532,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43129,04300209525,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43033,04300209537,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43159,04300209526,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43132,04300209544,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43040,04300209610,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43253,04300209511,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43051,04300209523,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43130,04300209540,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43152,04300209515,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43216,04300209541,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43199,04300209512,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43007,04300209514,2025-12-08,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie a été avertie le 10/12/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43138,04300209519,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43259,04300209517,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43003,04300209518,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43118,04300209502,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43070,04300209501,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43157,04300209487,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43089,04300209486,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43228,04300209476,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43128,04300209499,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43251,04300209485,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43021,04300209489,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43112,04300209500,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43165,04300209491,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43059,04300209498,2025-12-02,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. L'exploitant et la mairie on été avertis le 04/12/2025 afin de prendre les mesures nécessaires. A noter un pH et une conductivité inférieurs aux références de qualité traduisant un risque de corrosion.,N,C,C,N
+43041,04300209482,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43140,04300209481,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43046,04300209480,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43131,04300209471,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43241,04300209467,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43042,04300209468,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43012,04300209479,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43178,04300209473,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43127,04300209465,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43077,04300209469,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43192,04300209466,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43110,04300209474,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43019,04300209470,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43020,04300209463,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+43206,04300209475,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43111,04300209609,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43265,04300209453,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43174,04300209449,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43150,04300209450,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43045,04300209445,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43244,04300209454,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43210,04300209447,2025-11-25,Prélèvement réalisé suite à la non conformité bactériologique enregistrée sur ce réseau de distribution le 19/11/2025. Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie et l'exploitant ont été avertis le 28/11/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43069,04300209456,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43233,04300209440,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43172,04300209437,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43062,04300209439,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43142,04300209435,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43124,04300209436,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43155,04300209409,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43202,04300209597,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43039,04300209416,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43060,04300209404,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43149,04300209407,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43148,04300209422,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43066,04300209414,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43232,04300209425,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43098,04300209412,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43015,04300209405,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43188,04300209424,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43044,04300209419,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43156,04300209410,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43078,04300209391,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43008,04300209389,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43154,04300209387,2025-11-19,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie a été avertie le 21/11/2025 afin de prendre les mesures nécessaires.,N,C,N,C
+43215,04300209396,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43061,04300209395,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43109,04300209384,2025-11-19,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie a été avertie le 21/11/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43029,04300209364,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43054,04300209358,2025-11-18,Prélèvement réalisé suite à la non conformité bactériologique enregistrée sur ce réseau de distribution le 04/11/2025. EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43104,04300209357,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43036,04300209373,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43239,04300209359,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43002,04300209365,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43136,04300209353,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43187,04300209375,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43080,04300209376,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43160,04300209351,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43049,04300209346,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43164,04300209344,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43005,04300209349,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43035,04300209332,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43082,04300209319,2025-11-12,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. L'exploitant et la mairie on été avertis le 17/11/2025 afin de prendre les mesures nécessaires. A noter un pH et une conductivité inférieurs aux références de qualité traduisant un risque de corrosion.,N,C,N,N
+43065,04300209315,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43102,04300209326,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43177,04300209330,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43133,04300209312,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43153,04300209327,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43083,04300209271,2025-11-05,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. L'exploitant et la mairie on été avertis le 10/11/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,C,N
+43252,04300209262,2025-11-05,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie a été avertie le 07/11/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43163,04300209269,2025-11-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43254,04300209274,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43211,04300209280,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43076,04300209282,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43075,04300209254,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43055,04300209252,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43001,04300209251,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43017,04300209237,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43185,04300209235,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43249,04300209242,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43182,04300209234,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43022,04300209236,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43229,04300209227,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43106,04300209188,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43107,04300209189,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43214,04300209199,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43023,04300209177,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43171,04300209166,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43189,04300209174,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43212,04300209178,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43203,04300209161,2025-10-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43032,04300209155,2025-10-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43145,04300209150,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43230,04300209158,2025-10-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43073,04300209146,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43064,04300209133,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43226,04300209144,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43067,04300209105,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43086,04300209103,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43250,04300209102,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43087,04300209121,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43027,04300209101,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43262,04300209061,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43125,04300209062,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43221,04300209057,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43122,04300209068,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43095,04300209065,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43147,04300209071,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43016,04300209072,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43090,04300209053,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43074,04300209073,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43057,04300209067,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43245,04300209128,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43096,04300209058,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43092,04300209041,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43004,04300209048,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43053,04300209037,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43263,04300209049,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43143,04300209039,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43168,04300209035,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43169,04300209021,2025-10-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+43094,04300209018,2025-10-08,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. La mairie a été avertie le 10/10/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43223,04300208995,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43058,04300208994,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43186,04300208975,2025-10-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43091,04300208974,2025-10-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43101,04300208973,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43009,04300208964,2025-09-29,Prélèvement réalisé suite à forte contamination bactériologique enregistrée sur ce réseau de distrbution le 23/09/2025. Eau non conforme aux limites de qualité bactériologique. Faible résiduel de la contamination bactériologique précédente. L'exploitant et la mairie on été avertis le 01/10/2025 et les mesures nécessaires ont été aussitôt prise par l'exploitant. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion. L'arrêté municipal de restrictions des usages de l'eau pris sur ce réseau de distribution est abrogé.,N,C,N,N
+43167,04300208931,2025-09-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43246,04300208940,2025-09-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+43084,04300208888,2025-09-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43037,04300208893,2025-09-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43114,04300208898,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43126,04300208881,2025-09-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43258,04300208874,2025-09-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43011,04300208854,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43175,04300208855,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43006,04300208859,2025-09-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43139,04300208956,2025-09-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43260,04300208826,2025-09-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+43013,04300208828,2025-09-10,Eau non conforme aux limites de qualité bactériologique. Faible contamination bactériologique de l'eau. L'exploitant et la mairie on été avertis le 12/09/2025 afin de prendre les mesures nécessaires. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,N,C,N,N
+43030,04300208841,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43043,04300208806,2025-09-09,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43097,04300208807,2025-09-09,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter : - la présence d'un seul coliforme total sans enjeu sanitaire; - une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,N,N
+43173,04300208794,2025-09-08,Prélèvement réalisé suite à la non conformité bactériologique importante enregistrée le 02/09/2025 sur ce réseau de distribution. EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter un pH et une conductivité inférieurs aux références de qualité traduisant un risque de corrosion. L'arrêté municipal de restrictions des usages de l'eau du 04 septembre 2025 est abrogé.,C,C,C,N
+43052,04300208798,2025-09-08,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43237,04300208844,2025-09-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+43180,04300208767,2025-09-03,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43184,04300208781,2025-09-02,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43225,04300208753,2025-09-02,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. La seule présence de coliformes totaux doit entraîner une vigilance de l'exploitant au niveau de la distribution. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,N,N
+43100,04300208673,2025-08-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43105,04300208720,2025-08-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43116,04300208671,2025-08-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter un pH et une conductivité inférieurs aux références de qualité traduisant un risque de corrosion.,C,C,C,N
+43183,04300208726,2025-08-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43047,04300208734,2025-08-26,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43119,04300208660,2025-08-26,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43099,04300208642,2025-08-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43264,04300208605,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43079,04300208606,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43141,04300208555,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43190,04300208568,2025-08-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43238,04300208540,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43166,04300208545,2025-08-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+43026,04300208546,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+43088,04300208435,2025-07-29,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43191,04300208436,2025-07-29,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43093,04300208434,2025-07-28,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43227,04300208411,2025-07-22,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43219,04300208346,2025-07-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43267,04300208327,2025-07-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+43208,04300208156,2025-06-30,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43195,04300208127,2025-06-25,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43117,04300208033,2025-06-11,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43247,04300208019,2025-06-10,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43134,04300207988,2025-06-04,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43068,04300207894,2025-05-20,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43103,04300207887,2025-05-20,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43071,04300207850,2025-05-13,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. La présence de bactéries sulfito réductrices et d'une bactèrie coliforme doit entrainer une vigilance de l'exploitant au niveau de la ressource. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,N,N
+43031,04300207802,2025-05-12,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43231,04300207625,2025-04-09,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43207,04300207604,2025-04-08,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43222,04300207561,2025-04-01,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43261,04300207381,2025-03-11,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43120,04300207380,2025-03-11,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43123,04300207379,2025-03-11,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43217,04300207397,2025-03-05,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43240,04300207398,2025-03-05,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter : -  la présence d'un seul coliforme total sans enjeu sanitaire; -  une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,N,N
+43072,04300207240,2025-02-19,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE.,C,C,C,C
+43048,04300207325,2025-02-18,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43050,04300207111,2025-02-04,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43170,04300207047,2025-01-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43014,04300207044,2025-01-27,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43063,04300207023,2025-01-22,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N
+43193,04300206890,2025-01-06,EAU CONFORME AUX NORMES EAUX DE DISTRIBUTION. EAU DE QUALITE SANITAIRE SATISFAISANTE. A noter une conductivité inférieure à la référence de qualité traduisant un risque de corrosion.,C,C,C,N

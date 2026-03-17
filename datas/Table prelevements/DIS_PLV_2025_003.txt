@@ -1,0 +1,314 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+03163,00300102954,2025-12-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03264,00300102936,2025-12-18,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03001,00300102948,2025-12-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03310,00300102935,2025-12-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03161,00300102971,2025-12-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03270,00300102993,2025-12-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03190,00300102980,2025-12-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03013,00300102958,2025-12-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03185,00300102977,2025-12-15,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03250,00300102932,2025-12-15,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03257,00300102931,2025-12-15,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03261,00300102987,2025-12-15,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03159,00300102970,2025-12-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03195,00300102983,2025-12-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03095,00300103029,2025-12-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03286,00300102994,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03235,00300102946,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03171,00300102973,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03179,00300102941,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03156,00300102969,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03298,00300102950,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03119,00300102964,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03232,00300103028,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03236,00300102947,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03290,00300103039,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03040,00300103035,2025-12-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03248,00300102929,2025-12-10,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03200,00300102984,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03084,00300102960,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03150,00300102968,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03224,00300102944,2025-12-10,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03222,00300102986,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03165,00300102943,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03158,00300102965,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03113,00300102930,2025-12-10,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03262,00300102992,2025-12-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03082,00300102959,2025-12-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03101,00300102962,2025-12-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03288,00300102995,2025-12-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03136,00300102966,2025-12-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03023,00300102933,2025-12-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03212,00300103038,2025-12-09,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre carbone organique total n'est pas satisfaite.,C,C,C,N
+03003,00300102957,2025-12-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03087,00300102961,2025-12-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03241,00300102988,2025-12-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03309,00300103034,2025-12-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03015,00300103031,2025-12-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03118,00300102942,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03021,00300102928,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03255,00300102955,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03295,00300102939,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03152,00300102937,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03175,00300102938,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03016,00300102945,2025-12-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03301,00300102997,2025-12-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03111,00300103041,2025-12-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03186,00300103037,2025-12-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03254,00300102989,2025-12-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03169,00300102972,2025-12-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03307,00300103036,2025-12-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03321,00300102998,2025-12-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03102,00300103053,2025-12-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03086,00300103032,2025-12-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03173,00300102974,2025-12-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03014,00300103040,2025-12-01,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. Les références de qualité des paramèt res carbone organique total et manganèse ne sont pas satisfaites.,C,C,C,N
+03147,00300102967,2025-12-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03299,00300102996,2025-12-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03275,00300103052,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+03138,00300102744,2025-11-26,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03006,00300102488,2025-11-26,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03304,00300102742,2025-11-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03211,00300102836,2025-11-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03305,00300102834,2025-11-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03189,00300102803,2025-11-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03126,00300102846,2025-11-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03258,00300102857,2025-11-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03316,00300102817,2025-11-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03227,00300102856,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03094,00300102864,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03100,00300102804,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03093,00300102855,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03177,00300102805,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03144,00300102826,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03132,00300102821,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03300,00300102842,2025-11-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03025,00300102754,2025-11-13,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03234,00300102807,2025-11-13,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03050,00300102843,2025-11-12,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03139,00300102845,2025-11-12,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03125,00300102741,2025-11-12,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03098,00300102798,2025-11-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03260,00300102808,2025-11-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03044,00300102848,2025-11-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03312,00300102815,2025-11-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03238,00300102814,2025-11-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03280,00300102837,2025-11-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03069,00300102819,2025-11-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03287,00300102820,2025-11-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03116,00300102862,2025-11-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03112,00300102852,2025-11-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03233,00300102835,2025-11-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03194,00300102863,2025-11-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03269,00300102595,2025-11-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03282,00300102827,2025-11-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03048,00300102810,2025-11-03,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03037,00300102840,2025-11-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03130,00300102811,2025-11-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03297,00300102758,2025-11-03,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. Les références de qualité des paramèt res carbone organique total et conductivité à 25°C ne sont pas satisfa ites.,C,C,C,N
+03063,00300102871,2025-10-29,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03160,00300102590,2025-10-27,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03028,00300102643,2025-10-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03066,00300102489,2025-10-24,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité à 25°C n'est pas satisfaite.,C,C,C,N
+03035,00300102599,2025-10-23,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03060,00300102637,2025-10-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03137,00300102642,2025-10-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03215,00300102636,2025-10-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03114,00300102589,2025-10-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03007,00300102618,2025-10-20,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03106,00300102596,2025-10-20,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03214,00300102600,2025-10-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03303,00300102613,2025-10-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03047,00300102617,2025-10-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03219,00300102583,2025-10-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03090,00300102592,2025-10-13,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03155,00300102609,2025-10-13,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03053,00300102715,2025-10-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03141,00300102624,2025-10-09,"Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. Les références de qualité des paramèt res pH sur le terrain, conductivité à 25°C et bactéries coliformes ne sont pas satisfaites.",C,C,N,N
+03076,00300102586,2025-10-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03019,00300102585,2025-10-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03120,00300102587,2025-10-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03229,00300102593,2025-10-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03217,00300102194,2025-10-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03279,00300102598,2025-10-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03085,00300102584,2025-10-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03276,00300102641,2025-10-01,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre bactéries coliformes n'est pas satisfaite.,C,C,N,C
+03168,00300102594,2025-10-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03182,00300102633,2025-10-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03204,00300102424,2025-09-30,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre équilibre calcocarbonique n'est pas satisfaite.,C,C,C,N
+03018,00300102380,2025-09-30,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03149,00300102398,2025-09-30,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03197,00300102365,2025-09-29,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03033,00300102352,2025-09-23,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03004,00300102343,2025-09-23,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03042,00300102326,2025-09-23,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03070,00300102363,2025-09-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03172,00300102401,2025-09-22,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre chlorites en cas de traitement au bioxyde de chlore n'est pas satisfai te.,C,C,C,N
+03228,00300102378,2025-09-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03157,00300102353,2025-09-16,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre cuivre n'est pas satisfaite.,C,C,C,N
+03283,00300102674,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03206,00300102446,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03167,00300102447,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03315,00300102390,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03285,00300102375,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03127,00300102373,2025-09-09,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03221,00300102403,2025-09-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03036,00300102387,2025-09-08,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre bactéries coliformes n'est pas satisfaite.,C,C,N,C
+03146,00300102371,2025-09-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03243,00300102374,2025-09-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03253,00300102379,2025-09-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03124,00300102367,2025-09-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03039,00300102376,2025-09-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03012,00300102370,2025-09-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03074,00300102364,2025-09-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03140,00300102391,2025-09-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03174,00300102349,2025-09-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03089,00300102334,2025-09-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03226,00300102381,2025-09-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03278,00300102333,2025-09-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03265,00300102366,2025-09-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03220,00300102341,2025-09-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03231,00300102437,2025-08-27,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03242,00300102233,2025-08-26,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03266,00300102237,2025-08-26,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03011,00300102192,2025-08-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03230,00300102239,2025-08-21,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03041,00300102219,2025-08-20,Eau conforme aux exigences de qualité en ce qui concerne les paramètres bactériologiques mais non conforme pour les paramètres physico-chimiques.,C,N,C,C
+03180,00300102268,2025-08-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,S,C,S,C
+03068,00300102225,2025-08-19,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03017,00300102242,2025-08-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03121,00300102218,2025-08-19,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre température n'est pas satisfaite.,C,C,C,N
+03308,00300102185,2025-08-13,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03267,00300102220,2025-08-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03306,00300102249,2025-08-12,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre température n'est pas satisfaite.,C,C,C,N
+03134,00300102186,2025-08-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03072,00300102196,2025-08-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03010,00300102205,2025-08-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03213,00300102223,2025-08-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03247,00300102213,2025-08-07,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre température n'est pas satisfaite.,C,C,C,N
+03191,00300102193,2025-08-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03291,00300102190,2025-08-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03207,00300102188,2025-08-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03296,00300102217,2025-08-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03009,00300102216,2025-08-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03277,00300102230,2025-08-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03059,00300102236,2025-08-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03128,00300102199,2025-08-04,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre Bactéries Coliformes n'est pas satisfaite.,C,C,N,C
+03314,00300102204,2025-08-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03091,00300102019,2025-07-29,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre cuivre n'est pas satisfaite.,C,C,C,N
+03218,00300102044,2025-07-28,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03122,00300102043,2025-07-28,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03216,00300102060,2025-07-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03272,00300102006,2025-07-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03259,00300102088,2025-07-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03131,00300102016,2025-07-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03032,00300102034,2025-07-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03083,00300102046,2025-07-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03202,00300102065,2025-07-15,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03284,00300102026,2025-07-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03054,00300102050,2025-07-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03078,00300102005,2025-07-03,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre température n'est pas satisfaite.,C,C,C,N
+03135,00300102017,2025-07-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03178,00300102052,2025-07-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03110,00300102002,2025-07-03,Eau non conforme aux exigences de qualité pour ce qui concerne les paramètres bactériologiques. Des actions correctives ont été demandées .,C,C,N,C
+03051,00300102048,2025-07-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03237,00300102004,2025-07-01,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03034,00300101824,2025-06-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03151,00300101805,2025-06-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03104,00300101790,2025-06-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03183,00300101771,2025-06-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03154,00300101776,2025-06-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03196,00300101777,2025-06-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03263,00300101803,2025-06-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03201,00300101810,2025-06-17,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03251,00300101773,2025-06-16,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03148,00300101772,2025-06-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03245,00300101767,2025-06-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03289,00300101769,2025-06-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03292,00300101782,2025-06-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03133,00300101835,2025-06-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03271,00300101817,2025-06-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03192,00300101823,2025-06-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03075,00300101816,2025-06-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03043,00300101834,2025-06-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03193,00300101799,2025-06-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03055,00300101621,2025-05-26,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03129,00300101620,2025-05-26,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03002,00300101603,2025-05-21,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03164,00300101564,2025-05-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03097,00300101619,2025-05-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03029,00300101565,2025-05-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03184,00300101604,2025-05-19,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03109,00300101569,2025-05-15,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03005,00300101611,2025-05-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03249,00300101612,2025-05-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03281,00300101591,2025-05-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03065,00300101610,2025-05-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03311,00300101570,2025-05-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03107,00300101563,2025-05-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03208,00300101594,2025-05-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03064,00300101605,2025-05-05,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03105,00300101322,2025-04-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03049,00300101340,2025-04-23,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03225,00300101357,2025-04-22,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03176,00300101354,2025-04-15,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03031,00300101368,2025-04-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03027,00300101339,2025-04-14,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03008,00300101307,2025-04-08,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03170,00300101348,2025-04-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03240,00300101360,2025-04-07,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03071,00300101359,2025-04-07,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03143,00300101351,2025-04-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03077,00300101313,2025-04-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03198,00300101349,2025-04-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03166,00300101314,2025-04-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03268,00300101315,2025-04-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03030,00300101320,2025-04-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03080,00300101321,2025-04-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03244,00300101367,2025-04-02,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03223,00300101160,2025-03-25,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03162,00300101214,2025-03-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03058,00300101196,2025-03-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03046,00300101207,2025-03-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03099,00300101202,2025-03-24,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03187,00300101172,2025-03-20,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03273,00300101179,2025-03-20,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesur ées in situ, sont relativement élevées.",C,C,C,C
+03056,00300101161,2025-03-20,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03293,00300101212,2025-03-12,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03188,00300101204,2025-03-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03274,00300101220,2025-03-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03317,00300101216,2025-03-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03088,00300101232,2025-03-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03081,00300101231,2025-03-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03319,00300101168,2025-03-06,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03024,00300101219,2025-03-05,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03209,00300101178,2025-03-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03062,00300101177,2025-03-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03108,00300101169,2025-03-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03020,00300100998,2025-02-25,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03057,00300101000,2025-02-18,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Sa teneur en nitrates est élevée.,C,C,C,C
+03320,00300101011,2025-02-17,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03313,00300101014,2025-02-17,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03067,00300100991,2025-02-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03103,00300101021,2025-02-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03239,00300101003,2025-02-11,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03117,00300101012,2025-02-10,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03252,00300100971,2025-02-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03115,00300100979,2025-02-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03052,00300101030,2025-02-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03022,00300100978,2025-02-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03061,00300100970,2025-02-04,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03073,00300101016,2025-02-03,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03079,00300101004,2025-02-03,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03045,00300100852,2025-01-28,Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite.,C,C,C,N
+03203,00300100875,2025-01-27,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Sa teneur en nitrates est élevée. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03026,00300100888,2025-01-27,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03210,00300100883,2025-01-20,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03092,00300100872,2025-01-15,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03302,00300100769,2025-01-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03096,00300100764,2025-01-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03294,00300100765,2025-01-08,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C
+03142,00300100809,2025-01-07,"Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,C
+03181,00300100810,2025-01-07,"Eau d'alimentation conforme aux limites de qualité pour ce qui concerne les paramètres mesurés. La référence de qualité du paramètre conductivité n'est pas satisfaite. Les teneurs en chlore résiduel, mesurées in situ, sont relativement élevées.",C,C,C,N
+03145,00300100807,2025-01-06,Eau conforme aux limites et aux références de qualité pour ce qui concerne les paramètres mesurés.,C,C,C,C

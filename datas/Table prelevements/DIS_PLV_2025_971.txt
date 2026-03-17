@@ -1,0 +1,35 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+97105,97100139046,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Ce prélèvement est un recontrôle effectué suite à la valeur de la somme des thihalométanes supérieure à la valeur fixée par la réglementation en vigueur lors d'un prélèvement réalisé le 23 décembre 2025 sur le réseau de distribution.,S,C,S,C
+97104,97100138979,2025-12-30,"Eau d'alimentation faiblement minéralisée conforme à la règlementation en vigueur mais s'écarte de la référence de qualité pour les paramètres suivants: turbidité, indice permanganate et aluminium. La présence de ces paramètres est à surveiller. L'eau est agressive et peut, dans certaines conditions, se révéler corrosive vis-à-vis des canalisations.",C,C,C,N
+97134,97100139044,2025-12-30,Eau d'alimentation faiblement minéralisée conforme à la règlementation en vigueur mais s'écarte de la référence de qualité pour le paramètre aluminium. La présence de ce paramètre est à surveiller.,C,C,C,N
+97124,97100139043,2025-12-30,Eau d'alimentation conforme à la règlementation en vigueur mais s'écarte de la référence de qualité pour le paramètre turbidité. La présence de ce paramètre est à surveiller.,C,N,C,N
+97121,97100138978,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97701,97100139089,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97117,97100139088,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97107,97100139041,2025-12-23,"Eau d'alimentation faiblement minéralisée conforme à la règlementation en vigueur pour les paramètres microbiologiques mesurés. On note cepe ndant un taux excessif de chlore résiduel libre. Pour rappel, la mesur e socle du plan Vigipirate : « Mesure EAU 22-02 : maintenir une concen tration en chlore libre de 0,3 mg/L en sortie des réservoirs et de 0,1 mg/L en tout point du réseau de distribution d’eau. »",C,C,C,N
+97103,97100138767,2025-12-22,Eau d'alimentation faiblement minéralisée conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+97116,97100138654,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97101,97100138947,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97128,97100139085,2025-12-19,Eau d'alimentation faiblement minéralisée conforme aux limites de qual ité mais s'écarte des références de qualité pour les paramètres suivan ts: turbidité et aluminium. La variation de couleur et la présence de ces paramètres est  à surveiller. On note par ailleurs  une agressivit é de l'eau qui peut entraîner la corrosion de certaines canalisations (notamment en plomb) et des appareils ménagers.,C,N,C,N
+97102,97100139026,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97110,97100138640,2025-12-15,Eau d'alimentation faiblement minéralisée conforme aux exigences de qu alité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N
+97131,97100138960,2025-12-15,Eau d'alimentation faiblement minéralisée conforme aux exigences de qu alité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N
+97109,97100138924,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97122,97100138959,2025-12-12,Eau d'alimentation faiblement minéralisée conforme aux exigences de qu alité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N
+97118,97100138820,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Ce prélèvement est un recontrôle effectué suite à la présence de bactéries coliformes observée en sortie de la station de traitement et sur le réseau de distribution le 08 décembre 2025.,C,C,C,C
+97126,97100138619,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97108,97100138623,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97113,97100138635,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97129,97100138883,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Ce prélèvement est un recontrôle réalisé suite à une turbidité et une teneur en aluminium supérieures aux valeurs fixées par la réglementation en vigueur le 01 décembre 2025.,C,C,C,C
+97112,97100138626,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97120,97100138639,2025-12-05,"Eau d'alimentation faiblement minéralisée qui s'écarte de la limite de qualité pour le paramètre turbidité et de la référence de qualité pou r le paramètre bactérie coliforme. La présence de ces paramètres est à surveiller. Par ailleurs, il est a noté une agressivité de l'eau qui peut entraîner la corrosion de certaines canalisations (notamment en p lomb) et des appareils ménagers.",C,N,N,N
+97115,97100138885,2025-12-05,Eau d'alimentation faiblement minéralisée conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+97106,97100138871,2025-12-04,Eau d'alimentation faiblement minéralisée conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+97125,97100138867,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97132,97100138721,2025-12-03,Eau d'alimentation faiblement minéralisée conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+97119,97100139025,2025-12-02,Eau d'alimentation fortement minéralisée qui s'écarte de la limite de qualité pour le paramètre Fosetyl aluminium. La présence de ce paramèt re est à surveiller.,C,C,C,N
+97111,97100138711,2025-12-01,Eau d'alimentation faiblement minéralisée conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N
+97114,97100138855,2025-12-01,Eau d'alimentation faiblement minéralisée conforme aux exigences de qu alité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N
+97801,97100138308,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97133,97100138755,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+97130,97100137853,2025-07-31,Eau d'alimentation faiblement minéralisée conforme aux exigences de qu alité en vigueur pour l'ensemble des paramètres mesurés,C,C,C,N

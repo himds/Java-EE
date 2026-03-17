@@ -1,0 +1,162 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+05177,00500140093,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.,C,C,N,C
+05070,00500140051,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05119,00500139956,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05114,00500139790,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05061,00500139760,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05149,00500139805,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05098,00500139783,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05139,00500139750,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05085,00500139778,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05048,00500140020,2025-12-19,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,C
+05117,00500140019,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05096,00500139782,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05004,00500139729,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05156,00500139820,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05110,00500139788,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05062,00500140015,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05101,00500139830,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05033,00500140012,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource. Vérifier l'installation de traitement de l'eau.,C,C,N,C
+05076,00500139769,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.,C,C,N,C
+05129,00500140018,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05059,00500139751,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05168,00500139816,2025-12-16,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05181,00500139835,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05123,00500139794,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05063,00500139754,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05170,00500139827,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05022,00500139962,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05118,00500139828,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05073,00500139958,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+05133,00500139942,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05079,00500139777,2025-12-10,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de turbidité. Il est nécessaire de prévoir une visite de propreté des ouvrages et, si nécessaire effectuer leur nettoyage. La présence de turbidité implique une ressource ou un réseau défaillant. Il est nécessaire de déterminer l'origine de cette pollution et d'y remédier. Une turbidité excessive peut faciliter la prolifération de bactéries.",C,C,C,N
+05161,00500139810,2025-12-10,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…). Cette eau ne respecte pas les références de qualité en ce qui concerne le paramètre ""conductivité"". Une eau de faible conductivité peut indiquer une eau corrosive.",C,C,N,N
+05122,00500139797,2025-12-09,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05178,00500139937,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05024,00500139961,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05126,00500139938,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.,C,C,N,C
+05152,00500139806,2025-12-08,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,C,N
+05007,00500139730,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05077,00500139772,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05157,00500139807,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05089,00500139780,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05165,00500139815,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05023,00500139737,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05167,00500139819,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05040,00500139746,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05183,00500139836,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05010,00500139732,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05017,00500139733,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05179,00500139834,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05112,00500139786,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05072,00500139768,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05163,00500139909,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.,C,C,N,C
+05044,00500139519,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05164,00500139814,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05045,00500139748,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05029,00500139742,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05012,00500139822,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05046,00500139825,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05036,00500139821,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05173,00500139918,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05103,00500139785,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05051,00500139917,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05065,00500139765,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05026,00500139738,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05091,00500139911,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05003,00500139728,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05038,00500139915,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05056,00500139385,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05108,00500139901,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05032,00500139329,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+05111,00500139459,2025-11-28,Eau d'alimentation non-conforme aux limites de qualité. Un message a été adressé au gestionnaire pour prendre des mesures corr ectives. Paramètres non-conformes : - Bactéries d'origine fécale (E.coli),N,C,C,C
+05047,00500139371,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05172,00500139522,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05169,00500139520,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05086,00500139440,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05060,00500139889,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.,C,C,N,C
+05082,00500139445,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05052,00500139378,2025-11-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : eau un peu agressive.,C,C,C,N
+05031,00500139328,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05081,00500139438,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05116,00500139468,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05134,00500139490,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05107,00500139460,2025-11-20,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05106,00500139875,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05130,00500139480,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.,C,C,N,C
+05019,00500139877,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05180,00500139547,2025-11-18,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05132,00500139867,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05128,00500139473,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05058,00500139869,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05162,00500139505,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05055,00500139379,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05066,00500139864,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05028,00500139326,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05158,00500139502,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05131,00500139483,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05009,00500139307,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05064,00500139333,2025-11-12,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,C,N
+05182,00500139550,2025-11-12,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,C,N
+05144,00500139493,2025-11-12,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,N,N
+05039,00500139863,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.	,C,C,N,C
+05097,00500139452,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05154,00500139501,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05008,00500139304,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05054,00500139382,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05001,00500139298,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05151,00500139497,2025-11-04,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05093,00500139448,2025-11-04,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05146,00500139229,2025-10-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.,C,C,N,C
+05071,00500139154,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05184,00500139294,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05035,00500139712,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05171,00500139709,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05021,00500139702,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05142,00500139225,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05075,00500139669,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05136,00500139219,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+05095,00500139172,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05145,00500139231,2025-10-13,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,C,N
+05025,00500139096,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05147,00500139235,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.,C,C,N,C
+05135,00500139651,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05084,00500139650,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05006,00500139072,2025-10-09,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05174,00500139277,2025-10-09,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Je vous rappelle cependant, que le résultat de la mesure n'a de signification que pour le point d'utilisation concerné et non pour l'ensemble du réseau.",S,C,S,C
+05016,00500139079,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05166,00500139253,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05148,00500139639,2025-10-08,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source, voire du réseau",C,C,N,C
+05100,00500139184,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05014,00500139078,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05155,00500139241,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05053,00500139254,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05092,00500139170,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05037,00500139111,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05078,00500139160,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05102,00500139187,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05104,00500139189,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source.,C,C,N,C
+05153,00500139236,2025-10-02,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L’eau n’est pas conforme à la référence de qualité ""conductivité"". Une eau de faible conductivité est une eau peu minéralisée.",C,C,C,N
+05011,00500139075,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05018,00500139089,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05090,00500139169,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05113,00500139193,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05176,00500139281,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05121,00500138362,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05124,00500138370,2025-09-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de carbone organique total (COT). Le carbone organique total (COT) fournit une indication sur la charge organique d'une eau substance humique - décomposition naturelle de la matière organique). La matière organique est présente dans les eaux superficielles essentiellement. La concentration du COT peut varier en fonction des saisons et des débits. Le COT n'a pas d'impact direct sur la santé des populations. L'excès de COT peut engendrer une prolifération de micro organisme.,C,C,C,N
+05013,00500139419,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05049,00500139388,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05087,00500138321,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05068,00500138289,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05140,00500138387,2025-09-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+05099,00500138338,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05160,00500139037,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05109,00500139035,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05057,00500138269,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05027,00500138234,2025-09-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05080,00500138955,2025-09-01,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de bactéries coliformes indiquant une vulnérabilité de la res source, voire du réseau.",C,C,N,C
+05094,00500137395,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05127,00500137425,2025-08-21,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Présence de coliformes totaux indiquant une vulnérabilité du réseau ou de la ressource.Ces bactéries sont naturellement présentes dans le sol, leur présence peut s'expliquer par un lessivage des sols lors d'un orage,une mauvaise filtration de l'eau captée, la présence de fuites sur le réseau. Je vous invite à prendre toutes les mesures nécessaires à la recherche de la cause de la pollution (visite de captage et des alentours, réservoirs, recherche de fuites...) et à prendre les mesures correctives afin d'y remédier (nettoyage des ouvrages, visite de la zone de drain,…).",C,C,N,C
+05050,00500137473,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05115,00500137412,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+05074,00500137349,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

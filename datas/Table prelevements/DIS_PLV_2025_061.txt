@@ -1,0 +1,382 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+61044,06100148828,2025-12-26,Eau ne satisfaisant pas aux références de qualité bactériologique en vigueur en raison de la présence de spores de bactéries anaérobies sulfito-réductrices. Un nouveau contrôle sera réalisé prochainement afin de vérifier la qualité de l'eau destinée à la consommation humaine.,C,C,N,C
+61472,06100148836,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61060,06100148813,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61232,06100148807,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61369,06100148793,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61391,06100148797,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61326,06100148794,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61211,06100148795,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61243,06100148806,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61181,06100148796,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61366,06100148811,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61230,06100148812,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61460,06100148810,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61207,06100148803,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61196,06100148801,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61476,06100148786,2025-12-17,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61108,06100148798,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61422,06100148816,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61005,06100148800,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61345,06100148791,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61163,06100148790,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61116,06100148785,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61061,06100148792,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61447,06100148789,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61169,06100148788,2025-12-16,Eau d'alimentation conforme aux limites et références de qualité à l'exception de la valeur en carbone organique total qui est supérieure à la référence de qualité fixée à 2 mg/L.,C,C,C,N
+61113,06100148815,2025-12-16,Eau d'alimentation conforme aux limites de qualité par dérogation et conforme aux références de qualité. A noter que la valeur indicative définie pour le chlorothalonil R471811 n’est pas satisfaite.,S,D,S,C
+61486,06100148776,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61093,06100148778,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61240,06100148771,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61288,06100148769,2025-12-12,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61328,06100148766,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61385,06100148747,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61300,06100148755,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61178,06100148761,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61484,06100148762,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61079,06100148753,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61167,06100148768,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61342,06100148760,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61272,06100148752,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61077,06100148751,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61126,06100148808,2025-12-10,Eau d'alimentation conforme aux limites de qualité par dérogation et conforme aux références de qualité.,S,D,S,C
+61389,06100148735,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61051,06100148725,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61006,06100148729,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61114,06100148727,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61406,06100148737,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61153,06100148728,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61456,06100148726,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61440,06100148739,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61510,06100148738,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61483,06100148732,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61491,06100148740,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61487,06100148692,2025-12-08,Eau d'alimentation conforme à l'exigence de qualité en vigueur pour le paramètre concerné.,S,C,S,C
+61096,06100148691,2025-12-05,Eau d'alimentation non conforme à la référence de qualité fixée à 2 mg/L pour le paramètre mesuré. Prendre toutes les dispositions nécessaires afin de ramener le carbone organique total à une valeur inférieure à la valeur limite maximale. Un nouveau prélèvement sera réalisé prochainement afin de vérifier la qualité de l'eau destinée à la consommation humaine.,S,C,S,N
+61182,06100148678,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61228,06100148682,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61404,06100148646,2025-12-04,Eau d'alimentation conforme à l'exigence de qualité en vigueur pour le paramètre concerné.,S,C,S,C
+61143,06100148689,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61001,06100148684,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61214,06100148679,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61341,06100148674,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61301,06100148675,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61494,06100148685,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61156,06100148743,2025-12-03,Eau d'alimentation conforme aux limites de qualité par dérogation et conforme aux références de qualité. La valeur indicative définie pour le chlorothalonil R471811 n’est pas satisfaite. Un suivi renforcé est mis en place pour suivre l’évolution de ce paramètre.,S,D,S,C
+61152,06100148667,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61023,06100148668,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61120,06100148669,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61492,06100148744,2025-12-03,Eau d'alimentation conforme aux limites de qualité par dérogation et conforme aux références de qualité. La valeur indicative définie pour le chlorothalonil R471811 n’est pas satisfaite. Un suivi renforcé est mis en place pour suivre l’évolution de ce paramètre.,S,D,S,C
+61399,06100148670,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61183,06100148787,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61139,06100148666,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61464,06100148745,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61293,06100148654,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61168,06100148652,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61233,06100148647,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61435,06100148642,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61423,06100148643,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61332,06100148648,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61040,06100148649,2025-12-02,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61376,06100148650,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61151,06100148645,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61414,06100148653,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61327,06100148637,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61097,06100148638,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61508,06100148610,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61072,06100148611,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61309,06100148606,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61043,06100148583,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61142,06100148586,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61329,06100148601,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61050,06100148584,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61415,06100148604,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61284,06100148575,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61360,06100148573,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61053,06100148577,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61297,06100148574,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61203,06100148579,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61133,06100148576,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61308,06100148539,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61433,06100148568,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61075,06100148565,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61358,06100148567,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61074,06100148542,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61271,06100148540,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61362,06100148551,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61024,06100148564,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61104,06100148561,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61227,06100148533,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61145,06100148529,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61339,06100148527,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61402,06100148688,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61386,06100148514,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61032,06100148515,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61092,06100148516,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61222,06100148519,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61208,06100148522,2025-11-17,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne respectant pas les références de qualité définies par la réglementation en vigueur en raison du pH de l'eau qui est en dehors de l'intervalle défini entre 6,5 et 9.",C,C,C,N
+61070,06100148518,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61121,06100148465,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61229,06100148466,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61446,06100148470,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61429,06100148472,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61307,06100148459,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61089,06100148491,2025-11-12,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne respectant pas les références de qualité physico-chimique en vigueur en raison de la turbidité de l'eau qui est supérieure à la valeur limite maximale fixée à 2 NFU. Prendre toutes les dispositions nécessaires afin de fournir en permanence une eau conforme à la référence de qualité. L'exploitant en a été informé. La réalisation de purges douces sans à-coup dans le secteur du prélèvement a été demandée.",C,C,C,N
+61020,06100148473,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61442,06100148479,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61170,06100148458,2025-11-12,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61323,06100148482,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61138,06100148455,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61122,06100148446,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61189,06100148445,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61372,06100148443,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61474,06100148448,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61412,06100148429,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61454,06100148431,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61438,06100148432,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61475,06100148430,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61244,06100148433,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61221,06100148416,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61426,06100148404,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61030,06100148415,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61099,06100148407,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61069,06100148418,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61394,06100148569,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61241,06100148392,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61371,06100148393,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61194,06100148400,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61459,06100148382,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61316,06100148385,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61283,06100148414,2025-10-30,"Eau d'alimentation non conforme aux exigences de qualité fixées pour ple chlorothalonil R417888. Les concentrations mesurées dans le cadre du contrôle renforcé sont inférieures à la valeur sanitaire transitoire de 3 µg/L pour le chlorothalonil R417888 définie par le ministère de la santé. De plus, la valeur indicative définie pour le chlorothalonil R471811 n’est pas satisfaite. L'eau peut être consommée sans restriction d'usage.",S,N,S,C
+61397,06100148366,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61324,06100148374,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61195,06100148340,2025-10-27,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation et en raison de la valeur pH inférieure à la valeur minimale fixée à 6,5 u.pH. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C et le pH à des valeurs supérieures aux valeurs limites minimales réglementaires.",C,C,C,N
+61436,06100148339,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61002,06100148345,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61130,06100148321,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61160,06100148322,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61046,06100148353,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61501,06100148292,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61467,06100148301,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61224,06100148300,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61384,06100148293,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61295,06100148257,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61485,06100148266,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61035,06100148258,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61252,06100148265,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61457,06100148280,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61218,06100148281,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61225,06100148264,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61039,06100148250,2025-10-17,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61375,06100148276,2025-10-17,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61213,06100148238,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61453,06100148195,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61216,06100148333,2025-10-09,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison du caractère agressif de l'eau traitée à la température du terrain relevée le jour du prélèvement. Prendre toutes les mesures nécessaires afin de ramener l'eau traitée à l'équilibre calco carbonique.",C,C,C,N
+61206,06100148210,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61321,06100148170,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61165,06100148171,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61008,06100148221,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61100,06100148224,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61255,06100148119,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61041,06100148118,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61462,06100148109,2025-10-03,"La teneur en thallium est supérieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61098,06100148079,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61251,06100148076,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61330,06100148081,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61215,06100148075,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61029,06100148077,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61037,06100148103,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61198,06100148083,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61286,06100148093,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61346,06100148084,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61078,06100148111,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61292,06100148110,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61262,06100148100,2025-09-30,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité en raison de la valeur pH inférieure à la valeur minimale fixée à 6,5 u.pH. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale.",C,C,C,N
+61095,06100148101,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61028,06100148046,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61007,06100148049,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61373,06100148008,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61049,06100148044,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61348,06100148037,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61314,06100148012,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61129,06100148007,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61398,06100148019,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61091,06100148005,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61481,06100148016,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61421,06100148014,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61258,06100147991,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61038,06100147998,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61331,06100148001,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61466,06100147976,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61493,06100147933,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61322,06100147936,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61497,06100147942,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61275,06100147941,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61408,06100147904,2025-09-15,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61278,06100147906,2025-09-15,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61242,06100147907,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61260,06100147896,2025-09-12,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61094,06100147893,2025-09-12,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61281,06100147894,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61137,06100147897,2025-09-12,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61056,06100147861,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61081,06100147860,2025-09-11,"Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale, sans pour autant atteindre la valeur élevée en désinfectant constatée le jour du prélèvement.",C,C,C,C
+61393,06100147873,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61488,06100147870,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61401,06100147806,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61291,06100147819,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61490,06100147809,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61111,06100147812,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61012,06100147815,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61259,06100147748,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+61034,06100147828,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61432,06100147829,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61140,06100147827,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61395,06100147832,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61013,06100147764,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61238,06100147752,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Les taux de traitement en chlore doivent être maintenus à un niveau suffisant en tout point du réseau de distribution pour garantir l'efficacité de l'étape de désinfection finale.,C,C,C,C
+61011,06100147761,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61319,06100147765,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61392,06100147767,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61461,06100147709,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61180,06100147708,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61387,06100147726,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61463,06100147715,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61256,06100147692,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61479,06100147691,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61015,06100147688,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61416,06100147686,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61197,06100147693,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61502,06100147671,2025-08-21,"Eau d'alimentation non conforme aux limites de qualité en vigueur en raison de la teneur en chlorure de vinyle monomère qui est supérieure à la valeur limite maximale fixée à 0,5 µg/L. Cette teneur en chlorure de vinyle monomère ne vaut que pour le secteur du ""6 rue du Chenevril"" commune de Vidai. Cette valeur n'est pas représentative de la qualité de l'eau pour l'ensemble des consommateurs du réseau de distribution.",C,C,C,C
+61396,06100147663,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61365,06100147633,2025-08-18,"Eau d'alimentation non conforme aux limites de qualité en vigueur en raison de la teneur en chlorure de vinyle monomère qui est supérieure à la valeur limite maximale fixée à 0,5 µg/L. Cette teneur en chlorure de vinyle monomère ne vaut que pour le secteur du cimetière commune de Saint-Aubin-d'Appenai. Cette valeur n'est pas représentative de la qualité de l'eau pour l'ensemble des consommateurs du réseau de distribution.",C,C,C,C
+61443,06100147637,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61150,06100147625,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61317,06100147626,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61482,06100147617,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61267,06100147532,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61199,06100147531,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61480,06100147554,2025-08-05,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61287,06100147486,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61266,06100147478,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61067,06100147441,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61048,06100147460,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61361,06100147443,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61418,06100147446,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61450,06100147445,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61357,06100147447,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61209,06100147440,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61298,06100147421,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61102,06100147408,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61425,06100147407,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61159,06100147405,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61234,06100147410,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61055,06100147357,2025-07-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale.,C,C,C,C
+61018,06100147287,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61352,06100147285,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61388,06100147237,2025-07-08,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61084,06100147290,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61336,06100147262,2025-07-08,"Eau d'alimentation non conforme aux limites de qualité en vigueur en raison de la teneur en chlorure de vinyle monomère qui est supérieure à la valeur limite maximale fixée à 0,5 µg/L. Cette teneur en chlorure de vinyle monomère ne vaut que pour le secteur de la mairie commune de Pouvrai. Cette valeur n'est pas représentative de la qualité de l'eau pour l'ensemble des consommateurs du réseau de distribution.",C,C,C,C
+61101,06100147240,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61088,06100147241,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61164,06100147253,2025-07-04,"La teneur en thallium est supérieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61141,06100147256,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61379,06100147181,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61405,06100147182,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale.,C,C,C,C
+61445,06100147192,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61274,06100147195,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61107,06100147155,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61158,06100147154,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61276,06100147151,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61413,06100147150,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61400,06100147130,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61344,06100147158,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61499,06100147122,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61261,06100147123,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61146,06100147104,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61268,06100147085,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61411,06100147083,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61424,06100147082,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61512,06100147074,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61382,06100147065,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61263,06100147059,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61451,06100147060,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61062,06100147052,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61302,06100147051,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61036,06100147005,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61277,06100147001,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61363,06100147003,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61264,06100147034,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61500,06100147046,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61052,06100146926,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61279,06100146951,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61021,06100146941,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61063,06100146943,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61498,06100146896,2025-06-02,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61148,06100146915,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61193,06100146859,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61507,06100146864,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61294,06100146862,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61350,06100146828,2025-05-23,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61076,06100146838,2025-05-22,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61162,06100146834,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61374,06100146833,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61123,06100146821,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61237,06100146818,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61503,06100146819,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61080,06100146820,2025-05-20,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61273,06100146814,2025-05-19,Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale.,C,C,C,C
+61085,06100146789,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61026,06100146787,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61202,06100146783,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61452,06100146772,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61351,06100146736,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61068,06100146747,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61289,06100146669,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61257,06100146660,2025-04-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61087,06100146627,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61105,06100146593,2025-04-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61103,06100146572,2025-04-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61407,06100146543,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61269,06100146544,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61349,06100146539,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61473,06100146540,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61217,06100146521,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61333,06100146498,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61505,06100146456,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61171,06100146457,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61187,06100146439,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61419,06100146421,2025-04-03,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61420,06100146426,2025-04-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61176,06100146420,2025-04-03,"Eau d'alimentation conforme aux limites et références de qualité bactériologique en vigueur pour les paramètres recherchés. Eau d'alimentation conforme aux limites de qualité physico-chimique en vigueur pour les paramètres recherchés. Cependant, eau ne satisfaisant pas aux références de qualité physico-chimique en vigueur en raison de la conductivité à 25°C qui est inférieure à la valeur limite minimale fixée par la réglementation. Prendre toutes les dispositions nécessaires afin de ramener la conductivité à 25°C à une valeur supérieure à la valeur limite minimale réglementaire.",C,C,C,N
+61117,06100146402,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61304,06100146407,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61149,06100146383,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61248,06100146381,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61210,06100146347,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61370,06100146343,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61190,06100146338,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61444,06100146301,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61367,06100146288,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61071,06100146241,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61219,06100146072,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61118,06100146083,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61064,06100146084,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61439,06100146061,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61290,06100146020,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61390,06100146021,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61124,06100145985,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61381,06100145925,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+53216,06100146039,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61014,06100145906,2025-01-31,"La teneur en thallium est inférieure à la valeur guide exploratoire (0,5 µg/L) proposée par le Ministère de la Santé.",S,C,S,C
+61166,06100145850,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61212,06100145823,2025-01-28,Eau d'alimentation conforme aux limites et aux références de qualité définies par la réglementation en vigueur pour l'ensemble des paramètres mesurés. Maintenir les taux de traitement en chlore à un niveau suffisant pour garantir l'efficacité de l'étape de désinfection finale.,C,C,C,C
+61082,06100145803,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61347,06100145799,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61054,06100145798,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61265,06100145782,2025-01-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61303,06100145758,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61448,06100145754,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61086,06100145725,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61066,06100145713,2025-01-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+61010,06100145687,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

@@ -1,0 +1,458 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+32160,03200097170,2025-12-29,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. L'eau est incrustante, ce qui peut contribuer à la dégradation des canalisations du réseau, à la formation d'un biofilm ainsi qu'à une perte d'efficacité du traitement de désinfection.",C,C,C,N
+32425,03200097247,2025-12-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Le non respect de la référence de qualité réglementaire porte sur au moins un paramètre microbiologique et n'a toutefois pas nécessité une restriction de la  consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution du paramètre et vérifier le retour à une situation normale.,C,C,N,C
+32213,03200097442,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32386,03200097448,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32277,03200097446,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32198,03200097445,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32013,03200097375,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32450,03200097381,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32174,03200097380,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32362,03200097411,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32240,03200098536,2025-12-22,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La non conformité concernant la turbidité n'a pas nécessité de restriction de la consommation de l'eau. Ce paramètre mesure la présence de particules en suspension (argiles, colloïdes, etc.) dans l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau.",C,C,C,N
+32096,03200097413,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32087,03200097416,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32127,03200097280,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32305,03200097418,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32299,03200097438,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32005,03200097388,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32229,03200097474,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32340,03200097400,2025-12-17,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La non conformité concernant la turbidité n'a pas nécessité de restriction de la consommation de l'eau. Ce paramètre mesure la présence de particules en suspension (argiles, colloïdes, etc.) dans l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau.",C,C,C,N
+32119,03200097405,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32416,03200097441,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32021,03200097376,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32253,03200097471,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32290,03200098083,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32458,03200097501,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32149,03200097107,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32094,03200097425,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32291,03200097437,2025-12-15,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, un nombre élevé de germes totaux a été détecté. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour vérifier le retour à une situation normale.",C,C,C,C
+32449,03200097436,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32358,03200098516,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32282,03200097485,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32400,03200097379,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32357,03200097447,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32107,03200097478,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32007,03200097443,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32106,03200097444,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32448,03200097449,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32332,03200097434,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32235,03200097464,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32460,03200097467,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32255,03200097461,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32429,03200097432,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32208,03200097431,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32132,03200097460,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32283,03200097321,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32187,03200097423,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32438,03200097410,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32158,03200098520,2025-12-08,"Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Cette non-conformité concerne  les pesticides. Toutefois, les concentrations mesurées restent inférieures aux seuils d'intervention sanitaire à partir desquels des mesures de restriction de consommation de l'eau sont prononcées. Il a été demandé à l'exploitant de prendre les mesures nécessaires pour rétablir la qualité de l'eau. Un contrôle renforcé a été mis en place pour suivre l'évolution de ce paramètre.",S,N,S,C
+32228,03200097428,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32249,03200098533,2025-12-08,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. La non-conformité concerne au moins un pesticide ou un métabolite de pesticide. La valeur sanitaire propre à chaque molécule n'a pas été dépassée. L'eau peut donc être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ce(s) paramètre(s).,S,N,S,C
+32363,03200097433,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32256,03200097422,2025-12-08,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Cette non conformité concernant les pesticides n'a cependant pas nécessité de restriction de la consommation de l'eau conformément à l'avis de l'ANSES fixant la valeur sanitaire maximale pour chaque molécule n'entrainant aucun effet néfaste sur la santé sur la base des critères toxicologiques retenus et en l'état actuel des connaissances. Il a été demandé à l'exploitant de prendre les mesures nécessaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour vérifier le retour à une situation normale.,S,N,S,C
+32352,03200097457,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32083,03200097450,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32196,03200097475,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32316,03200097458,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32154,03200098428,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32302,03200098427,2025-11-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32309,03200097315,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32140,03200097313,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32115,03200097306,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32125,03200097309,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32206,03200097314,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32396,03200098280,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32202,03200097284,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32243,03200097281,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32223,03200097341,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32380,03200097337,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32439,03200097336,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32070,03200097338,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32214,03200097285,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32296,03200097292,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32463,03200098084,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32403,03200097334,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32194,03200097265,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32197,03200097270,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32180,03200097268,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32076,03200098158,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32360,03200098159,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32327,03200097274,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32169,03200097272,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32066,03200097330,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32329,03200097331,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32430,03200097296,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32468,03200097295,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32103,03200097294,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32012,03200097251,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32110,03200097242,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32123,03200097253,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32446,03200097236,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32334,03200097316,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32225,03200097371,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32464,03200098153,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32134,03200097039,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32086,03200097310,2025-11-13,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau à caractère agressif susceptible de favoriser la dissolution des métaux dans l'eau, notamment le plomb s'il est constitutif des branchements publics ou des réseaux privés. Dans ce cas, Il est recommandé de laisser couler l'eau avant de l'utiliser à fins alimentaires.",C,C,C,N
+32412,03200097317,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32428,03200097318,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32075,03200097348,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32227,03200098152,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32079,03200097269,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32064,03200097264,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32003,03200097326,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32072,03200097303,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32382,03200097363,2025-11-06,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La non-conformité concerne au moins un paramètre indicateur de la radioactivité. Un dépassement de la valeur alpha et/ou beta nécessite la recherche de radionucléides naturels. Par ailleurs, eau à caractère agressif susceptible de favoriser la dissolution des métaux dans l'eau, notamment le plomb s'il est constitutif des branchements publics ou des réseaux privés. Dans ce cas, il est recommandé de laisser couler l'eau avant de l'util iser à fins alimentaires.",C,C,C,N
+32258,03200097327,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32217,03200097275,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32128,03200097288,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32034,03200097300,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32263,03200097301,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32264,03200097121,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32109,03200097116,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32163,03200097191,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32192,03200097195,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32378,03200097194,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32390,03200098143,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32166,03200098141,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32113,03200097144,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32444,03200097152,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32432,03200097151,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32090,03200097149,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32018,03200097148,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32060,03200097115,2025-10-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32287,03200097133,2025-10-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32010,03200097132,2025-10-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32062,03200097129,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32271,03200097143,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32350,03200097207,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32165,03200097219,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32359,03200097201,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32100,03200097109,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32084,03200097198,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32065,03200097139,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32294,03200097160,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32231,03200097140,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32212,03200097136,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32405,03200097188,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32441,03200096892,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32465,03200097212,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32353,03200097150,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32091,03200097161,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32453,03200097162,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32383,03200097213,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32099,03200097209,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32039,03200097208,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32326,03200097127,2025-10-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32415,03200097138,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32278,03200097137,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32404,03200098113,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32289,03200097042,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32284,03200097041,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32031,03200097030,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32410,03200097044,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32431,03200097072,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32436,03200097035,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32385,03200097069,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32370,03200097068,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32085,03200098111,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32133,03200096994,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32408,03200097008,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32211,03200097005,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32081,03200097060,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32354,03200097061,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32414,03200097064,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32424,03200097065,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32201,03200098054,2025-09-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,S,C,S,N
+32300,03200096998,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La non conformité concernant la turbidité n'a pas nécessité de restriction de la consommation de l'eau. Ce paramètre mesure la présence de particules en suspension (argiles, colloïdes, etc.) dans l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau. Eau faiblement minéralisée.",C,C,C,N
+32008,03200097084,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32273,03200097085,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32455,03200097086,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32252,03200097083,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32184,03200097057,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32052,03200097052,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32043,03200097026,2025-09-17,Eau d’alimentation suspectée d’être non-conforme aux seuils de qualité  bactériologique (résultats non interprétables). Il a été demandé à l’exploitant de prendre les mesures correctives nécessaires en application du principe de précaution. Un nouveau contrôle a été programmé.,C,C,C,C
+32199,03200096999,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32077,03200098089,2025-09-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32257,03200098102,2025-09-16,"Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Confirmation de la présence de chlorure de vinyl monomère (CVM) à une concentration supérieure à la limite de qualité réglementaire (0,5 μg/l) mise en évidence lors d'un premier prélèvement. Des actions correctives ont été demandées à l'exploitant.",S,N,S,C
+32361,03200098088,2025-09-16,Eau d'alimentation de nouveau conforme aux limites de qualité. Eau non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32335,03200097054,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32002,03200096978,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32207,03200097053,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32379,03200097043,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32092,03200097312,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32038,03200097038,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32262,03200097040,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32328,03200097023,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32203,03200096991,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32401,03200097025,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32114,03200097024,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32185,03200097018,2025-09-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32141,03200096873,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32392,03200096877,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32447,03200096879,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32046,03200097468,2025-08-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32236,03200096846,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32310,03200096899,2025-08-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32442,03200096918,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32145,03200096898,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32219,03200096895,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32037,03200096832,2025-08-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32173,03200096326,2025-08-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32452,03200096323,2025-08-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32024,03200096886,2025-08-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Tempértaure élevée.,C,C,C,N
+32261,03200096874,2025-08-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32420,03200096878,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32336,03200096875,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32019,03200096838,2025-08-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32411,03200096839,2025-08-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32377,03200096876,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32041,03200096856,2025-08-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32280,03200096857,2025-08-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée et température élevée.,C,C,C,N
+32009,03200096840,2025-08-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32142,03200097812,2025-08-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,S,C,S,N
+32188,03200096891,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32102,03200097187,2025-08-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32029,03200096863,2025-08-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,C,C,C,N
+32238,03200096862,2025-08-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32275,03200096920,2025-08-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32050,03200096919,2025-08-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée,C,C,C,N
+32126,03200096871,2025-08-08,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau à caractère agressif susceptible de favoriser la dissolution des métaux dans l'eau, notamment le plomb s'il est constitutif des branchements publics ou des réseaux privés. Dans ce cas, Il est recommandé de laisser couler l'eau avant de l'utiliser à fins alimentaires.",C,C,C,N
+32014,03200096887,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32159,03200096850,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32298,03200096888,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32394,03200096851,2025-08-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée et température élevée.,C,C,C,N
+32195,03200096860,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32395,03200096861,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32343,03200096864,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32388,03200096938,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32183,03200096939,2025-08-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température élevée.,S,C,S,N
+32190,03200096718,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32440,03200096686,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32344,03200096750,2025-07-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Température de l'eau élevée.,C,C,C,N
+32209,03200096748,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32108,03200096749,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32155,03200096691,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32443,03200096745,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32001,03200096744,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32105,03200096724,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32210,03200096727,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32247,03200096168,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32182,03200096726,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32232,03200097817,2025-07-23,"Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Confirmation de la présence de chlorure de vinyl monomère (CVM) à une concentration supérieure à la limite de qualité réglemenataire (0,5µ/l) mise en évidence lors de prélèvemen ts précédents. Des actions correctives ont été demandées à l'exploitant. Un nouveau prélèvement sera effectué prochainement pour vérifier l'efficacité des mesures prises. A l'issue de cette période des mesures de restriction de consommation de l'eau pourront être demandées dans les secteurs incriminés si les anomalies persistent.",S,N,S,C
+32153,03200096684,2025-07-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32304,03200096282,2025-07-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau à caractère agressif susceptible de favoriser la dissolution des métaux dans l'eau, notamment le plomb s'il est constitutif des branchements publics ou des réseaux privés. Dans ce cas, Il est recommandé de laisser couler l'eau avant de l'utiliser à fins alimentaires.",C,C,C,N
+32426,03200096685,2025-07-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32148,03200097816,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32366,03200096757,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32314,03200096754,2025-07-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32224,03200096763,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32146,03200096153,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32265,03200097838,2025-07-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32374,03200096728,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32124,03200096725,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32040,03200096723,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32162,03200096714,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32071,03200096713,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32402,03200096769,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32089,03200096736,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32230,03200096735,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32205,03200096771,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32445,03200096770,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32020,03200096764,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32406,03200096664,2025-07-04,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Cette non conformité concernant la turbidité n'a pas nécessité de restriction de consommation de l'eau. Ce paramètre permet de mesurer les particules en suspension présentes dans l'eau (argiles, colloïdes ,...). Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau.",C,C,C,N
+32030,03200096698,2025-07-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau faiblement minéralisée.,C,C,C,N
+32355,03200096712,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32177,03200096711,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32337,03200096741,2025-07-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32369,03200096703,2025-07-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32267,03200097823,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32274,03200096534,2025-06-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32189,03200096609,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32017,03200096587,2025-06-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32151,03200096588,2025-06-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32136,03200096583,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32161,03200096586,2025-06-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32372,03200096565,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32120,03200096562,2025-06-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+32053,03200096543,2025-06-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité.,C,C,C,N
+32324,03200096544,2025-06-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité.,C,C,C,N
+32016,03200096560,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32032,03200096527,2025-06-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences de qualité porte sur la température de l'eau dont la valeur dépasse le seuil recommandé de 25°C.,C,C,C,N
+32303,03200096597,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32058,03200096598,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32167,03200096548,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32301,03200096550,2025-06-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32181,03200096599,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32026,03200096594,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32023,03200096591,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32281,03200096549,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32351,03200096575,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32157,03200096503,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32204,03200096576,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32368,03200096577,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32433,03200096566,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32308,03200096564,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32098,03200096561,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32080,03200096600,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32078,03200096054,2025-06-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32143,03200096547,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32104,03200096537,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32156,03200096538,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32129,03200097686,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32435,03200096448,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32434,03200096484,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32349,03200096446,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32322,03200096445,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32421,03200096447,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32033,03200096432,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32346,03200096433,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32367,03200096488,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32221,03200096482,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32044,03200096371,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32269,03200096363,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32320,03200096360,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32365,03200096425,2025-05-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32375,03200096430,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32082,03200097674,2025-05-19,Eau d'alimentation de nouveau conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32466,03200096431,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32073,03200096410,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32118,03200096358,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32454,03200096404,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32437,03200097600,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32254,03200096418,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32045,03200096417,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32135,03200096465,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32244,03200096469,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32093,03200096468,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32333,03200096470,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32144,03200096405,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32250,03200096443,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32270,03200096444,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32239,03200096710,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32138,03200096442,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32251,03200096458,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32035,03200096457,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32286,03200096461,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32457,03200096462,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32325,03200097590,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32068,03200096903,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32131,03200096322,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32266,03200096247,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32427,03200096333,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32339,03200096301,2025-04-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité,C,C,C,N
+32268,03200096299,2025-04-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité.,C,C,C,N
+32234,03200096298,2025-04-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité,C,C,C,N
+32288,03200096300,2025-04-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité,C,C,C,N
+32063,03200096314,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32056,03200096238,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32348,03200096307,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32341,03200096311,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32059,03200096305,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32101,03200096310,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32117,03200096306,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32027,03200096318,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32171,03200096297,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32398,03200096319,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32461,03200096252,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32061,03200096296,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32111,03200096263,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32088,03200096287,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32022,03200096291,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32176,03200096285,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32393,03200096276,2025-04-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32323,03200096286,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32172,03200096275,2025-04-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32272,03200096281,2025-04-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité : Eau faiblement minéralisée.,C,C,C,N
+32122,03200096707,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32222,03200096190,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32004,03200096189,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32356,03200096170,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32218,03200096186,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32186,03200096167,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32130,03200096166,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32095,03200096204,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32150,03200096183,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32246,03200096139,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32312,03200096130,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32347,03200096180,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32193,03200096136,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32051,03200096165,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32295,03200096563,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32387,03200096171,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32371,03200097540,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32342,03200096207,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32164,03200096222,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32152,03200096221,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32293,03200096143,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32389,03200096144,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32456,03200096157,2025-03-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32345,03200096429,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32391,03200096154,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32216,03200096149,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32373,03200096156,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32028,03200096155,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32409,03200096150,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32292,03200096124,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32139,03200096194,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32317,03200096131,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32147,03200096035,2025-02-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau présentant une faible conductivité.,C,C,C,N
+32121,03200096036,2025-02-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32399,03200096039,2025-02-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32112,03200096050,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32279,03200096051,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32178,03200096049,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32338,03200096029,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32049,03200096058,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32191,03200096062,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32245,03200096064,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32330,03200096059,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32036,03200096001,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32233,03200095959,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32467,03200095977,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32381,03200096526,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32054,03200096025,2025-02-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32116,03200096023,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32397,03200096024,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32042,03200096013,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32285,03200096014,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32025,03200096007,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32451,03200096041,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32418,03200096040,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32321,03200096038,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32057,03200095958,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32318,03200096580,2025-02-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32364,03200096022,2025-02-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32306,03200096055,2025-02-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32376,03200096070,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32313,03200096067,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32422,03200095938,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+32175,03200095936,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32331,03200095908,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32384,03200095909,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32459,03200095907,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32276,03200095897,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32069,03200095895,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32048,03200095894,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32315,03200095858,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32097,03200095885,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32462,03200095884,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32237,03200095838,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32220,03200095920,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32319,03200095916,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32215,03200095870,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32170,03200095921,2025-01-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32417,03200095913,2025-01-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32200,03200095857,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32311,03200095881,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32047,03200095880,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32307,03200095856,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32297,03200095898,2025-01-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32407,03200095899,2025-01-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32242,03200095876,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32419,03200095883,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32226,03200095882,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32015,03200095877,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32055,03200095924,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32248,03200095925,2025-01-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+32241,03200095934,2025-01-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

@@ -1,0 +1,310 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+09267,00900165790,2025-12-30,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,C
+09066,00900165781,2025-12-29,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,N
+09192,00900165782,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09041,00900165776,2025-12-23,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09035,00900165752,2025-12-23,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09290,00900161362,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09280,00900165777,2025-12-22,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,N
+09182,00900161338,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09032,00900161297,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09065,00900161326,2025-12-22,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09195,00900162758,2025-12-19,Ces résultats permettent de constater que l'eau distribuée est de nouveau conforme aux limites de qualité. Les restrictions de consommation précédemment mises en place pour cette  eau peuvent être levées.,C,C,C,C
+09136,00900161229,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09015,00900162756,2025-12-18,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09090,00900161210,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09210,00900161249,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09338,00900161290,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09227,00900162522,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09067,00900161308,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09074,00900161180,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09147,00900161309,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09282,00900161261,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09002,00900161185,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09185,00900161307,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09139,00900161239,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09220,00900161254,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09325,00900161183,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09311,00900161257,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09140,00900161240,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09232,00900161258,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09197,00900161244,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09082,00900161218,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09164,00900161376,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09225,00900161174,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09301,00900161366,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09149,00900161215,2025-12-16,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non- conformité concernant les chlorites n'a pas nécessité la restri ction de la consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité d e l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution d u paramètre et vérifier le retour à une situation normale.,C,C,C,N
+09324,00900161269,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09247,00900161374,2025-12-16,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non- conformité concernant les chlorites n'a pas nécessité la restri ction de la consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité d e l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution d u paramètre et vérifier le retour à une situation normale.,C,C,C,N
+09312,00900161207,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09042,00900161200,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+09064,00900161202,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09320,00900161283,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09211,00900162761,2025-12-15,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09206,00900162751,2025-12-15,Eau d'alimentation conforme aux limites de qualité en vigueur sur les paramètres mesurés.,C,S,C,S
+09283,00900161196,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09138,00900162632,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+09156,00900161181,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09174,00900161274,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09122,00900161233,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09114,00900161329,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09223,00900162759,2025-12-11,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique et n'a toutefois pas nécessité de restriction de la  consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives néc essaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé afin de suivre l'évolution du paramètre et de vérifier le re tour à une situation normale.,C,C,N,C
+09198,00900162757,2025-12-11,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09285,00900162746,2025-12-11,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09265,00900161259,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09130,00900161235,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09179,00900161281,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09214,00900161342,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09068,00900161285,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09059,00900161321,2025-12-11,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité porte sur au moins un paramètre microbiologique ainsi que sur la turbidité et n'a pas nécessité de restriction de la consom mation de l'eau. Il a été demandé à l'exploitant de prendre les mesure s correctives nécessaires pour rétablir la qualité de l'eau. Un nouvea u contrôle a été programmé pour suivre l'évolution du paramètre et vér ifier le retour à une situation normale.,C,C,N,N
+09092,00900162753,2025-12-11,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09293,00900161263,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09131,00900162750,2025-12-11,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09118,00900161293,2025-12-11,"La sécurité sanitaire de cette eau ne pouvant être garantie du fait de sa non-conformité chronique aux exigences de qualité, elle fait l’obj et d’une mesure d’interdiction de consommation permanente pour préserv er la santé des consommateurs.",C,C,C,N
+09124,00900161280,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09167,00900161305,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09181,00900161279,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09141,00900161331,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09219,00900161343,2025-12-10,Eau d'alimentation non conforme aux exigences de qualité en vigueur. La non-conformité concerne au moins un paramètre microbiologique et n'a toutefois pas nécessité de restriction de la  consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau.,C,C,N,C
+09129,00900161330,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09085,00900161327,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09027,00900162745,2025-12-05,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09013,00900161238,2025-12-04,Eau d'alimentation non conforme aux exigences de qualité en vigueur. E au incrustante.,C,C,C,N
+09008,00900161311,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09245,00900161177,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09222,00900161256,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09021,00900161178,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09334,00900161266,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09213,00900161384,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09030,00900161301,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09200,00900161245,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09111,00900161119,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09043,00900161184,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09062,00900161322,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09017,00900161316,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09047,00900161298,2025-12-04,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,C
+09125,00900161294,2025-12-04,"La sécurité sanitaire de cette eau ne pouvant être garantie du fait de sa non-conformité chronique aux exigences de qualité, elle fait l’obj et d’une mesure d’interdiction de consommation permanente pour préserv er la santé des consommateurs.",C,C,C,C
+09134,00900162744,2025-12-04,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09295,00900161264,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09093,00900161211,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09296,00900161265,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09088,00900162736,2025-12-03,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09291,00900161365,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09005,00900161310,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09231,00900162741,2025-12-03,Ces résultats permettent de constater que l'eau distribuée est de nouveau conforme aux limites de qualité. Les restrictions de consommation précédemment mises en place pour cette  eau peuvent être levées.,C,C,C,N
+09004,00900161291,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09024,00900161179,2025-12-03,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concernant le radon ne nécessite pas de mesure de res triction d’usage de l’eau.,C,C,C,N
+09155,00900162735,2025-12-03,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09016,00900161189,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09294,00900161289,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09306,00900161380,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09123,00900161299,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09292,00900161262,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09241,00900161383,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09196,00900161340,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09216,00900161251,2025-12-02,Eau d'alimentation non conforme aux exigences de qualité en vigueur. La non conformité concerne la turbidité et n'a pas nécessité de restriction de la consommation de l'eau. Ce point de prélèvement peu utilisé n'est pas représentatif de la qualité de l'eau distribuée pour ce paramètre.,C,C,C,C
+09045,00900161378,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09203,00900161341,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09304,00900161267,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09261,00900161373,2025-12-02,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non- conformité concernant les chlorites n'a pas nécessité la restri ction de la consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité d e l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution d u paramètre et vérifier le retour à une situation normale.,C,C,C,N
+09323,00900161282,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09221,00900161255,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09272,00900161260,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09100,00900161328,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09087,00900161209,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09322,00900161372,2025-12-01,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique et n'a toutefois pas nécessité de restriction de la  consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives néc essaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé afin de suivre l'évolution du paramètre et de vérifier le re tour à une situation normale.,C,C,N,C
+09330,00900161271,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09176,00900161241,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09180,00900162660,2025-12-01,"Ce prélèvement met en évidence la présence d'hydrocarbures aromatiques polycycliques à des seuils inférieurs aux exigences réglementaires. L'équivalence toxique a été calculée et démontre que le risque sanitaire est négligeable, toutefois des investigations doivent être menées pour identifier les canalisations à l'origine de ce relargage d'hydrocarbures et prioriser leur remplaceme nt.",S,N,S,C
+09194,00900161243,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09029,00900161318,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09226,00900161272,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09077,00900162742,2025-12-01,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09143,00900161230,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09262,00900161303,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09018,00900161317,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09103,00900161753,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09303,00900161156,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09269,00900161028,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09299,00900161142,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09009,00900160969,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09113,00900161123,2025-11-27,"La sécurité sanitaire de cette eau ne pouvant être garantie du fait de sa non-conformité chronique aux exigences de qualité, elle fait l’obj et d’une mesure d’interdiction de consommation permanente pour préserv er la santé des consommateurs.",N,C,N,C
+09014,00900161096,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09193,00900161016,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09095,00900161117,2025-11-26,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. C ette non conformité concernant la turbidité n'a pas nécessité de restr iction de la consommation de l'eau. Ce paramètre mesure la présence de particules en suspension (argiles, colloïdes, etc.) dans l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessai res pour rétablir la qualité de l'eau. Un nouveau contrôle a été progr ammé afin de suivre l'évolution du paramètre et de vérifier le retour à une situation normale.",C,N,C,N
+09011,00900162655,2025-11-26,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09020,00900160972,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09230,00900161019,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09335,00900160950,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09239,00900161059,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09025,00900161099,2025-11-26,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique et n'a toutefois pas nécessité de restriction de la  consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives néc essaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé afin de suivre l'évolution du paramètre et de vérifier le re tour à une situation normale.,C,C,N,N
+09252,00900161026,2025-11-26,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,C
+09073,00900161069,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09158,00900161144,2025-11-25,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concernant l'aluminium n'a pas nécessité de restricti on de la consommation de l'eau. Il a été demandé à l'exploitant de pre ndre les mesures correctives nécessaires pour rétablir la qualité de l 'eau. Un nouveau contrôle a été programmé afin de suivre l'évolution d u paramètre et de vérifier le retour à une situation normale.,C,C,C,N
+09307,00900160952,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09001,00900160967,2025-11-25,"La sécurité sanitaire de cette eau ne pouvant être garantie du fait de sa non-conformité chronique aux exigences de qualité, elle fait l’obj et d’une mesure d’interdiction de consommation permanente pour préserv er la santé des consommateurs.",N,C,N,N
+09127,00900161002,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09328,00900161055,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09031,00900160977,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09171,00900161010,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09318,00900161052,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09044,00900160987,2025-11-24,"La sécurité sanitaire de cette eau ne pouvant être garantie du fait de sa non-conformité chronique aux exigences de qualité, elle fait l’obj et d’une mesure d’interdiction de consommation permanente pour préserv er la santé des consommateurs.",N,C,N,N
+09229,00900162656,2025-11-20,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,C
+09339,00900161073,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09207,00900161064,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09133,00900161003,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09152,00900161007,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09160,00900161082,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09052,00900160965,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09188,00900161013,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09007,00900160968,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09236,00900161022,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09246,00900160958,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09315,00900161072,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09071,00900160991,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09120,00900162651,2025-11-06,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09121,00900161062,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09300,00900161050,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09166,00900161079,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09126,00900161001,2025-11-06,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,C
+09023,00900160973,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09298,00900161049,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09165,00900160988,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09189,00900161014,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09159,00900161009,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09080,00900161060,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09234,00900161020,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09050,00900160962,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09319,00900160963,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09055,00900161102,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09034,00900161101,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09132,00900161071,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09109,00900161066,2025-11-04,"Eau non conforme aux références de qualité bactériologique. Toutefois, au regard du résiduel de traitement mesuré (0,38 mg/l) , cette non-conformité ne présente aucun risque sanitaire pour la population alimentée.",C,C,N,C
+09057,00900161104,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09279,00900161150,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09150,00900161074,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09305,00900160966,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09069,00900161115,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09051,00900160990,2025-11-04,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non conformité concerne la turbidité et n'a pas nécessité de restric tion de la consommation de l'eau. Ce paramètre permet de mesurer le ta ux de particules en suspension présentes dans l'eau (argiles, colloïde s,...). Il a été demandé à l'exploitant de prendre les mesures correct ives nécessaires pour rétablir la qualité de l'eau. Un nouveau contrôl e a été programmé pour suivre l'évolution du paramètre et vérifier le retour à une situation normale.",C,C,C,N
+09076,00900161085,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09314,00900160821,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09012,00900160740,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09326,00900160822,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09070,00900160808,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09224,00900160838,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09145,00900160820,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09251,00900160737,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09249,00900162521,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09157,00900160730,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09336,00900160841,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09273,00900160809,2025-10-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09310,00900160818,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09162,00900160772,2025-10-21,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité concerne au moins un paramètre microbiologique. Cepen dant, la détection des germes présents dans l'eau n'a pas nécessité de restriction de la consommation de l'eau.",C,C,N,N
+09263,00900160891,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09006,00900160735,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09038,00900160845,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09260,00900160842,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09264,00900160810,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09276,00900160722,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09053,00900160750,2025-10-09,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non conformité concernant la turbidité n'a pas nécessité de restrict ion de la consommation de l'eau. Ce paramètre permet de mesurer le tau x de particules en suspension présentes dans l'eau (argiles, colloïdes ,...). Il a été demandé à l'exploitant de prendre les mesures correcti ves nécessaires pour rétablir la qualité de l'eau.",C,C,C,N
+09170,00900160847,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09205,00900160844,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09250,00900160811,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09172,00900160817,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09218,00900160792,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09063,00900160753,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09108,00900160814,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09098,00900160915,2025-10-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09153,00900160839,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09268,00900160908,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09003,00900160748,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09297,00900160900,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09202,00900160779,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09107,00900160587,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09187,00900160612,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09243,00900160495,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09204,00900162567,2025-09-16,Ces résultats permettent de constater que l'eau distribuée est de nouveau conforme aux limites de qualité. Les restrictions de consommation précédemment mises en place pour cette  eau peuvent être levées.,C,C,C,N
+09270,00900160642,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09215,00900160592,2025-09-11,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité porte sur au moins un paramètre microbiologique et n' a toutefois pas nécessité de restriction de la consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives néc essaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution du paramètre et vérifier le retour à une situation normale.,C,C,N,N
+09169,00900160586,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09099,00900160574,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09217,00900160630,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09105,00900160582,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09309,00900160588,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09060,00900162543,2025-09-04,Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité porte sur au moins un paramètre microbiologique et n' a toutefois pas nécessité de restriction de la consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives néc essaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution du paramètre et vérifier le retour à une situation normale.,C,C,N,C
+09078,00900160577,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09026,00900160637,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09173,00900162547,2025-09-02,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement du contrôle sanitaire sur les hameau de Fantet et Bélard (commune de Cazaux) n'a pas été retrouvée sur la commune de Loubens.,C,C,C,N
+09271,00900160485,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09275,00900160372,2025-09-01,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non-conformité porte sur au moins un paramètre microbiologique et n'a toutefois pas nécessité de restriction de la consommation de l'eau. Compte tenu du résiduel de désinfection très élevé, cette non conformité ne présente aucun risque pour la santé, toutefois la chloration doit être diminuée. Une teneur de 0,3 mg/l de chlore en sortie production et 0,1 mg/l en tout point du réseaux doit être visée.",C,C,N,C
+09058,00900160629,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09277,00900160349,2025-08-26,"Eau d'alimentation non conforme aux exigences de qualité en vigueur. L a non conformité concernant la turbidité n'a pas nécessité de restrict ion de la consommation de l'eau. Ce paramètre permet de mesurer le tau x de particules en suspension présentes dans l'eau (argiles, colloïdes ,...). Il a été demandé à l'exploitant de prendre les mesures correcti ves nécessaires pour rétablir la qualité de l'eau.",C,C,C,N
+09341,00900160353,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09321,00900160263,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09228,00900160312,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09256,00900160238,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09104,00900160296,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09142,00900160340,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09284,00900160352,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09183,00900160443,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09190,00900162501,2025-08-08,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09084,00900160348,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09096,00900160337,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09257,00900160253,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09242,00900162505,2025-08-01,Eau d'alimentation conforme aux limites de qualité en vigueur sur les paramètres mesurés.,C,C,C,C
+09089,00900160138,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09083,00900160112,2025-07-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09049,00900160103,2025-07-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09146,00900162495,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Ces résultats permettent de constater que l'eau distribuée est de nouveau conforme aux limites de qualité. Les restrictions de consommation précédemment mises en place pour cette  eau peuvent être levées.,C,C,C,C
+09168,00900160105,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09340,00900160120,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09101,00900160118,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09148,00900162447,2025-07-04,Ces résultats permettent de constater que l'anomalie mise en évidence lors du dernier prélèvement de contrôle sanitaire a été corrigée.,C,C,C,N
+09237,00900160104,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09102,00900160016,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09266,00900160117,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09259,00900160135,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09332,00900159862,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09161,00900159784,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09079,00900159857,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09316,00900159859,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09209,00900159964,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09117,00900159890,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09137,00900159818,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09289,00900159957,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09072,00900159860,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09177,00900159776,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09240,00900159603,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09274,00900159500,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09119,00900159585,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09110,00900159586,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09327,00900159502,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09097,00900159591,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09075,00900159495,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09258,00900159501,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09342,00900159496,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09040,00900159336,2025-04-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09253,00900159335,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09115,00900159255,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09019,00900159334,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09254,00900159337,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09184,00900159434,2025-04-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+09163,00900159248,2025-04-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09212,00900159330,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09154,00900159280,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09178,00900159357,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09022,00900159109,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09106,00900159021,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09086,00900159194,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09048,00900159108,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09116,00900159016,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,N
+09061,00900159105,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09331,00900158882,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09238,00900158865,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09281,00900158852,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09235,00900158955,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09056,00900158451,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09039,00900158587,2025-01-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09186,00900158573,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09199,00900158585,2025-01-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+09244,00900159110,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

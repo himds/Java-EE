@@ -1,0 +1,551 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+27035,02700174220,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est excessive.,C,C,C,C
+27229,02700173910,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27251,02700173895,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27242,02700173901,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27410,02700173908,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27165,02700173900,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27533,02700173902,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27379,02700173903,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27051,02700173898,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27602,02700173899,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27176,02700173909,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est excessive.,C,C,C,C
+27117,02700173897,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27284,02700173904,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27213,02700173905,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27516,02700173896,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27681,02700173907,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27056,02700173894,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27438,02700173721,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27152,02700173724,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27193,02700173720,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27003,02700173892,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27697,02700173890,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27421,02700173719,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27469,02700173891,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27018,02700173885,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27183,02700173717,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27067,02700173893,2025-11-13,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27006,02700173884,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27114,02700173718,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27226,02700173725,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est excessive.,C,C,C,C
+27358,02700173716,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27428,02700173712,2025-11-12,"Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur. La collectivité bénéficie d'une dérogation préfectorale l’autorisant à distribuer une eau destinée à la consommation humaine dépassant la limite de qualité de 50 mg/l pour les nitrates pendant la durée des travaux nécessaires au retour à la conformité. Par ailleurs, en raison du dénombrement impossible de certains paramètres bactériologiques, une analyse bactériologique complémentaire a été effectuée le 18/11/2025. Celle-ci est conforme.",C,D,C,C
+27562,02700173888,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27116,02700173713,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27285,02700173887,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27466,02700173882,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27097,02700173889,2025-11-12,"Eau d'alimentation non conforme aux exigences de qualité fixées pour l'atrazine déséthyl et l'atrazine déséthyl déisopropyl. Leurs valeurs sanitaires de référence, fixées à 60 µg/L ne sont pas dépassées. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres.",S,N,S,C
+27279,02700173792,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27554,02700173787,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27427,02700173700,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27363,02700173678,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27138,02700173703,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27133,02700173679,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27414,02700173790,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27191,02700173705,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27514,02700173704,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27467,02700173677,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27295,02700173702,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27591,02700173676,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27016,02700173699,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27112,02700173682,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27008,02700173791,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27422,02700173693,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27679,02700173683,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27558,02700173789,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27069,02700173694,2025-11-05,Eau non conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Cette non-conformité ne concerne que les habitations situées au hameau des Trez. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur.,S,C,S,C
+27180,02700173691,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27267,02700173671,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27151,02700173697,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27502,02700173681,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27520,02700173673,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27246,02700173695,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27470,02700173696,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27685,02700173684,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27079,02700173672,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27627,02700173674,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27512,02700173675,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27022,02700173689,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27275,02700173692,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27359,02700173662,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est excessive.,S,C,S,C
+27156,02700173708,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27127,02700173655,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27529,02700173656,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27375,02700173661,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27011,02700173654,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27701,02700173660,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27560,02700173608,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27521,02700173611,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27198,02700173610,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27032,02700173609,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27372,02700173606,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27508,02700173615,2025-10-29,Eau d'alimentation conforme à la limite de qualité fixée pour le chlorure de vinyle. Une contamination avait été identifiée sur le tron çon de canalisation desservant les habitations situées au hameau de la Guiloriche. La canalisation a été remplacée.,S,C,S,C
+27609,02700173593,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27329,02700173599,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27136,02700173604,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27597,02700173594,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27448,02700173605,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27153,02700173596,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27075,02700173601,2025-10-29,Eau d'alimentation conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Une contamination a été identifiée sur le tronçon de canalisation desservant les habitations situées au hameau de la Château Duquerie. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur.,S,C,S,C
+27227,02700173591,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27034,02700173781,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27096,02700173602,2025-10-29,Eau d'alimentation conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Une contamination a été identifiée sur le tronçon de canalisation desservant les habitations situées au hameau des Champs Dolents. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur.,S,C,S,C
+27593,02700173595,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27664,02700173597,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27142,02700173586,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27109,02700173589,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27462,02700173588,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27569,02700173587,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27426,02700173780,2025-10-28,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois. De plus, La concentration en chlore est excessive.",C,C,C,C
+27540,02700173584,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27570,02700173777,2025-10-27,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27224,02700173617,2025-10-27,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur. La collectivité bénéficie d'une dérogation préfectorale l’autorisant à distribuer une eau destinée à la consommation humaine dépassant la limite de qualité de 50 mg/l pour les nitrates pendant la durée des travaux nécessaires au retour à la conformité.	,C,D,C,C
+27572,02700173620,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27089,02700173618,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27425,02700173778,2025-10-27,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27537,02700173621,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27173,02700173619,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27568,02700173535,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27161,02700173779,2025-10-24,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27014,02700173537,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27615,02700173623,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27335,02700173536,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27565,02700173543,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27384,02700173516,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27618,02700173546,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27383,02700173532,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27601,02700173626,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27043,02700173581,2025-10-23,"Eau d'alimentation non conforme aux exigences de qualité fixées pour plusieurs sous-produits de dégradation de pesticides. Les concentrations en chlorothalonil R417888 et en terbuthylazine LM6, mesurées dans le cadre du contrôle renforcé, sont inférieures à leurs valeurs sanitaires transitoires respectives, définies à 3 et 1 µg/L par précaution par le ministère de la santé. De plus, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n’est pas satisfaite. L'eau peut être consommée sans restriction d'usage.",S,N,S,C
+27139,02700173548,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27157,02700173533,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27645,02700173627,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27148,02700173541,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27578,02700173666,2025-10-23,"Eau d'alimentation non conforme aux exigences de qualité fixées pour le chlorothalonil R417888 et la terbuthylazine LM6. La valeur sanitaire transitoire de 3 µg/L définie par précaution par le ministère de la santé et la valeur sanitaire transitoire de la terbuthylazine LM6, fixée à 1 µg/L, ne sont pas dépassées. Par ailleurs, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n’est pas satisfaite. L'eau peut être consommée sans restriction d'usage.",C,N,C,C
+27126,02700173517,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27613,02700173540,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27693,02700173629,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27595,02700173518,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27694,02700173501,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27200,02700173544,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27076,02700173529,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27644,02700173539,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27371,02700173526,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27420,02700173502,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27547,02700173514,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27170,02700173525,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27623,02700173632,2025-10-22,"Eau d'alimentation non conforme aux exigences de qualité fixées pour le chlorothalonil R417888. La valeur sanitaire transitoire fixée à 3 μ g/L, n'est pas dépassée. Par ailleurs, la valeur indicative de 0,9 μg/L définie pour le chlorothalonil R471811 n'est pas satisfaite. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres.",S,N,S,C
+27118,02700173549,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27309,02700173628,2025-10-22,"Eau d'alimentation non conforme aux exigences de qualité fixées pour pour le chlorothalonil R417888. La valeur sanitaire transitoire du chlorothalonil R417888, fixée à 3 µg/L, n'est pas dépassée. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ce paramètre.",S,N,S,C
+27635,02700173504,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27334,02700173528,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27403,02700173513,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27053,02700173509,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27269,02700173523,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27455,02700173524,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27616,02700173510,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27100,02700173665,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27631,02700173508,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27433,02700173511,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27629,02700173507,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27385,02700173664,2025-10-21,Eau d'alimentation non conforme aux exigences de qualité fixées pour la chloridazone desphényl. Les concentrations mesurées dans le cadre du suivi renforcé sont inférieures à sa valeur sanitaire de référence de 11 µg/L. L'eau peut donc être consommée sans restriction d'usage.,C,N,C,C
+27563,02700173571,2025-10-21,Eau d'alimentation non conforme aux exigences de qualité fixées pour la chloridazone desphényl. Les concentrations mesurées dans le cadre du suivi renforcé sont inférieures à sa valeur sanitaire de référence de 11 µg/L. L'eau peut donc être consommée sans restriction d'usage.,S,N,S,C
+27020,02700173653,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27290,02700173512,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27288,02700173475,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27598,02700173465,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27106,02700173474,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27182,02700173479,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27696,02700173469,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27263,02700173472,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27355,02700173467,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27230,02700173466,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27368,02700173470,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27497,02700173476,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27643,02700173468,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27332,02700173483,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27638,02700173473,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27199,02700173445,2025-10-16,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27063,02700173487,2025-10-16,"Eau d'alimentation non conforme aux exigences de qualité fixées pour plusieurs sous-produits de dégradation de pesticides. Les concentrations en chloridazone desphényl et en chloridazone méthyl desphényl, mesurées dans le cadre du suivi renforcé, sont inférieures à leurs valeurs sanitaires de référence respectivement fixée à 10 et 110 µg/L. Les concentrations en chlorothalonil R417888 et en terbuthylazine LM6, mesurées dans le cadre du contrôle renforcé, sont inférieures à leurs valeurs sanitaires transitoires respectives, définies à 3 et 1 µg/L par précaution par le ministère de la santé. De plus, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n’est pas satisfaite. Enfin, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",S,N,S,C
+27090,02700173452,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27492,02700173458,2025-10-16,"Eau d'alimentation non conforme aux exigences de qualité fixées pour la terbuthylazine LM6 et pour le chlorothalonil R417888. La valeur sanitaire transitoire de la terbuthylazine LM6, fixée à 1 µg/L, n'est pas dépassée. La valeur sanitaire transitoire du chlorothalonil R417888, fixée à 3 µg/L, n'est pas dépassée. Par ailleurs, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n'est pas satisfaite. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres. De plus, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",S,N,S,C
+27552,02700173490,2025-10-16,"Eau d'alimentation non conforme aux exigences de qualité fixées pour le chlorothalonil R417888. Les concentrations mesurées dans le cadre du contrôle renforcé sont inférieures à la valeur sanitaire transitoire de 3 µg/L définie par précaution par le ministère de la santé. De plus, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n’est pas satisfaite. L'eau peut être consommée sans restriction d'usage.",S,N,S,C
+27322,02700173453,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27413,02700173488,2025-10-16,Eau d'alimentation non conforme aux exigences de qualité fixées pour la chloridazone desphéynl. Les concentrations mesurées dans le cadre du suivi renforcé sont inférieures à sa valeur sanitaire de référence de 11 µg/L. Cette eau est également non conforme aux exigences de qualité fixées pour le chlorothalonil R417888. Les concentrations mesurées dans le cadre du contrôle renforcé sont inférieures à la valeur sanitaire transitoire de 3 µg/L définie par précaution par le ministère de la santé. L'eau peut être consommée sans restriction d'usage.,S,N,S,C
+27483,02700173451,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27456,02700173463,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27337,02700173449,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+76419,02700173409,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27101,02700173407,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27676,02700173436,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est excessive.,C,C,C,C
+27343,02700173421,2025-10-15,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27458,02700173450,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27140,02700173420,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27338,02700173448,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27342,02700173494,2025-10-15,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",S,C,S,C
+27119,02700173459,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27258,02700173408,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27649,02700173447,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27324,02700173428,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27245,02700173435,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27070,02700173652,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27291,02700173418,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27315,02700173493,2025-10-14,"Eau d'alimentation non conforme aux exigences de qualité fixées pour plusieurs sous-produits de dégradation de pesticides. Les concentrations en chloridazone desphényl et en chloridazone méthyl desphényl, mesurées dans le cadre du suivi renforcé, sont inférieures à leurs valeurs sanitaires de référence respectivement fixée à 11 et 110 µg/L. L'eau peut donc être consommée sans restriction d'usage.",S,N,S,C
+27398,02700173392,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27419,02700173390,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27031,02700173412,2025-10-13,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée. Enfin, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27378,02700173387,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27507,02700173318,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27206,02700173317,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27115,02700173316,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27289,02700173311,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27189,02700173764,2025-10-08,"Eau d'alimentation non conforme aux exigences de qualité fixées pour la terbuthylazine LM6 et pour le chlorothalonil R417888. La valeur sanitaire transitoire de la terbuthylazine LM6, fixée à 1 µg/L, n'est pas dépassée. La valeur sanitaire transitoire du chlorothalonil R417888, fixée à 3 µg/L, n'est pas dépassée. Par ailleurs, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n'est pas satisfaite. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres.",C,N,C,C
+27463,02700173312,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27286,02700173329,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27082,02700173380,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27238,02700173381,2025-10-08,"Eau d'alimentation non conforme aux exigences de qualité fixées pour la terbuthylazine LM6 et pour le chlorothalonil R417888. La valeur sanitaire transitoire de la terbuthylazine LM6, fixée à 1 µg/L, n'est pas dépassée. La valeur sanitaire transitoire du chlorothalonil R417888, fixée à 3 µg/L, n'est pas dépassée. Par ailleurs, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n'est pas satisfaite. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres.",S,N,S,C
+27571,02700173330,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27049,02700173323,2025-10-07,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27658,02700173376,2025-10-07,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates: il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur.La collectivité bénéficie d'une dérogation préfectorale l’autorisant à distribuer une eau destinée à la consommation humaine dépassant la limite de qualité de 50 mg/l pour les nitrates pendant la durée des travaux nécessaires au retour à la conformité.,C,N,C,C
+27130,02700173326,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27370,02700173335,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27005,02700173283,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27624,02700173294,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27002,02700173282,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27304,02700173304,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27527,02700173295,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27085,02700173298,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27073,02700173281,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27105,02700173297,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27254,02700173305,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27678,02700173213,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27205,02700173224,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27620,02700173208,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27388,02700173209,2025-10-02,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27505,02700173223,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27174,02700173206,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27231,02700173203,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27336,02700173200,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27394,02700173188,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27501,02700173201,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27312,02700173202,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27487,02700173190,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27146,02700173166,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27179,02700173192,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27493,02700173191,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27222,02700173197,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27065,02700173167,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27280,02700173199,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27622,02700173292,2025-10-01,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27684,02700173198,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27050,02700173193,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27319,02700173169,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27528,02700173187,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27299,02700173185,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27248,02700173164,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27216,02700173173,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27557,02700173176,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27605,02700173165,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27660,02700173177,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27671,02700173163,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27604,02700173161,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27485,02700173162,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27665,02700173160,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27365,02700173172,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27464,02700173175,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27351,02700173174,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27451,02700173289,2025-09-29,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27187,02700173245,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27369,02700173256,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27511,02700173250,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27504,02700173290,2025-09-29,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27621,02700173244,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27407,02700173255,2025-09-29,Eau d'alimentation non conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Une contamination a été identifiée sur le tronçon de canalisation desservant la Mésangère. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur.,S,N,S,C
+27044,02700173247,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27037,02700173248,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+60211,02700173257,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27498,02700173249,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27234,02700173288,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27548,02700173151,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27113,02700173133,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27555,02700173149,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27162,02700173145,2025-09-25,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",S,C,S,C
+27668,02700173152,2025-09-25,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27611,02700173104,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27339,02700173155,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27435,02700173118,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27104,02700173129,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27321,02700173100,2025-09-24,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27366,02700173130,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27454,02700173131,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27386,02700173102,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27473,02700173370,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27066,02700173127,2025-09-24,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27614,02700173236,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27348,02700173101,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27517,02700173097,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27072,02700173115,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27524,02700173140,2025-09-23,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur. La collectivité bénéficie d'une dérogation préfectorale l’autorisant à distribuer une eau destinée à la consommation humaine dépassant la limite de qualité de 50 mg/l pour les nitrates pendant la durée des travaux nécessaires au retour à la conformité.,C,D,C,C
+27641,02700173136,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27536,02700173135,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27318,02700173141,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27010,02700173114,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27228,02700173137,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27408,02700173095,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27333,02700173110,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27661,02700173139,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27048,02700173058,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27167,02700173051,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27667,02700173061,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27039,02700173048,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27446,02700173055,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27564,02700173108,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27023,02700173056,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27700,02700173050,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27306,02700173066,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27382,02700173064,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27401,02700173065,2025-09-22,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27430,02700173089,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27457,02700173026,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27019,02700173027,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27045,02700173030,2025-09-18,"Eau d'alimentation conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Une contamination a été identifiée sur le tronçon de canalisation desservant les habitations situées au hameau des Ursulines. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur. De plus, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois. Enfin, la concentration en chlore est insuffisante.",S,C,S,C
+27652,02700173022,2025-09-18,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27078,02700173010,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27465,02700173009,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27666,02700172982,2025-09-17,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27190,02700173013,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27330,02700173017,2025-09-17,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur.,C,N,C,C
+27055,02700173016,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27155,02700173087,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27373,02700172999,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27171,02700172997,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27009,02700173003,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27240,02700173088,2025-09-16,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27278,02700172998,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27397,02700172987,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27123,02700172991,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27015,02700172948,2025-09-15,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur.,C,N,C,C
+27390,02700172940,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27391,02700172939,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27188,02700172992,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27496,02700172884,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27377,02700172883,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27672,02700172980,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27447,02700172886,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27670,02700172882,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27580,02700172865,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27518,02700172926,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27316,02700172866,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27103,02700172867,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27209,02700172848,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27481,02700172874,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27592,02700172873,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27545,02700172924,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27259,02700172922,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27459,02700172923,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27052,02700172845,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27490,02700172919,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27317,02700172847,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27431,02700172794,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27095,02700172819,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27287,02700172795,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27437,02700172802,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27094,02700172804,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27553,02700172827,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27495,02700172816,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27673,02700172840,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27313,02700172808,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27543,02700172781,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27522,02700172768,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27021,02700172772,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27212,02700172810,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27655,02700172758,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27453,02700172735,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27108,02700172832,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27243,02700172740,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27396,02700172694,2025-08-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27442,02700172690,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27169,02700172680,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27038,02700172686,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27656,02700172679,2025-08-26,"Eau d'alimentation conforme aux limites de qualité en vigueur pour les paramètres mesurés. Toutefois, la référence de qualité fixée pour les bactéries sulfito-réductrices n'est pas satisfaite. L'analyse du 01/09/2025 est conforme.",C,C,N,C
+27125,02700172655,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27346,02700172632,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27542,02700172616,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27405,02700172648,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27480,02700172620,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27488,02700172756,2025-08-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27144,02700172581,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27277,02700172757,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27132,02700172624,2025-08-18,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",S,C,S,C
+27472,02700172621,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27691,02700172573,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27025,02700172546,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27249,02700172569,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27440,02700172563,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27323,02700172513,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27001,02700172551,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27062,02700172552,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27486,02700172517,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27311,02700172509,2025-08-11,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27534,02700172518,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27418,02700172510,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27690,02700172489,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27654,02700172526,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27582,02700172528,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27689,02700172494,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27400,02700172491,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27326,02700172503,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27110,02700172498,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27203,02700172492,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27612,02700172497,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27135,02700172504,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27686,02700172457,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27064,02700172462,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27349,02700172399,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27633,02700172380,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27302,02700172400,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27530,02700172372,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27177,02700172363,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27695,02700172406,2025-07-28,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur.,C,N,C,C
+27380,02700172347,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27017,02700172310,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27662,02700172339,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27120,02700172311,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27468,02700172292,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27219,02700172288,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27354,02700172290,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27247,02700172284,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27036,02700172263,2025-07-21,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27325,02700172115,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27444,02700172108,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27083,02700172430,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27587,02700172262,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27091,02700172261,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27201,02700172112,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27432,02700172220,2025-07-16,"Eau d'alimentation non conforme aux exigences de qualité fixées pour la chloridazone desphényl, la chloridazone methyl desphényl et pour le chlorothalonil R417888. Les valeurs sanitaires de référence de la chloridazone desphényl et de la chloridazone méthyl desphényl, fixées respectivement à 11 µg/L et 110 µg/L, ne sont pas dépassées. La valeur sanitaire transitoire du chlorothalonil R417888, fixée à 3 µg/L, n'est pas dépassée. Par ailleurs, la valeur indicative de 0,9 µg/L définie pour le chlorothalonil R471811 n'est pas satisfaite. Cette eau peut être consommée sans restriction d'usage. Un contrôle renforcé est mis en place pour suivre l'évolution de ces paramètres.",S,N,S,C
+27181,02700172120,2025-07-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27147,02700172065,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27477,02700172035,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27239,02700172198,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27579,02700172197,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27282,02700172019,2025-07-03,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27033,02700171976,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27663,02700171916,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27412,02700171904,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27406,02700171923,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27154,02700172188,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27294,02700171887,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27541,02700171814,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27429,02700171809,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27567,02700172178,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27047,02700172176,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27194,02700171871,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27539,02700172174,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27168,02700171830,2025-06-24,Eau d'alimentation non conforme à la limite de qualité fixée pour les nitrates : il est recommandé aux femmes enceintes et nourrissons de ne pas consommer cette eau. Les autres paramètres mesurés sont conformes aux exigences de qualité en vigueur.,C,N,C,C
+27610,02700171827,2025-06-24,Eau d'alimentation conforme à la limite de qualité fixée pour le chlorure de vinyle. La présence de cette substance dans l'eau s'explique par sa migration à partir de certaines canalisations d'eau potable en PVC antérieur à 1980 dans des conditions bien particulières. Une contamination a été identifiée sur le tronçon de canalisation desservant les habitations situées au hameau du Haut Brou. Des actions destinées à assurer la conformité de l'eau distribuée sont en cours sur ce secteur.,S,C,S,C
+27584,02700171787,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27028,02700172167,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27271,02700172168,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27500,02700171789,2025-06-23,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, la présence de bactéries aérobies revivifiables en quantité importante est observée.",C,C,C,C
+27046,02700172164,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27068,02700172159,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27535,02700171746,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27040,02700171744,2025-06-17,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, en raison de la présence régulière de perchlorates à des concentrations supérieures à 4 µg/L, il est recommandé de ne pas utiliser cette eau pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27489,02700171708,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27617,02700171709,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27099,02700171638,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27273,02700172156,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27124,02700171954,2025-06-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27129,02700171623,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27698,02700172144,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27381,02700171599,2025-06-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27196,02700172157,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27307,02700171631,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27134,02700171604,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27266,02700171507,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27608,02700172088,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27012,02700171487,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27207,02700172075,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27220,02700171455,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27102,02700171415,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27360,02700171388,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27137,02700171310,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27632,02700171313,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27683,02700171288,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27341,02700171260,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+27347,02700171259,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27625,02700171286,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27027,02700171258,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27460,02700171302,2025-04-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27599,02700171149,2025-04-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27478,02700171103,2025-04-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27395,02700171151,2025-04-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27364,02700171140,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27417,02700171134,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27281,02700171138,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27164,02700171137,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27476,02700171099,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27646,02700171041,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27650,02700171036,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27256,02700171004,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27677,02700171035,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27185,02700171037,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27680,02700171168,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27399,02700170994,2025-04-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27436,02700170974,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27204,02700170931,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La concentration en chlore est insuffisante.,C,C,C,C
+27276,02700170933,2025-03-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27111,02700170886,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27215,02700170881,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27059,02700170927,2025-03-27,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27630,02700170880,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27376,02700170900,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27350,02700170884,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27531,02700170870,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27061,02700170871,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27445,02700170891,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27208,02700170869,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27149,02700170872,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27424,02700170896,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27163,02700170867,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27659,02700170716,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27074,02700170712,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27434,02700170723,2025-03-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27237,02700170728,2025-03-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27590,02700170729,2025-03-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27692,02700170707,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27439,02700170685,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27682,02700171192,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27546,02700170625,2025-03-13,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27004,02700170651,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27474,02700170636,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27261,02700170659,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27013,02700170641,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27411,02700170645,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27393,02700170656,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27026,02700170672,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27252,02700170666,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27544,02700170646,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27077,02700170655,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27538,02700170606,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27158,02700170510,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27345,02700170615,2025-03-05,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Toutefois, cette eau présentant une concentration en perchlorates supérieure à 4 µg/L, il est recommandé de ne pas l'utiliser pour la préparation des biberons des nourrissons de moins de 6 mois.",C,C,C,C
+27423,02700170506,2025-03-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27210,02700170493,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27389,02700170498,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27301,02700170463,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27594,02700170465,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27561,02700170458,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27217,02700170436,2025-02-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27141,02700170405,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27550,02700170291,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27218,02700170322,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27586,02700170286,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27589,02700170303,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27310,02700170302,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27054,02700170165,2025-02-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27374,02700170160,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27260,02700170129,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27606,02700170128,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27214,02700170100,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+27367,02700170056,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

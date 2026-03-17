@@ -1,0 +1,415 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+52354,05200105238,2025-12-30,"Eau d'alimentation non conforme à la limite de qualité réglementaire en raison de la présence de nitrates. La consommation d’eau dépassant les 50 mg/L en nitrates est à éviter pour les personnes fragiles (nourrissons de moins de six mois, femmes enceintes), qui doivent être averties. Un suivi renforcé de ce paramètre sera mis en place jusqu'au retour à une situation normale.",S,N,S,C
+52121,05200105237,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52125,05200105376,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52272,05200105235,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52308,05200105236,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52514,05200105233,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52297,05200105226,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52428,05200105231,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52353,05200105228,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52473,05200105232,2025-12-29,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52332,05200105240,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52306,05200105227,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52444,05200105229,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52113,05200105225,2025-12-29,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52529,05200105234,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52355,05200105230,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52484,05200105221,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52250,05200105219,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52442,05200105218,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52181,05200105374,2025-12-23,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante.,C,C,C,N
+52177,05200105220,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52230,05200105222,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52371,05200105217,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52260,05200105224,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52185,05200105192,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52208,05200105223,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52060,05200105189,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52384,05200105194,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52536,05200105216,2025-12-22,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices et de coliformes totaux. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52027,05200105197,2025-12-22,"Eau non conforme aux limites de qualité sur le plan bactériologique. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau (renforcement de la chloration, vérification du système de chloration...). Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",N,C,N,C
+52092,05200105215,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52344,05200105239,2025-12-22,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52094,05200105196,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52542,05200105193,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52001,05200105200,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52085,05200105187,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52385,05200105180,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52489,05200105167,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52373,05200105212,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52476,05200105168,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52347,05200105179,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52265,05200105178,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52123,05200105166,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52370,05200105164,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52448,05200105176,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52118,05200105165,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52502,05200105163,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52079,05200105175,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52512,05200105169,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52543,05200105162,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52037,05200105161,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52365,05200105267,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52431,05200105158,2025-12-17,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52114,05200105172,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52040,05200105173,2025-12-17,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52028,05200105174,2025-12-17,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52016,05200105160,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52439,05200105138,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52274,05200105268,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52526,05200105159,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52469,05200105140,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52115,05200105141,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52457,05200105137,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52155,05200105134,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52093,05200105133,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52162,05200105131,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52374,05200105135,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52164,05200105130,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52134,05200105117,2025-12-16,"Eau d'alimentation non conforme à la limite de qualité réglementaire en raison de la présence de nitrates. La consommation d’eau dépassant les 50 mg/L en nitrates est à éviter pour les personnes fragiles (nourrissons de moins de six mois, femmes enceintes), qui doivent être averties. Un suivi renforcé de ce paramètre sera mis en place jusqu'au retour à une situation normale.",S,N,S,C
+52520,05200105145,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52415,05200105203,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52275,05200105156,2025-12-16,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,N,N
+52311,05200105186,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52397,05200105129,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52516,05200105116,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52035,05200105118,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52486,05200105171,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52507,05200105114,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52089,05200105128,2025-12-15,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52432,05200105120,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52237,05200105110,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52008,05200105111,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52207,05200105094,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52348,05200105096,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52362,05200105091,2025-12-12,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52011,05200105099,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52375,05200105127,2025-12-12,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52438,05200105109,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52197,05200105090,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52083,05200105144,2025-12-12,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52388,05200105155,2025-12-12,"Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en Carbone Organique Total (COT). Le COT est un indicateur de la qualité générale de l’eau. Il peut révéler un risque de contamination microbiologique, de perturbation de la désinfection et participer à la prolifération de biofilm dans les réseaux. Le goût et la couleur de l’eau sont également susceptibles d’être altérés.",C,C,C,N
+52013,05200105092,2025-12-12,"Eau non conforme aux limites de qualité sur le plan bactériologique. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau (renforcement de la chloration, vérification du système de chloration...). Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",N,C,N,C
+52200,05200105089,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52137,05200105107,2025-12-11,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52395,05200105079,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52393,05200105077,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52383,05200105076,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52107,05200105074,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52074,05200105106,2025-12-10,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52396,05200105084,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52163,05200105105,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52120,05200105083,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52372,05200105086,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52033,05200105126,2025-12-10,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau.,C,C,C,N
+52470,05200105085,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52377,05200105069,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52158,05200105067,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52446,05200105068,2025-12-09,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52216,05200105082,2025-12-09,"Eau non conforme aux limites de qualité sur le plan bactériologique. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau (renforcement de la chloration, vérification du système de chloration...). Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale. Eau présentant des pesticides en quantité supérieure à la limite de qualité (0,1 μg/L). La valeur mesurée reste inférieure à la valeur sanitaire maximale. Un suivi renforcé de ce paramètre sera mis en place jusqu'au retour à une situation normale.",N,N,N,C
+52497,05200105054,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52550,05200105053,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52294,05200105051,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52244,05200105125,2025-12-09,Eau d'alimentation conforme aux limites de qualité par dérogation et conforme aux références de qualité.,C,D,C,C
+52182,05200105153,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52500,05200105055,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52475,05200105265,2025-12-09,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52196,05200105276,2025-12-08,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,N,N,C
+52307,05200105063,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52366,05200105066,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52072,05200105057,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52312,05200105065,2025-12-08,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52211,05200105201,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52055,05200105050,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52449,05200105184,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52240,05200105037,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52493,05200105036,2025-12-05,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52546,05200105064,2025-12-05,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau. Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.",C,C,N,N
+52136,05200105032,2025-12-05,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52394,05200105043,2025-12-05,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52483,05200105034,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52544,05200105035,2025-12-05,Eau d'alimentation conforme aux limites de qualité mais ne satisfaisant pas aux références réglementaires pour le paramètre conductivité : eau susceptible d'être corrosive (<200) ou entartrante (>1100).,C,C,C,N
+52350,05200105060,2025-12-05,Eau d'alimentation conforme aux limites de qualité mais ne satisfaisant pas aux références réglementaires pour le paramètre conductivité : eau susceptible d'être corrosive (<200) ou entartrante (>1100). Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en sulfates. En raison d'éventuels effets laxatifs l'utilisation de cette eau est déconseillée pour les nourrissons (pour la boisson et la préparation des aliments). Un goût particulier de l'eau peut être ressenti.,C,C,C,N
+52522,05200105017,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52310,05200105049,2025-12-04,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52019,05200105031,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52411,05200105018,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52088,05200105030,2025-12-04,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau.,C,C,C,N
+52321,05200105042,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52528,05200105045,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52034,05200105048,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52130,05200105015,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52455,05200104981,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52278,05200105019,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52064,05200104979,2025-12-03,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52221,05200104982,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52472,05200105009,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52234,05200105006,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52322,05200104984,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52301,05200104978,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52358,05200104980,2025-12-03,"Eau non conforme aux limites de qualité sur le plan bactériologique. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau (renforcement de la chloration, vérification du système de chloration...). Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",N,C,N,C
+52099,05200105005,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52488,05200105003,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52541,05200105004,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52235,05200104995,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52194,05200104996,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52248,05200105046,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52461,05200105002,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52414,05200104994,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52401,05200105001,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52305,05200104999,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52050,05200105243,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52437,05200104968,2025-12-01,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52540,05200104969,2025-12-01,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52023,05200105041,2025-12-01,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52189,05200104964,2025-12-01,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52360,05200104965,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52405,05200104974,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52515,05200104975,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52364,05200104962,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52147,05200104927,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52070,05200104954,2025-11-28,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52285,05200104955,2025-11-28,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52014,05200104928,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52271,05200104922,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52295,05200104932,2025-11-28,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52519,05200104930,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52217,05200104951,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52416,05200104924,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52044,05200104945,2025-11-27,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52058,05200104947,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52061,05200104907,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52298,05200104943,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52549,05200104942,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52195,05200104941,2025-11-26,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52105,05200104938,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52247,05200104991,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52482,05200104906,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52505,05200104940,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52097,05200104903,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52187,05200104902,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52006,05200104897,2025-11-25,"Eau d'alimentation non conforme à la limite de qualité réglementaire en raison de la présence de nitrates. La consommation d’eau dépassant les 50 mg/L en nitrates est à éviter pour les personnes fragiles (nourrissons de moins de six mois, femmes enceintes), qui doivent être averties. Un suivi renforcé de ce paramètre sera mis en place jusqu'au retour à une situation normale.",S,N,S,C
+52075,05200104919,2025-11-25,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52204,05200104918,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52456,05200104901,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52142,05200105119,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52490,05200104900,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52029,05200104914,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52128,05200104882,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52548,05200104881,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52459,05200104883,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52007,05200104989,2025-11-24,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52242,05200104824,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52392,05200104825,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52289,05200104844,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52256,05200104870,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52517,05200104871,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52468,05200104872,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52423,05200104826,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52349,05200104842,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52269,05200105202,2025-11-20,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante.,C,C,C,N
+52464,05200105025,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52406,05200104861,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52303,05200104820,2025-11-19,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau.,C,C,C,N
+52103,05200104818,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52264,05200104819,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52391,05200104815,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52135,05200104862,2025-11-19,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en sulfates. En raison d'éventuels effets laxatifs l'utilisation de cette eau est déconseillée pour les nourrissons (pour la boisson et la préparation des aliments). Un goût particulier de l'eau peut être ressenti.,C,C,C,N
+52331,05200105040,2025-11-19,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52266,05200104814,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52110,05200104813,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52201,05200104817,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52525,05200104812,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52419,05200104810,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52300,05200104804,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52031,05200104807,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52198,05200104805,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52140,05200104809,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52169,05200104864,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52413,05200104802,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52336,05200104801,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52465,05200104769,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52547,05200104768,2025-11-17,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52357,05200104799,2025-11-17,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52004,05200104800,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52288,05200104828,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52131,05200104859,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52151,05200104751,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52017,05200104750,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52407,05200104757,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52369,05200104749,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52335,05200104748,2025-11-14,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52141,05200104973,2025-11-14,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52022,05200104797,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52165,05200104752,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52168,05200104755,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52205,05200104839,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52518,05200104742,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52246,05200104929,2025-11-13,"Eau d'alimentation non conforme à la limite de qualité réglementaire en raison de la présence de nitrates. La consommation d’eau dépassant les 50 mg/L en nitrates est à éviter pour les personnes fragiles (nourrissons de moins de six mois, femmes enceintes), qui doivent être averties. Un suivi renforcé de ce paramètre sera mis en place jusqu'au retour à une situation normale. Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,N,N,N
+52104,05200104739,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52045,05200104838,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52429,05200104763,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52030,05200104726,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52330,05200104703,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52087,05200104915,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52076,05200104725,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52538,05200104718,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52539,05200104723,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52424,05200104721,2025-11-10,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée. Eau d'alimentation conforme aux limites de qualité mais ne satisfaisant pas aux références réglementaires pour le paramètre conductivité : eau susceptible d'être corrosive (<200) ou entartrante (>1100).,C,C,C,N
+52228,05200104770,2025-11-10,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52229,05200104720,2025-11-10,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52043,05200104744,2025-11-10,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau. Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,N
+52318,05200104732,2025-11-10,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52213,05200104717,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52390,05200104678,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52513,05200104677,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52051,05200104680,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52015,05200104681,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52273,05200104684,2025-11-05,Eau d'alimentation conforme aux limites de qualité mais ne satisfaisant pas aux références réglementaires pour le paramètre conductivité : eau susceptible d'être corrosive.,C,C,C,N
+52276,05200104832,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52090,05200104664,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52119,05200104665,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52492,05200104666,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52290,05200104693,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52065,05200104659,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52129,05200104660,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52479,05200104830,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52386,05200104716,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52534,05200104631,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52292,05200104634,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52327,05200104783,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52178,05200104637,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52156,05200105013,2025-10-31,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52245,05200104620,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52286,05200104654,2025-10-30,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52220,05200104582,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52108,05200104600,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52453,05200104617,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52443,05200104688,2025-10-28,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52506,05200104599,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52157,05200104550,2025-10-27,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau.,C,C,C,N
+52436,05200104552,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52190,05200104518,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52319,05200104519,2025-10-24,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52179,05200104509,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52171,05200104507,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52399,05200104536,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52232,05200104533,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52284,05200104648,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52463,05200104502,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52227,05200104474,2025-10-20,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52421,05200104591,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52480,05200104438,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52359,05200104435,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52487,05200104430,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52257,05200104433,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52341,05200104418,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52346,05200104414,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52175,05200104413,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52440,05200104415,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52039,05200104416,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52504,05200104412,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52047,05200104375,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52400,05200104398,2025-10-10,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52378,05200104351,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52445,05200104350,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52084,05200104318,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52523,05200104325,2025-10-06,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52420,05200104342,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52258,05200104480,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52203,05200104523,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52038,05200104281,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52352,05200104283,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52425,05200104268,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52102,05200104260,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52174,05200104257,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52095,05200104594,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52067,05200104201,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52002,05200104243,2025-09-29,"Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée. Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau. Eau d'alimentation conforme aux limites de qualité mais ne satisfaisant pas aux références réglementaires pour le paramètre conductivité : eau susceptible d'être corrosive (<200) ou entartrante (>1100). Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en Carbone Organique Total (COT). Le COT est un indicateur de la qualité générale de l’eau. Il peut révéler un risque de contamination microbiologique, de perturbation de la désinfection et participer à la prolifération de biofilm dans les réseaux. Le goût et la couleur de l’eau sont également susceptibles d’être altérés.",C,C,N,N
+52450,05200104290,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52082,05200104277,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52132,05200104159,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52325,05200104153,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52282,05200104544,2025-09-25,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante.,C,C,C,N
+52109,05200104332,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52066,05200104405,2025-09-24,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52009,05200104100,2025-09-23,Eau d'alimentation conforme aux limites de qualité mais présentant une forte teneur en ammonium. L'ammonium est susceptible d'engendrer des troubles intestinaux et peut provoquer une augmentation des teneurs en nitrates dans l'eau.,C,C,C,N
+52474,05200104077,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52212,05200104183,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52160,05200104182,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52467,05200104068,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52363,05200104177,2025-09-19,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52280,05200104176,2025-09-19,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52380,05200104178,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52149,05200104174,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52545,05200104098,2025-09-19,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52233,05200104292,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52062,05200104027,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52499,05200104005,2025-09-16,"Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de coliformes totaux. Toutefois, la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,N,C
+52025,05200103971,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52277,05200103991,2025-09-15,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices et de coliformes totaux. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52223,05200104064,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52059,05200104059,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52206,05200103918,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52021,05200103916,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52302,05200104163,2025-09-11,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52491,05200103909,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52249,05200104010,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52342,05200103908,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52447,05200103903,2025-09-09,Eau d'alimentation conforme aux limites de qualité mais présentant une turbidité importante. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. La couleur de l'eau peut être altérée.,C,C,C,N
+52005,05200103982,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+52524,05200103957,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52315,05200103989,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52138,05200103988,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52267,05200103890,2025-09-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52183,05200103855,2025-09-04,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52063,05200104210,2025-09-04,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52403,05200103820,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52328,05200103812,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52116,05200103811,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52199,05200104131,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52503,05200103707,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52126,05200103630,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52106,05200103641,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52367,05200103577,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52172,05200103529,2025-08-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52510,05200103435,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52042,05200103257,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52251,05200103164,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52133,05200103024,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52535,05200103044,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52173,05200103012,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52511,05200103083,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52057,05200102955,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52069,05200102830,2025-05-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52376,05200102729,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52291,05200102757,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52091,05200102668,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52170,05200102784,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52495,05200102738,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52452,05200102754,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52012,05200102492,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52219,05200102461,2025-05-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52426,05200102459,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52003,05200102859,2025-05-07,Eau d'alimentation conforme aux limites de qualité mais présentant un mauvais équilibre calco-carbonique. Eau susceptible d’être entartrante (0) ou agressive (>2).,C,C,C,N
+52145,05200102303,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52326,05200102358,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52193,05200102251,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52337,05200102226,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52218,05200102245,2025-04-23,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité en raison de la présence de bactéries sulfito-réductrices. Toutefois la présence seule de ces germes indicateurs de bon fonctionnement du traitement ou de la propreté des installations ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52398,05200102257,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52494,05200102154,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52422,05200101825,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52146,05200101891,2025-03-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52222,05200101842,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52053,05200101709,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52253,05200101673,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52167,05200101639,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52184,05200101557,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52231,05200101508,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52313,05200101415,2025-01-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52316,05200101314,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52214,05200101291,2025-01-17,Eau d'alimentation conforme aux limites de qualité sur le plan bactériologique mais non conforme aux références de qualité. Les résultats font apparaître une contamination microbiologique significative sur les paramètres indicateurs de l'efficacité du traitement ou de la propreté des installations. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,N,C
+52254,05200101248,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+52056,05200101241,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

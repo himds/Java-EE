@@ -1,0 +1,153 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+48194,04800124530,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48009,04800124683,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48092,04800124594,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48174,04800125020,2025-12-17,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48070,04800125019,2025-12-17,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48169,04800121933,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48103,04800124619,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48087,04800125017,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48188,04800125016,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+48175,04800124410,2025-12-16,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48073,04800124409,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48039,04800122782,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48155,04800124488,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48152,04800124698,2025-12-15,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48051,04800124755,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+48158,04800124705,2025-12-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48132,04800124690,2025-12-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48069,04800124642,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48063,04800124669,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48080,04800124678,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48079,04800124672,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48150,04800124709,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48075,04800124624,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48146,04800124653,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48043,04800124662,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48136,04800124717,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48096,04800124656,2025-12-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48028,04800124638,2025-12-08,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,C
+48018,04800124761,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48166,04800124639,2025-12-08,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,C
+48168,04800124636,2025-12-04,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité.,N,C,C,C
+48165,04800124632,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48099,04800124591,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48124,04800124631,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48107,04800124617,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48156,04800124708,2025-12-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48017,04800124604,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48081,04800124682,2025-12-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48030,04800124608,2025-12-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48181,04800124703,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48095,04800124586,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48008,04800124601,2025-12-02,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,C,N
+48112,04800124693,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48016,04800124615,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48053,04800124666,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48003,04800124596,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48059,04800124702,2025-12-01,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48004,04800122374,2025-12-01,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48044,04800122799,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48045,04800124665,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48111,04800124587,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48148,04800124159,2025-11-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48178,04800124505,2025-11-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48139,04800124470,2025-11-27,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48140,04800124477,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48119,04800124448,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48108,04800124441,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48015,04800124446,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48153,04800124458,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48061,04800124358,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48050,04800124392,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48038,04800124370,2025-11-24,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48163,04800124492,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48048,04800124221,2025-11-18,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,C,N
+48034,04800124518,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48085,04800124519,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48094,04800124514,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48088,04800124515,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48193,04800124363,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48065,04800124362,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48191,04800124516,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48151,04800124456,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48100,04800124423,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48110,04800124445,2025-11-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48126,04800124411,2025-11-13,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,C
+48121,04800124455,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48089,04800124415,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48090,04800124419,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48179,04800121956,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48147,04800124484,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48145,04800124295,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48149,04800124728,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48192,04800124522,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48106,04800124431,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48055,04800124400,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48056,04800124401,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48185,04800124509,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48036,04800122966,2025-11-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48177,04800124500,2025-11-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48097,04800124421,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48144,04800124483,2025-11-04,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,C,N
+48098,04800124257,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48171,04800124729,2025-10-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48182,04800124727,2025-10-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48042,04800124212,2025-10-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48071,04800124229,2025-10-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48031,04800124138,2025-10-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48032,04800124379,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48005,04800124375,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48170,04800124300,2025-10-22,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48127,04800124260,2025-10-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48082,04800124252,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48083,04800124254,2025-10-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48198,04800122887,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48117,04800124281,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48077,04800124550,2025-10-15,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,N
+48046,04800124218,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48135,04800124294,2025-10-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48058,04800124223,2025-10-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48025,04800124137,2025-10-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48001,04800124124,2025-10-08,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,C,N
+48029,04800124154,2025-10-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48026,04800124573,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48012,04800124330,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48190,04800124328,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48161,04800124297,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48072,04800124581,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+48068,04800124580,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+48123,04800124292,2025-10-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48130,04800124201,2025-09-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48116,04800124034,2025-09-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48013,04800123843,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48137,04800123846,2025-09-22,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité.,N,C,C,C
+48086,04800123944,2025-09-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48064,04800123917,2025-09-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48104,04800124016,2025-09-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48187,04800123996,2025-09-11,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,C,N
+48105,04800124006,2025-09-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48010,04800123825,2025-09-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48067,04800123925,2025-09-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48020,04800124002,2025-09-09,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité.,N,C,C,C
+48115,04800124003,2025-09-09,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité.,N,C,C,C
+48176,04800123893,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48074,04800123880,2025-09-03,Eau d'alimentation non-conforme aux exigences de qualité.,N,C,N,C
+48141,04800123212,2025-09-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48128,04800123736,2025-08-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48129,04800123740,2025-08-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48037,04800123694,2025-08-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48027,04800123725,2025-08-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48131,04800123389,2025-08-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,C
+48019,04800123239,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48091,04800123301,2025-07-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48054,04800123253,2025-07-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48002,04800123620,2025-07-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48173,04800123118,2025-06-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48021,04800123149,2025-06-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48167,04800123120,2025-06-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,N,N
+48007,04800122934,2025-06-18,Eau d'alimentation non-conforme aux exigences de qualité.,C,N,N,N
+48157,04800123115,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48138,04800122964,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+48160,04800122881,2025-05-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+48041,04800122889,2025-05-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N

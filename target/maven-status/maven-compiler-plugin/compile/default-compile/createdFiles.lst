@@ -1,0 +1,9 @@
+com\waterquality\service\CommuneService.class
+com\waterquality\model\Prelevement.class
+com\waterquality\model\Commune.class
+com\waterquality\service\TestService.class
+com\waterquality\util\ImportWaterData.class
+com\waterquality\controller\CommunesServlet.class
+com\waterquality\controller\TestServlet.class
+com\waterquality\dao\DatabaseConnection.class
+com\waterquality\model\ResultatAnalyse.class

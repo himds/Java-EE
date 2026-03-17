@@ -1,0 +1,243 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+15156,01500124316,2025-12-22,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15263,01500124313,2025-12-16,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15162,01500124307,2025-12-15,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15108,01500124304,2025-12-15,"Résultats d'analyses conformes à la norme. Toutefois, présence de bactéries coliformes : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15124,01500124306,2025-12-15,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence excessi ve de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15153,01500124348,2025-12-15,Eau de qualité sanitaire satisfaisante.,S,C,S,C
+15246,01500124305,2025-12-15,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15234,01500124266,2025-12-11,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15043,01500124264,2025-12-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15001,01500124265,2025-12-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15080,01500124276,2025-12-11,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,C
+15082,01500124268,2025-12-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15022,01500124277,2025-12-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15203,01500124278,2025-12-11,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15119,01500124263,2025-12-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15089,01500124350,2025-12-10,Eau de qualité sanitaire satisfaisante.,S,C,S,N
+15085,01500124273,2025-12-10,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15209,01500124321,2025-12-04,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15112,01500124231,2025-12-04,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15021,01500124315,2025-12-04,"Eau de qualité sanitaire satisfaisante, cependant présence d'Esa Métol achlore traduisant la vulnérabilité de la ressource vis à vis des pest icides. Il est demandé au distributeur d'eau d'en identifier préventiv ement l'origine possible.",C,C,C,N
+15078,01500124240,2025-12-04,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,C,N
+15142,01500124235,2025-12-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15101,01500124232,2025-12-03,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15148,01500124233,2025-12-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15213,01500124206,2025-12-02,"Résultats d'analyses conformes à la norme. Toutefois, couleur excessiv e, présence de spores de bactéries anaérobies sulfito-réductrices, et présence excess ive de germes à 22°C : eau de qualité sanitaire non satisfaisante. Maintien de l'interdiction de consommer l'eau selon arrêté municipal e n date du 14/11/2025.",C,C,N,N
+15140,01500124200,2025-12-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15181,01500124198,2025-12-01,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15016,01500124196,2025-12-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15204,01500124197,2025-12-01,"Résultats d'analyses conformes à la norme. Toutefois, présence de bact éries coliformes et présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15267,01500124199,2025-12-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15014,01500124195,2025-12-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15012,01500124194,2025-12-01,"Résultats d'analyses conformes à la norme. Toutefois, taux de chlore é levé et présence excessive de germes à 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15104,01500124113,2025-11-27,"Eau de qualité sanitaire satisfaisante. Ceppendant, taux de chlore élevé.",C,C,C,N
+15083,01500124125,2025-11-27,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15107,01500124298,2025-11-27,Bactériologie et taux d'arsenic non conformes. Eau de qualité sanitair e non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution. Maintien de l'interdiction de consommer l'eau selon arrêté muncipal en date du 07/08/2025.,N,N,N,N
+15118,01500124119,2025-11-27,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15245,01500124128,2025-11-27,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15190,01500124133,2025-11-26,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence excessi ve de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15007,01500124145,2025-11-26,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15049,01500124137,2025-11-26,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15032,01500124111,2025-11-26,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,C
+15121,01500124143,2025-11-26,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15084,01500124225,2025-11-26,Eau de qualité sanitaire satisfaisante pour le paramètre mesuré.,S,C,S,N
+15212,01500124150,2025-11-26,Taux de chlore excessif. Eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15168,01500124140,2025-11-26,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15057,01500124103,2025-11-26,Eau de qualité sanitaire satisfaisante pour le paramètre mesuré.,S,C,S,C
+15122,01500124149,2025-11-26,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence de germ es à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,N,C
+15066,01500124295,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15237,01500124079,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15130,01500124080,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15187,01500124093,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15251,01500124094,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15217,01500124098,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15052,01500124090,2025-11-25,"Résultats d'analyses conformes à la norme. Toutefois, présence de bactéries coliformes : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15259,01500124082,2025-11-25,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15207,01500124083,2025-11-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15046,01500124072,2025-11-24,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence de germ es à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15135,01500124291,2025-11-24,"Résultats d'analyses conformes à la norme. Toutefois, taux de cuivre excessif : eau de qualité sanitaire non satisfaisante. De plus, présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15036,01500124070,2025-11-24,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15096,01500124064,2025-11-24,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15079,01500124071,2025-11-24,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15228,01500124066,2025-11-24,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15063,01500124062,2025-11-24,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15006,01500124297,2025-11-24,"Eau conforme aux limites de qualité. Cependant, taux de chlore élevé e t présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15113,01500124069,2025-11-24,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15174,01500124065,2025-11-24,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15173,01500124165,2025-11-24,Taux de chlore excessif. Eau de qualité sanitaire non satisfaisante.,S,C,S,C
+15055,01500124023,2025-11-20,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15040,01500123969,2025-11-13,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15164,01500123998,2025-11-13,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15188,01500123992,2025-11-13,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15183,01500123966,2025-11-13,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15248,01500123997,2025-11-13,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15225,01500124255,2025-11-13,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15192,01500123975,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15132,01500123982,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15221,01500123988,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15138,01500123967,2025-11-12,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15088,01500123984,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15114,01500123981,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15236,01500123977,2025-11-12,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15056,01500123986,2025-11-12,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15159,01500123932,2025-11-06,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15141,01500123924,2025-11-06,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15216,01500123934,2025-11-06,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15090,01500123916,2025-11-06,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élev é et présence de germes à 22°C.",C,C,C,N
+15117,01500123922,2025-11-06,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15241,01500123936,2025-11-06,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15047,01500123940,2025-11-05,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15035,01500123943,2025-11-05,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,C
+15163,01500123920,2025-11-05,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22 et 36°C",C,C,C,N
+15026,01500123944,2025-11-05,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15266,01500123917,2025-11-05,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 36°C : eau de qualité sanitaire non satisfaisante. Taux de chlore élevé.",C,C,C,N
+15074,01500123938,2025-11-05,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15171,01500124168,2025-11-05,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15172,01500124010,2025-11-04,Taux de chlorure de vinyl monomère non conforme. Eau de qualité sanitaire non satisfaisante.,C,N,C,N
+15268,01500123898,2025-11-04,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15226,01500124156,2025-11-04,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15065,01500123891,2025-11-04,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,C,N
+15166,01500124154,2025-11-04,"Résultats d'analyses conformes à la norme. Toutefois, taux de chlore é levé et taux de chlorites excessif : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15154,01500123884,2025-11-04,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15147,01500123886,2025-11-04,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15029,01500123888,2025-11-04,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15076,01500123899,2025-11-04,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15031,01500123880,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15053,01500123878,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15258,01500124075,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15247,01500124074,2025-11-03,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22 et 36°C.",C,C,C,C
+15256,01500124104,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15126,01500123877,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15102,01500124073,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15028,01500123875,2025-11-03,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15098,01500123864,2025-11-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15222,01500124148,2025-10-30,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15155,01500123829,2025-10-30,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15041,01500123817,2025-10-30,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15218,01500123822,2025-10-30,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15027,01500123826,2025-10-30,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15205,01500124057,2025-10-29,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15219,01500123819,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15191,01500123839,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15175,01500123840,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15075,01500123842,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15120,01500123818,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15176,01500123836,2025-10-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15238,01500124182,2025-10-29,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15208,01500124008,2025-10-29,Taux de chlorure de vinyl monomère non conforme et bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,N,N,N
+15011,01500123824,2025-10-29,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15144,01500123798,2025-10-28,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15170,01500124043,2025-10-28,"Eau conforme aux limites de qualité. Cependant, présence de germes à 2 2°C et présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15253,01500123799,2025-10-28,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15224,01500123808,2025-10-28,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,C
+15161,01500123805,2025-10-28,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices, présence de bactér ies coliformes et présence de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15186,01500123788,2025-10-27,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15151,01500123796,2025-10-27,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15202,01500123793,2025-10-27,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15143,01500124106,2025-10-23,Eau de qualité sanitaire satisfaisante pour les paramètres mesurés.,S,C,S,C
+15061,01500124053,2025-10-23,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15017,01500123730,2025-10-23,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15081,01500123731,2025-10-23,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15215,01500123741,2025-10-22,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15100,01500124028,2025-10-22,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22 et 36°C.",C,C,C,N
+15025,01500123736,2025-10-22,"Résultats d'analyses conformes à la norme. Toutefois, présence de bactéries coliformes et présence excessive de germes à 22°C : eau de qualité sanitaire non sat isfaisante.",C,C,N,N
+15160,01500123744,2025-10-22,"Résultats d'analyses conformes à la norme. Toutefois, présence de  bac téries coliformes et présence excessives de germes à 22 et 36°C  : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15231,01500124030,2025-10-22,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 36°C.",C,C,C,C
+15255,01500123713,2025-10-21,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15067,01500123701,2025-10-21,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15070,01500123704,2025-10-21,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15093,01500123700,2025-10-21,Eau de qualité sanitaire satisfaisante. Surveiller le taux de nitrates.,C,C,C,N
+15054,01500123689,2025-10-20,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15129,01500123688,2025-10-20,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15198,01500124041,2025-10-20,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15077,01500124040,2025-10-20,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15229,01500123685,2025-10-20,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15033,01500123694,2025-10-20,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15087,01500123672,2025-10-15,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15051,01500124001,2025-10-15,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15264,01500123673,2025-10-15,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15050,01500123643,2025-10-09,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15045,01500123951,2025-10-09,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15196,01500123651,2025-10-09,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,C
+15265,01500123633,2025-10-08,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22 et 36°C.",C,C,C,C
+15037,01500123632,2025-10-08,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence de bactéries coliformes : eau de qualité sanitaire non satisfaisante.",C,C,N,C
+15169,01500123638,2025-10-08,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15180,01500123639,2025-10-08,Taux de chlore excessif. Eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15250,01500123634,2025-10-08,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et présence de bact éries coliformes : eau de qualité sanitaire non satisfaisante.",C,C,N,C
+15008,01500123630,2025-10-08,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15146,01500123653,2025-10-08,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15243,01500123629,2025-10-08,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15095,01500123622,2025-10-07,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15252,01500123950,2025-10-07,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15009,01500123595,2025-10-06,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15257,01500123605,2025-10-06,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15211,01500123552,2025-10-02,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15092,01500123559,2025-10-02,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15020,01500123816,2025-10-02,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22°C : eau de qualité sanitaire non satisfaisante. De plus, présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15165,01500123550,2025-10-02,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15038,01500123560,2025-10-02,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15103,01500123855,2025-10-01,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé et présence de germes à 36°C.",C,C,C,C
+15199,01500123565,2025-10-01,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15094,01500123849,2025-10-01,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15003,01500123850,2025-10-01,"Résultats d'analyses conformes à la norme. Cependant, présence d'ESA M etolachlore la vulnérabilité de la ressource vis à vis des pesticides. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible. De plus, cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15073,01500123566,2025-10-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15152,01500123518,2025-09-30,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15091,01500123525,2025-09-30,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15086,01500123755,2025-09-30,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15106,01500123486,2025-09-25,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices et taux de radon ex cessif : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15201,01500123460,2025-09-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15189,01500123458,2025-09-25,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15105,01500123450,2025-09-24,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15178,01500123726,2025-09-23,Résultats d'analyses conformes à la norme. Cette eau présente un caractère agressif : elle peut dissoudre les matériaux à son contact : eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15004,01500123467,2025-09-23,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,C
+15139,01500123439,2025-09-22,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15018,01500123422,2025-09-18,"Résultats d'analyses conformes à la norme. Toutefois, présence de bactéries coliformes : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15194,01500123498,2025-09-18,"Eau de qualité sanitaire satisfaisante, cependant présence d'ESA Metol achlore traduisant la vulnérabilité de la ressource vis à vis des pesticides. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15137,01500123414,2025-09-18,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15157,01500123496,2025-09-18,"Eau de qualité sanitaire satisfaisante, cependant présence d'ESA Metol achlore traduisant la vulnérabilité de la ressource vis à vis des pesticides. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15242,01500123374,2025-09-11,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15019,01500123368,2025-09-11,"Eau de qualité sanitaire satisfaisante. Cependant, taux de chlore élevé.",C,C,C,N
+15042,01500123483,2025-09-10,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15097,01500123484,2025-09-10,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15182,01500123346,2025-09-09,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15069,01500123344,2025-09-09,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,C
+15249,01500123328,2025-09-08,Bactériologie non conforme. Eau de qualité sanitaire non satisfaisante. La mise en oeuvre de mesures correctives a été immédiatement demandée au responsable de la distribution.,N,C,N,N
+15260,01500123278,2025-09-03,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15134,01500123280,2025-09-03,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15002,01500123271,2025-09-02,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15005,01500123268,2025-09-02,"Résultats d'analyses conformes à la norme. Toutefois, présence de spores de bactéries anaérobies sulfito-réductrices : eau de qualité sanitaire non satisfaisante.",C,C,N,N
+15233,01500123260,2025-09-01,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15058,01500123219,2025-08-28,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15010,01500123336,2025-08-28,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15116,01500123218,2025-08-27,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15262,01500123045,2025-08-13,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15240,01500123243,2025-08-13,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15149,01500123209,2025-08-11,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15214,01500122953,2025-08-05,"Résultats d'analyses conformes à la norme. Toutefois, taux de chlorite s et couleur excessifs : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15030,01500122951,2025-08-05,"Résultats d'analyses conformes à la norme. Toutefois, couleur excessive : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15060,01500122943,2025-08-05,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15133,01500123136,2025-07-30,"Eau de qualité sanitaire satisfaisante, cependant présence d'Esa Metol achlore traduisant la vulnérabilité de la ressource vis à vis des pesticides. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,C
+15131,01500122738,2025-07-15,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15261,01500122700,2025-07-09,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,N
+15269,01500122695,2025-07-09,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 36°C.",C,C,C,N
+15013,01500122691,2025-07-09,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15015,01500122448,2025-06-12,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15125,01500122421,2025-06-10,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15167,01500122386,2025-06-04,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15235,01500122352,2025-06-02,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22 et 36°C.",C,C,C,N
+15034,01500122297,2025-05-26,Taux de chlore excessif. Eau de qualité sanitaire non satisfaisante.,C,C,C,N
+15200,01500122256,2025-05-22,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15110,01500122191,2025-05-15,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15185,01500122277,2025-04-29,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15158,01500122024,2025-04-22,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15232,01500121870,2025-04-02,"Eau de qualité sanitaire satisfaisante. Cependant, présence de germes à 22°C.",C,C,C,N
+15123,01500121792,2025-03-25,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15254,01500121960,2025-03-24,"Eau conforme aux limites de qualité. Cependant, présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15206,01500121976,2025-03-24,"Eau conforme aux limites de qualité. Cependant, présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",C,C,C,N
+15128,01500121990,2025-03-24,"Eau conforme aux limites de qualité. Cependant, taux de chlore élevé e t  présence de plusieurs molécules d'hydrocarbures polycycliques aromatiques. Il est demandé au distributeur d'eau d'en identifier préventivement l'origine possible.",S,C,S,C
+15230,01500121637,2025-03-06,Eau de qualité sanitaire satisfaisante.,C,C,C,N
+15244,01500121712,2025-02-27,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22 et 36°C : eau de qualité sanitaire non satisfaisante.",C,C,C,C
+15223,01500121169,2025-01-23,Eau de qualité sanitaire satisfaisante.,C,C,C,C
+15111,01500121170,2025-01-23,"Résultats d'analyses conformes à la norme. Toutefois, présence excessive de germes à 22°C : eau de qualité sanitaire non satisfaisante.",C,C,C,C
+15024,01500121209,2025-01-22,Eau de qualité sanitaire satisfaisante.,C,C,C,N

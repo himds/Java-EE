@@ -1,0 +1,41 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: water-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: waterdb
+      MYSQL_USER: wateruser
+      MYSQL_PASSWORD: waterpass
+    ports:
+      - "3307:3306"
+    volumes:
+    - mysql-data:/var/lib/mysql
+    - ../database/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot" ]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  tomcat:
+    image: tomcat:11.0
+    container_name: water-tomcat
+    ports:
+      - "8082:8080"
+    environment:
+      DB_URL: "jdbc:mysql://mysql:3306/waterdb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=utf8"
+      DB_USER: wateruser
+      DB_PASSWORD: waterpass
+    volumes:
+      # 前端：ROOT 应用，访问 http://localhost:8082/
+      - ../webapp:/usr/local/tomcat/webapps/ROOT:ro
+      # 后端 WAR，访问 http://localhost:8082/newEAU/api/...
+      - ../target/newEAU-1.0-SNAPSHOT.war:/usr/local/tomcat/webapps/newEAU.war:ro
+    depends_on:
+      mysql:
+        condition: service_healthy
+
+volumes:
+  mysql-data:

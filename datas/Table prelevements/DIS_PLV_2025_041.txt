@@ -1,0 +1,263 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+41003,04100112291,2025-12-23,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41116,04100112289,2025-12-23,"Ce contrôle supplémentaire, suite à une non-conformité, conclut au rétablissement de la qualité physico-chimique de l’eau.",S,C,S,C
+41118,04100112290,2025-12-23,"Ce contrôle supplémentaire sur la teneur en  fer, à la  suite d’une non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41268,04100112288,2025-12-19,"Ce contrôle supplémentaire sur la teneur en manganèse, à la  suite d’une  non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41052,04100112206,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41067,04100112231,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41194,04100112287,2025-12-19,"Ce contrôle supplémentaire sur la teneur en fer, à la  suite d’une non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41295,04100112256,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41212,04100112149,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41046,04100112163,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41105,04100112286,2025-12-18,"Ce contrôle supplémentaire sur la teneur en nickel,à la  suite d’une non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41010,04100112269,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41090,04100112154,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41294,04100112200,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41269,04100112249,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41204,04100112247,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41018,04100112262,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41157,04100112283,2025-12-16,"Ce recontrôle confirme la teneur élevée en arsenic. Un contrôle supplémentaire, réalisé le 08/01/2026, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,N,S,C
+41207,04100112254,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41248,04100112237,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41238,04100112227,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41209,04100112236,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41053,04100112258,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41078,04100112185,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41220,04100112150,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41140,04100112167,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41179,04100112153,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41196,04100112252,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l. Un suivi mensuel est mis en place pour en suivre l' évolution.,C,C,C,C
+41084,04100112146,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41235,04100112201,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41158,04100112219,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41079,04100112259,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41247,04100112177,2025-12-10,"Eau conforme en bactériologie mais non conforme en physico- chimie en raison d'une teneur trop élevée en pesticides: le métabolite R417888 du chlorothalonil au-delà de la limite de qualité (0,1 µg/L). En l’état actuel des connaissances scientifiques, l’eau peut être consommée sans aucune restriction pour la consommation humaine. Un suivi renforcé est mis en place sur ce paramètre. Un retour à la conformité doit être envisagé dans les meilleurs délais selon un plan d’actions à définir par la personne responsable de la production et de la distribution de l’eau (PRPDE). À noter la présence de nitrates et d’arsenic à une concentration proche de la valeur limite fixée à 10 µg/l.",C,N,C,C
+41113,04100112214,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41043,04100112226,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41139,04100112166,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41278,04100112225,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41239,04100112223,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41107,04100112260,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41198,04100112198,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41126,04100112210,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41223,04100112243,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41164,04100112235,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41258,04100112179,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41049,04100112253,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41069,04100112205,2025-12-09,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour le paramètre arsenic, à une concentration proche de la valeur limite fixée à 10 µg/l.",S,C,S,C
+41252,04100112273,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41066,04100112218,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41094,04100112279,2025-12-09,"Ce contrôle supplémentaire sur la teneur en nitrates,à la  suite d’une  non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41152,04100112280,2025-12-09,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41173,04100112155,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41122,04100112234,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41039,04100112152,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41148,04100112238,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41172,04100112221,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41071,04100112208,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41095,04100112186,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41262,04100112180,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41154,04100112190,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41068,04100112207,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41143,04100112189,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41275,04100112199,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41106,04100112246,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41150,04100112169,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. À noter la présence d’arsenic à une concentration proche de la valeur limite fixée à 10 µg/l.,C,C,C,C
+41025,04100112160,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d'arsenic.,C,C,C,C
+41047,04100112184,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41086,04100112165,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41206,04100112192,2025-12-04,"Eau non conforme en physico- chimie en raison d'une teneur trop élevée en pesticides: l'atrazine déséthyl. Cette situation est connue et des mesures curatives sont en projet (création d'une usine de trait ement à Saint Denis). Sur les autres paramètres analysés, eau conforme aux exigences de qualité relatives aux eaux destinées à la consommation humaine. À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l",C,N,C,C
+41288,04100112268,2025-12-04,"Eau d'alimentation conforme aux limites de qualité par dérogation pour les nitrates. Toutefois, il est recommandé aux femmes enceintes et aux nourrissons de ne pas consommer l’eau pour tout usage alimentaire. À l’exception de ces populations sensibles, l’eau peut être consommée sans risque. Le service en charge de l'eau potable va mettre en place des mesures de gestion afin de retrouver une situation conforme .",S,C,S,C
+41159,04100112142,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41276,04100112244,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41199,04100112191,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41255,04100112217,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41265,04100112194,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41099,04100112232,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41102,04100112159,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41242,04100112176,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41283,04100112157,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41256,04100112178,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41280,04100112182,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41120,04100112240,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41097,04100112139,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41185,04100112140,2025-12-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+41045,04100112276,2025-12-02,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41167,04100112275,2025-12-02,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41130,04100112215,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41232,04100112228,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41176,04100112173,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41171,04100112220,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41161,04100112172,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41221,04100112193,2025-12-02,"Les résultats d'analyses de ce prélèvement ont mis en évidence un dépa ssement de la valeur indicative de 0,9 µg/L sur le métabolite de pesti cide non pertinent : le Chlorothalonil R471811, ne nécessitant pas de restriction de consommation de l’eau d’après l’expertise de l’ANSES. U n suivi renforcé est mis en place sur ce paramètre. Un retour à la conformité doit être envisagé dans les meilleurs délais selon un plan d’actions à définir par la personne responsable de la p roduction et de la distribution de l’eau (PRPDE). Les autres paramètres mesurés sont conformes aux exigences de qualité. À noter la présence de nitrates.",C,C,C,C
+41123,04100112188,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41058,04100112239,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41231,04100112211,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41125,04100112196,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic à une concentration proche de la valeur limite fixée à 10 µg/l.,C,C,C,C
+41230,04100112216,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41009,04100112267,2025-12-01,"Eau d'alimentation conforme aux limites de qualité par dérogation pour les nitrates. Toutefois, il est recommandé aux femmes enceintes et aux nourrissons de ne pas consommer l’eau pour tout usage alimentaire. À l’exception de ces populations sensibles, l’eau peut être consommée sans risque. Le service en charge de l'eau potable va mettre en place des mesures de gestion afin de retrouver une situation conforme . Sur les autres paramètres analysés, eau conforme aux exigences de qual ité relatives aux eaux destinées à la consommation humaine.",C,C,C,C
+41035,04100112261,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41101,04100112270,2025-12-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+41180,04100112222,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41189,04100112174,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41137,04100112203,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41267,04100112181,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41151,04100112170,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41055,04100112204,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41051,04100112164,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41142,04100112224,2025-12-01,"Eau conforme aux exigences de qualité pour les paramètres analysés. La présence de l'ammonium étant d'origine naturelle (eau d'origine souterraine), la référence de qualité en vigueur est de 0,50 mg/l et non 0,10 mg/l.",C,C,C,N
+41217,04100112145,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41211,04100112144,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41233,04100111987,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41144,04100111972,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41147,04100112168,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41032,04100112161,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41031,04100112042,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41135,04100111980,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41266,04100112075,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41246,04100112043,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41016,04100112074,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41042,04100111933,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41229,04100111962,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41146,04100111963,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41059,04100112084,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41014,04100111927,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41177,04100112060,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41260,04100112046,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41024,04100111964,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41034,04100112013,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41104,04100112072,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41013,04100111975,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41160,04100111984,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41072,04100111921,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41070,04100111965,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41109,04100112055,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41136,04100112032,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41089,04100111998,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41017,04100112020,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41289,04100111970,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41026,04100112059,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41214,04100112053,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41241,04100111988,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41075,04100111997,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41168,04100112021,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41041,04100112029,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41249,04100112078,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41296,04100112080,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41037,04100112028,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41028,04100112039,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41190,04100111931,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41074,04100111977,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41285,04100111993,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41297,04100111923,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41127,04100112009,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41083,04100111958,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41287,04100112058,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41225,04100112063,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41166,04100112077,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41030,04100112022,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41132,04100112045,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41153,04100112054,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41134,04100112033,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic à une concentration proche de la valeur limite fixée à 10 µg/l.,C,C,C,C
+41155,04100112071,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41191,04100112041,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41181,04100111960,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41178,04100112082,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41027,04100112056,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41245,04100111969,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41077,04100112065,2025-11-04,Cette analyse bactériologique réalisée dans le cadre du contrôle sanit aire conclut à une eau d'alimentation conforme aux exigences de qualit é en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41184,04100112000,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41236,04100111930,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41259,04100112006,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41290,04100112034,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41029,04100111781,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41061,04100111780,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41081,04100111820,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41243,04100111744,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.   À noter la présence de nitrates.,C,C,C,C
+41080,04100111799,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41282,04100111747,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41129,04100111757,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41002,04100111787,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41251,04100111749,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41271,04100111783,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41218,04100111814,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41044,04100111811,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41110,04100111818,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41131,04100111804,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41254,04100111821,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41012,04100111775,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41060,04100111828,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41100,04100111696,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41085,04100111715,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41115,04100111755,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41175,04100111697,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41237,04100111826,2025-10-15,"Eau conforme aux exigences de qualité pour les paramètres analysés. La présence de l'ammonium étant d'origine naturelle (eau d'origine souterraine), la référence de qualité en vigueur est de 0,50mg/l et non 0,10 mg/l.",C,C,C,N
+41054,04100111816,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41114,04100111793,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41216,04100111795,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41192,04100111792,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41124,04100111796,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41087,04100111829,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41273,04100111797,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41119,04100111794,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41291,04100111702,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41112,04100111786,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41091,04100111738,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41203,04100111830,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41250,04100111845,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41063,04100111827,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41073,04100111694,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41234,04100111805,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41208,04100111771,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41224,04100111699,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41007,04100111802,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41274,04100111819,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41062,04100111517,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41226,04100111487,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41222,04100111515,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41098,04100111476,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41149,04100111502,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41036,04100111541,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence d’arsenic.,C,C,C,C
+41195,04100111499,2025-09-12,"Eau conforme en bactériologie mais non conforme en physico- chimie en raison d'une teneur trop élevée en pesticides: le métabolite R417888 du chlorothalonil au-delà de la limite de qualité (0,1 µg/L). En l’état actuel des connaissances scientifiques, l’eau peut être consommée sans aucune restriction pour la consommation humaine. Un suivi renforcé est mis en place sur ce paramètre. Un retour à la conformité doit être envisagé dans les meilleurs délais selon un plan d’actions à définir par la personne responsable de la production et de la distribution de l’eau (PRPDE). À noter la présence de nitrates et d’arsenic à une concentration proche de la valeur limite fixée à 10 µg/l.",C,N,C,C
+41145,04100111562,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41219,04100111458,2025-09-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41004,04100111460,2025-09-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41050,04100111505,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41128,04100111490,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41040,04100111494,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41008,04100111493,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41093,04100111474,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41020,04100111209,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41187,04100111135,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41156,04100111160,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41188,04100111381,2025-08-26,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41201,04100111359,2025-08-13,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41121,04100111358,2025-08-12,"Ce contrôle supplémentaire sur la teneur en plomb, à la  suite d’une non-conformité, conclut à un rétablissement de la qualité de l’eau au regard du paramètre analysé.",S,C,S,C
+41096,04100111077,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41001,04100111165,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41103,04100111187,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41006,04100111127,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41108,04100110965,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41286,04100111024,2025-07-17,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41213,04100111023,2025-07-17,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41138,04100110958,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41205,04100110936,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41174,04100110974,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41281,04100110621,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41186,04100110623,2025-06-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41141,04100110645,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41279,04100110608,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41253,04100110318,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41200,04100110333,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41293,04100110358,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41284,04100110393,2025-05-16,"Ce contrôle supplémentaire, à la suite d’une non-conformité, conclut à un rétablissement de la qualité bactériologique de l'eau.",C,C,C,C
+41038,04100110047,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41261,04100110029,2025-04-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41019,04100110032,2025-04-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C
+41215,04100109742,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41163,04100109734,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41292,04100109762,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41193,04100109519,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41065,04100109520,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+41182,04100109272,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates à une concentration proche de la valeur limite fixée à 50 mg/l.,C,C,C,C
+41057,04100109275,2025-01-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.  À noter la présence de nitrates.,C,C,C,C

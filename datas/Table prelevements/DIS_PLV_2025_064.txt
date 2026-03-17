@@ -1,0 +1,541 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+64445,06400221359,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64467,06400221357,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64024,06400221358,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+64102,06400221356,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64522,06400221327,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64320,06400221355,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64531,06400221346,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64049,06400221353,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64441,06400221348,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64520,06400221330,2025-12-23,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64268,06400221347,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64556,06400221345,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64125,06400221352,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64204,06400221321,2025-12-22,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,N,N
+64375,06400221316,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64260,06400221328,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64275,06400221335,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64485,06400221322,2025-12-22,"Eau d'alimentation conforme aux limites de qualité. Conductivité et pH inférieurs aux valeurs minimales de référence. Eau acide et peu minéralisée, favorisant la dégradation des installations (canalisations ...) et pouvant induire la dissolution d'éléments indésirables (plomb, cuivre, nickel ...).",C,C,C,N
+64218,06400221324,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64483,06400221329,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64405,06400221274,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64399,06400221269,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64448,06400221267,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64535,06400221266,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64421,06400221338,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64127,06400221339,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64128,06400221275,2025-12-18,"Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Teneur en désinfectant (chlore) insuffisante. Maintenir le taux à 0,1 mg/l en distribution.",C,C,N,C
+64527,06400221270,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64284,06400221318,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64540,06400221271,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64550,06400221317,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64406,06400221268,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64373,06400221319,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64065,06400221273,2025-12-18,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64134,06400221278,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64327,06400221277,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64085,06400221250,2025-12-16,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices et de bactéries coliformes.,C,C,N,C
+64068,06400221344,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64213,06400221240,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64138,06400221236,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64130,06400221244,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64545,06400221243,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64160,06400221241,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64256,06400221238,2025-12-16,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante. Maintenir le taux à 0,1 mg/l en distribution.",C,C,C,C
+64249,06400221245,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64342,06400221217,2025-12-15,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64444,06400221214,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64345,06400221231,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64371,06400221218,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64424,06400221253,2025-12-15,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64140,06400221527,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64495,06400221232,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64220,06400221211,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64422,06400221215,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64458,06400221216,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64326,06400221265,2025-12-12,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée. Maintenir le taux à 0,1 mg/l e n distribution.",C,C,C,C
+64512,06400221213,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64274,06400221184,2025-12-11,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64477,06400221185,2025-12-11,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64279,06400221192,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64040,06400221237,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64029,06400221196,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64310,06400221249,2025-12-09,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64222,06400221252,2025-12-09,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. pH faible.,C,C,C,N
+64533,06400221194,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64247,06400221186,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64468,06400221189,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64100,06400221183,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64122,06400221187,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64413,06400221175,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64419,06400221171,2025-12-08,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l 'ensemble des paramètres mesurés. Les résultats microbiologiques qualifiés de ""ILLISIBL"", traduisent la présence d'une flore interférente sans présence de bactéries d'aspect typique.",C,C,C,C
+64544,06400221170,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64524,06400221168,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64532,06400221167,2025-12-08,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64189,06400221177,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64311,06400221172,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64167,06400221169,2025-12-08,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l 'ensemble des paramètres mesurés. Les résultats microbiologiques qualifiés de ""ILLISIBL"", traduisent la présence d'une flore interférente sans présence de bactéries d'aspect typique.",C,C,C,C
+64496,06400221174,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64387,06400221173,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64335,06400221151,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64479,06400221154,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64430,06400221178,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64179,06400221152,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64504,06400221191,2025-12-04,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64257,06400221163,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64082,06400221164,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64339,06400221134,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64291,06400221120,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64113,06400221121,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64386,06400221257,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64510,06400221510,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64023,06400221133,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64071,06400221122,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64407,06400221123,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64063,06400221518,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+64328,06400221103,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64429,06400221114,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64476,06400221165,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64460,06400221102,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64490,06400221116,2025-12-02,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64325,06400221119,2025-12-02,Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64011,06400221111,2025-12-02,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64484,06400221112,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64353,06400221153,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64229,06400221115,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64547,06400221107,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64009,06400221233,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64007,06400221067,2025-12-01,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64370,06400221057,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64465,06400221056,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64503,06400221058,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64486,06400221059,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64554,06400221055,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64443,06400221051,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64400,06400221070,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64225,06400221049,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64217,06400221065,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64364,06400221161,2025-11-26,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64350,06400221229,2025-11-26,"Eau d'alimentation conforme aux limites de qualité. Cette eau est peu minéralisée et agressive, elle peut provoquer la corrosion des parties métalliques du réseau et des équipements. pH faible.",C,C,C,N
+64435,06400221024,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64107,06400221032,2025-11-25,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64230,06400221041,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64280,06400221027,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64324,06400221026,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64379,06400221323,2025-11-25,"Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. Les résultats microbiologiques qualifiés de ""ILLISIBL"", traduisent la présence d'une flore interférente sans présence de bactéries d'aspect typique.",C,C,C,N
+64442,06400221025,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64154,06400221033,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64505,06400221000,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64349,06400220999,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64471,06400221001,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64135,06400221002,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64112,06400221004,2025-11-24,Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée.,C,C,C,N
+64170,06400221212,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64094,06400221013,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64377,06400221005,2025-11-24,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,N,N
+64289,06400221010,2025-11-24,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64546,06400221106,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64259,06400221007,2025-11-24,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64269,06400220993,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64446,06400220987,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64472,06400220971,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64557,06400220988,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64521,06400220986,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64276,06400220978,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64433,06400221038,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64006,06400220980,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64336,06400220976,2025-11-20,"Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Les résultats microbiologiques qualifiés de ""ILLISIBL"", traduisent la présence d'une flore interférente sans présence de bactéries d'aspect typique.",C,C,N,C
+64436,06400221066,2025-11-19,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64343,06400220958,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64516,06400220956,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64388,06400220954,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64210,06400220959,2025-11-17,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices. Teneur en désinfectant (chlore) insuffisante.,C,C,N,C
+64517,06400220953,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64199,06400220957,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64078,06400220955,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64511,06400220960,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64302,06400220908,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64091,06400220907,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64264,06400220875,2025-11-13,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices. Teneur en désinfectant (chlore) insuffisante.,C,C,N,C
+64481,06400220869,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64409,06400220868,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64449,06400220867,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64245,06400220873,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64304,06400220909,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64277,06400220893,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64271,06400220894,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64273,06400220888,2025-11-12,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64124,06400220890,2025-11-12,"Eau d'alimentation conforme aux limites de qualité. Conductivité et pH inférieurs aux valeurs minimales de référence. Eau acide et peu minéralisée, favorisant la dégradation des installations (canalisations ...) et pouvant induire la dissolution d'éléments indésirables (plomb, cuivre, nickel ...).",C,C,C,N
+64237,06400220876,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64317,06400220989,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64475,06400220829,2025-11-10,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence d’une spore ou bactérie sulfito-réductrice. Teneur en désinfectant (chlore) insuffisante.,C,C,N,C
+64478,06400220833,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64509,06400220830,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64348,06400220831,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64411,06400220880,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64186,06400220871,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64519,06400220832,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64555,06400220872,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64525,06400220870,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64431,06400220780,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64300,06400220823,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64491,06400220782,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64295,06400220781,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64262,06400220783,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64389,06400220784,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64015,06400220827,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64401,06400220777,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64470,06400220785,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64499,06400220779,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64156,06400220778,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64240,06400220792,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64069,06400220796,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64110,06400220795,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64354,06400220878,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+64147,06400220760,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64081,06400220768,2025-11-04,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Teneur en désinfectant (chlore) insuffisante.,C,C,N,C
+64376,06400220763,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64148,06400220771,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64270,06400220772,2025-11-04,Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée.,C,C,C,N
+64126,06400220735,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64064,06400220736,2025-11-03,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64206,06400220738,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64542,06400220725,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64092,06400220731,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64061,06400220717,2025-10-31,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64416,06400220700,2025-10-30,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices ainsi que de bactéries coliformes. Teneur en désinfectant (chlore) élevée.,C,C,N,C
+64513,06400220701,2025-10-30,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64131,06400220699,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64319,06400220711,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64558,06400220703,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64016,06400220708,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64543,06400220709,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64014,06400220704,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64116,06400220676,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64175,06400220686,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64506,06400220680,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,S,C,S,C
+64104,06400220691,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64518,06400220660,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64038,06400220661,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64415,06400220659,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64142,06400220716,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64198,06400220658,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64165,06400220656,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64508,06400220657,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64086,06400220648,2025-10-22,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64351,06400220641,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64093,06400220765,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64058,06400220639,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64316,06400220631,2025-10-21,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,N,N
+64418,06400220595,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64362,06400220615,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64041,06400220604,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64329,06400220603,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64500,06400220609,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64087,06400220598,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64293,06400220678,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64515,06400220600,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64203,06400220677,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64312,06400220594,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64288,06400220597,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64129,06400220581,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64410,06400220571,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64139,06400220576,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64337,06400220573,2025-10-16,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64153,06400220721,2025-10-16,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64307,06400220574,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64530,06400220512,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64255,06400220514,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64537,06400220502,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64185,06400220489,2025-10-13,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64404,06400220503,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64223,06400220501,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64361,06400220472,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64536,06400220460,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64136,06400220440,2025-10-09,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,N,N
+64132,06400220433,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64191,06400220469,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64529,06400220457,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64039,06400220437,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64244,06400220431,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64252,06400220443,2025-10-08,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations.,C,C,C,N
+64360,06400220434,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64224,06400220435,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64487,06400220417,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64067,06400220414,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64368,06400220416,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64035,06400220413,2025-10-07,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64391,06400220377,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64432,06400220376,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64340,06400220380,2025-10-06,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64330,06400220486,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64282,06400220364,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64538,06400220357,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64322,06400220360,2025-10-03,Eau d'alimentation conforme aux limites de qualité. Eau peu minéralisée susceptible d'être agressive pour les canalisations. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64526,06400220340,2025-10-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64177,06400220324,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64369,06400220332,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64182,06400220331,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64193,06400220330,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64192,06400220327,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64457,06400220328,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64382,06400220326,2025-10-01,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64258,06400220423,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+64026,06400220428,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64378,06400220311,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64294,06400220302,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64046,06400220303,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64420,06400220285,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64290,06400220268,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64137,06400220279,2025-09-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64183,06400220238,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64117,06400220237,2025-09-25,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64227,06400220204,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64507,06400220202,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64357,06400220197,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64356,06400220200,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64084,06400220198,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64194,06400220203,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64560,06400220201,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64072,06400220179,2025-09-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64042,06400220177,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64459,06400220465,2025-09-17,"Eau d'alimentation conforme aux limites de qualité. Cette eau est agressive, elle peut provoquer la corrosion des parties métalliques du réseau et des équipements.",C,C,C,N
+64133,06400220142,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64214,06400220138,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64297,06400220102,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64314,06400220103,2025-09-15,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64080,06400220118,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64060,06400220097,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64062,06400219998,2025-09-10,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64434,06400219890,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64423,06400219891,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64494,06400219889,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64047,06400219899,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64539,06400220130,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64492,06400219991,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64261,06400219828,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,S,C,S,C
+64152,06400219833,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64455,06400219832,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64456,06400219830,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64501,06400219868,2025-08-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64474,06400219774,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64463,06400219683,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64073,06400219684,2025-08-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64241,06400219681,2025-08-27,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64037,06400219682,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64414,06400219661,2025-08-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64251,06400219662,2025-08-25,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64272,06400219637,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64236,06400219633,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64366,06400219632,2025-08-21,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64146,06400219604,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64397,06400219605,2025-08-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64254,06400219606,2025-08-21,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64439,06400219402,2025-08-14,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64239,06400219497,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64114,06400219401,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64005,06400219400,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64054,06400219412,2025-08-12,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64283,06400219344,2025-08-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64246,06400219355,2025-08-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64235,06400219367,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64323,06400219354,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64145,06400219545,2025-08-07,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64119,06400219348,2025-08-07,Eau d'alimentation conforme aux limites de qualité.On constate cependa nt une température de l'eau élevée.,C,C,C,N
+64392,06400219352,2025-08-07,"Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée. Teneur en fer supérieure à la valeur maximale de référence. Ce paramètre peu occasionner des désagréments chez les usagers : eau colorée, taches sur le linge, goûts, turbidité ...).",C,C,C,N
+64523,06400219351,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64070,06400219341,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64303,06400219364,2025-08-07,Eau d'alimentation conforme aux exigences de qualité. On constate cependant une turbidité élevée.,C,C,C,N
+64447,06400219353,2025-08-07,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64559,06400219365,2025-08-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64200,06400219350,2025-08-07,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64003,06400219260,2025-08-06,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64028,06400219262,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64098,06400219528,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64208,06400219264,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64488,06400219261,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64466,06400219525,2025-08-05,"Eau d'alimentation conforme aux limites de qualité. Cette eau est agressive, elle peut provoquer la corrosion des parties métalliques du réseau et des équipements.",C,C,C,N
+64462,06400219124,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64548,06400219093,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64221,06400219085,2025-07-30,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64313,06400219083,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64205,06400218941,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64417,06400218951,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64101,06400218952,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64403,06400218943,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64461,06400218942,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64216,06400218925,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64453,06400218924,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64103,06400218920,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64002,06400218991,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64095,06400218913,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64027,06400218921,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64551,06400218763,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64514,06400218772,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64202,06400218780,2025-07-17,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64489,06400218777,2025-07-17,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64363,06400218767,2025-07-17,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée. Teneur en désinfectant (chlore) insuffisante.,C,C,C,N
+64298,06400218784,2025-07-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64285,06400218781,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64056,06400218771,2025-07-16,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64180,06400218796,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64043,06400218770,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64286,06400218789,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64380,06400218768,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64184,06400218766,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64109,06400218613,2025-07-09,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64498,06400218616,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64281,06400218454,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64059,06400218448,2025-07-03,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64381,06400218453,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64454,06400218458,2025-07-03,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64428,06400218438,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64331,06400218457,2025-07-03,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64228,06400218441,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64090,06400218456,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64383,06400218447,2025-07-03,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,N
+64265,06400218992,2025-07-03,"Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices. Cette eau est incrustante, elle peut favoriser le dépôt de calcaire sur les canalisations.",C,C,N,N
+64450,06400218449,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64181,06400218450,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64347,06400218227,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64212,06400218228,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64346,06400218260,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64425,06400218366,2025-06-23,Eau d'alimentation conforme aux limites de qualité. On constate cependant une température de l'eau élevée.,C,C,C,N
+64452,06400218259,2025-06-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64253,06400218171,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64469,06400218117,2025-06-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64451,06400218101,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64196,06400218089,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64233,06400218100,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64365,06400218090,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64374,06400218045,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64171,06400218044,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64396,06400217957,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64440,06400217977,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64427,06400217955,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64096,06400217956,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64215,06400218012,2025-06-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64437,06400217968,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64352,06400217821,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64219,06400217818,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64398,06400217841,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64482,06400217840,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64385,06400217822,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64355,06400217833,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64426,06400217834,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64318,06400217823,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64201,06400217838,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64144,06400217820,2025-06-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64243,06400217785,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64209,06400217709,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64334,06400217664,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64031,06400217663,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64083,06400217817,2025-05-23,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes. Teneur en désinfectant (chlore) insuffisante.,C,C,N,C
+64176,06400217687,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64106,06400217668,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64166,06400217669,2025-05-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64120,06400217558,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64234,06400217542,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64332,06400217541,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64552,06400217560,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64168,06400217586,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64238,06400217592,2025-05-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64143,06400217539,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64121,06400217538,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64105,06400217471,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64178,06400217432,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64155,06400217474,2025-05-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64338,06400217440,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64395,06400217439,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64394,06400217437,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64534,06400217436,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64308,06400217435,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64226,06400217434,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64099,06400217407,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64034,06400217325,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64158,06400217409,2025-04-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyd de chlore) insuffisante.,C,C,C,C
+64066,06400217324,2025-04-29,Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée.,C,C,C,N
+64263,06400217345,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64341,06400217360,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64149,06400217371,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64344,06400217328,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64438,06400217314,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+64464,06400217327,2025-04-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64393,06400217263,2025-04-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64549,06400217264,2025-04-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64359,06400217211,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64207,06400217212,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64306,06400217192,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64050,06400217359,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64358,06400217155,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64051,06400217142,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64267,06400217144,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64367,06400217073,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64088,06400217076,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64305,06400217074,2025-04-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64036,06400217064,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64528,06400217102,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64372,06400217057,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64390,06400217056,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64074,06400217110,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64232,06400217054,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64010,06400217009,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64018,06400216969,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64197,06400216953,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64075,06400216950,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64292,06400216916,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64266,06400216882,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64321,06400216869,2025-03-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64172,06400216819,2025-03-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64301,06400216799,2025-03-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64033,06400216826,2025-03-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64412,06400216798,2025-03-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64473,06400216821,2025-03-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64019,06400216717,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64211,06400216711,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64309,06400216710,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64118,06400216708,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64408,06400216707,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64195,06400216706,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) insuffisante.,C,C,C,C
+64188,06400216692,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64108,06400216642,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64150,06400216617,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64187,06400216563,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64032,06400216526,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64174,06400216535,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64190,06400216531,2025-02-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64493,06400216550,2025-02-12,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de bactéries coliformes.,C,C,N,C
+64115,06400216512,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64013,06400216506,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64162,06400216513,2025-02-10,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64502,06400216537,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64287,06400216484,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64480,06400216483,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64151,06400216441,2025-02-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64157,06400216388,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64089,06400216393,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64173,06400216394,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64159,06400216395,2025-02-03,Eau d'alimentation conforme aux limites de qualité. On constate cependant la présence de spores et bactéries sulfito-réductrices.,C,C,N,C
+64077,06400216396,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (bioxyde de chlore) insuffisante.,C,C,C,C
+64057,06400216390,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64097,06400216333,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64021,06400216332,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64161,06400216376,2025-01-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64017,06400216330,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64045,06400216311,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64008,06400216281,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64141,06400216278,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64044,06400216279,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64025,06400216194,2025-01-17,Eau d'alimentation conforme aux limites de qualité. On constate cependant une turbidité élevée.,C,C,C,N
+64001,06400216195,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64053,06400216196,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64012,06400216192,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64242,06400216193,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64250,06400216205,2025-01-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64052,06400216166,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64079,06400216265,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Teneur en désinfectant (chlore) élevée.,C,C,C,C
+64004,06400216158,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64022,06400216157,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64048,06400216160,2025-01-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+64123,06400216052,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

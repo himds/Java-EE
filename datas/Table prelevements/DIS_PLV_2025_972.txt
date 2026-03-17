@@ -1,0 +1,35 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+97228,97200110046,2025-12-19,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97209,97200110079,2025-12-17,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97212,97200110104,2025-12-17,Renforcement du contrôle sanitaire : suivi de la qualité du traitement de l’eau (coagulation – floculation) par la station du Galion. La concentration en aluminium est conforme aux exigences sanitaires.,S,C,S,N
+97234,97200110039,2025-12-16,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97224,97200110053,2025-12-15,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97207,97200110047,2025-12-15,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97204,97200110106,2025-12-15,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97213,97200110174,2025-12-11,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97206,97200110172,2025-12-11,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97229,97200110253,2025-12-10,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97222,97200110175,2025-12-10,Renforcement du contrôle sanitaire : suivi de la qualité du traitement de l’eau (coagulation – floculation) par la station de Directoire. La concentration en aluminium est conforme aux exigences sanitaires.,S,C,S,N
+97202,97200110261,2025-12-09,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97230,97200110170,2025-12-08,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97217,97200110265,2025-12-08,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97226,97200110266,2025-12-08,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97201,97200109914,2025-12-05,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97210,97200110069,2025-12-03,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97214,97200110099,2025-12-02,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée. Toutefois, le dépassement de la référence de qualité pour le paramètre Aluminium reflète un dysfonctionnement dans le traitement et/ou la distribution mis en œuvre.",C,C,C,N
+97233,97200110112,2025-12-02,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97208,97200110181,2025-12-01,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97219,97200110184,2025-11-27,Eau potable au vu des paramètres recherchés.,C,C,C,C
+97203,97200109848,2025-11-24,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97218,97200109835,2025-11-18,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97232,97200110258,2025-11-13,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97211,97200109825,2025-11-13,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97221,97200110096,2025-11-12,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,N,N
+97220,97200110180,2025-11-12,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97225,97200109824,2025-11-03,Eau potable au vu des paramètres recherchés.,C,C,C,C
+97231,97200109715,2025-10-16,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97223,97200109718,2025-10-15,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97216,97200109719,2025-10-13,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97205,97200109526,2025-06-23,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97227,97200109073,2025-04-03,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée.",C,C,C,N
+97215,97200108734,2025-01-27,"Eau potable au vu des paramètres recherchés, naturellement faiblement minéralisée. Toutefois, une attention particulière devra être portée à la teneur en chlore, les faibles concentrations relevées compromettent la désinfection.",C,C,C,N

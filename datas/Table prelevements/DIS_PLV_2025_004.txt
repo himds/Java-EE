@@ -1,0 +1,198 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+04135,00400152545,2025-12-30,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04161,00400152547,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04005,00400152561,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04106,00400152870,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+04061,00400152531,2025-12-24,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04240,00400152559,2025-12-24,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04209,00400152528,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04028,00400152549,2025-12-23,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04067,00400152521,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04140,00400152526,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04126,00400152524,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04139,00400152527,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04144,00400152538,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04108,00400152522,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04171,00400152539,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04070,00400152529,2025-12-23,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Taux de chlore faible. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie producti on et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04020,00400152520,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04226,00400152519,2025-12-22,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04112,00400152518,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04073,00400152503,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04019,00400152504,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04193,00400152502,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04059,00400152506,2025-12-18,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04006,00400152508,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04155,00400152509,2025-12-18,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04178,00400152505,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04045,00400152499,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04219,00400152514,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04055,00400152515,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04134,00400152495,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04222,00400152496,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04023,00400152498,2025-12-16,Eau d'alimentation non-conforme à la limite de qualité fixée pour le paramètre turbidité.,C,N,C,N
+04113,00400152475,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04094,00400152472,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04120,00400152473,2025-12-15,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04074,00400152460,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04096,00400152459,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04130,00400152465,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04065,00400152462,2025-12-11,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Le taux de chlore est trop élevé. Le taux de chlore libre doit être ramené à 0,3 mg/l en sortie production et à 0,1 mg/l en tout point du réseau.",C,C,C,C
+04109,00400152464,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04062,00400152456,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04214,00400152450,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04136,00400152442,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04218,00400152446,2025-12-10,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04152,00400152441,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04197,00400152445,2025-12-10,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04063,00400152437,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04033,00400152444,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04133,00400152449,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04111,00400152429,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04013,00400152426,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04145,00400152422,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04188,00400152432,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04068,00400152425,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04123,00400152431,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04143,00400152433,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. A signaler une teneur significative en nitrates.,C,C,C,C
+04149,00400152428,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04207,00400152434,2025-12-09,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04233,00400152435,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04047,00400152412,2025-12-08,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre ou taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04217,00400152413,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04021,00400152406,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04230,00400152411,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04046,00400152408,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04001,00400152414,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04156,00400152389,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04035,00400152383,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04031,00400152386,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04184,00400152390,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04084,00400152388,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04121,00400152387,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04054,00400152384,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04039,00400152371,2025-12-04,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04092,00400152374,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04102,00400152373,2025-12-04,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04210,00400152381,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04195,00400152375,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04086,00400152401,2025-12-04,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre sulfates. L'utilisation de cette eau pour la boisson et la préparation d'aliments est déconseillée pour les nourrissons.,C,C,C,N
+04173,00400152361,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04202,00400152364,2025-12-03,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04008,00400152356,2025-12-03,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04169,00400152358,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04018,00400152355,2025-12-03,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04115,00400152357,2025-12-03,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre conductivité. Conductivité faible, eau pouvant être agressive.",C,C,C,N
+04208,00400152363,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04162,00400152360,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04192,00400152362,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04116,00400152340,2025-12-02,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04237,00400152351,2025-12-02,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04245,00400152343,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04242,00400152353,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04205,00400152350,2025-12-02,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04088,00400152345,2025-12-02,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04203,00400152349,2025-12-02,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04034,00400152339,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04049,00400152336,2025-12-01,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04231,00400152325,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04176,00400152330,2025-12-01,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04186,00400152332,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04200,00400152327,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04189,00400152329,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04211,00400152328,2025-12-01,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04004,00400152324,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04244,00400152337,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04166,00400152333,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04079,00400152335,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04172,00400152331,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04157,00400152334,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04022,00400152318,2025-11-27,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04199,00400152307,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04154,00400152297,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04183,00400152311,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04148,00400152309,2025-11-27,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04017,00400152322,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04069,00400152315,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04077,00400152293,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04104,00400152274,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04122,00400152285,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04163,00400152279,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04159,00400152278,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04132,00400152276,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04177,00400152286,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04201,00400152290,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04040,00400152287,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04101,00400152466,2025-11-25,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour les paramètres mesurés. A signaler la présence d'un métabolite pertinent de pesticide (2,6-Dichlorobenzamide).",S,C,S,C
+04220,00400152266,2025-11-25,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04141,00400152277,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04057,00400152252,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04026,00400152250,2025-11-24,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04093,00400152254,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04085,00400152261,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04037,00400152251,2025-11-24,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04167,00400152244,2025-11-20,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04099,00400152219,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04235,00400152221,2025-11-20,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04036,00400152212,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04236,00400152195,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04090,00400152193,2025-11-19,Eau d'alimentation non-conforme aux exigences de qualité. Cette unité de distribution est en restriction d'usages depuis le 13 avril 2022. L’arrêté municipal de restriction d’utilisation de l'eau du 13/04/2022 doit rester applicable. Des mesures correctives devaient être mises en place depuis les mises en demeure de novembre 2021 et juillet 2022. A signaler l'absence de chlore malgré les recommandations de surchloration à 0.5mg/L.,N,C,N,C
+04174,00400152194,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04229,00400152199,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04032,00400152191,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04007,00400152189,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04072,00400152179,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04097,00400152178,2025-11-18,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04025,00400152177,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04181,00400152157,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04182,00400152159,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04128,00400152174,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04041,00400152162,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04024,00400152151,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04206,00400152148,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04138,00400152146,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04087,00400152149,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04151,00400152243,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour les paramètres mesurés. A signaler la présence d'un métabolite non pertinent de pesticide (Chlorothalonil R471811).,C,C,C,C
+04127,00400152150,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04075,00400152133,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04150,00400152134,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04190,00400152070,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04241,00400152068,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04012,00400152074,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04160,00400152072,2025-11-06,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04129,00400152076,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04175,00400152071,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04142,00400152073,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04110,00400152061,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04180,00400152047,2025-11-05,"Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes. Absence de chlore libre. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,N,C
+04030,00400152041,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+04234,00400152031,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04216,00400152029,2025-11-04,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre conductivité.,C,C,C,N
+04118,00400152034,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04058,00400152027,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04043,00400152019,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04124,00400152006,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04076,00400151998,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04158,00400152007,2025-11-03,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Absence de chlore libre ou taux de chlore insuffisant. Une vérification de l'appareil de désinfection est nécessaire. Le taux de chlore libre à atteindre est de 0,3 mg/l en sortie production et de 0,1 mg/l en tout point du réseau.",C,C,C,C
+04081,00400152011,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04042,00400152004,2025-11-03,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04095,00400151971,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04091,00400151958,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04228,00400151919,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04179,00400151880,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04187,00400151844,2025-10-20,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre turbidité.,C,C,C,N
+04051,00400151820,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04227,00400151814,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04027,00400151813,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04194,00400151811,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04170,00400151812,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04204,00400151799,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04137,00400151787,2025-10-10,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre conductivité.,C,C,C,N
+04053,00400151684,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04066,00400151667,2025-10-06,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre sulfates. L'utilisation de cette eau pour la boisson et la préparation d'aliments est déconseillée pour les nourrissons.,C,C,C,N
+04107,00400151639,2025-10-02,Eau d'alimentation conforme aux limites de qualité mais dépassement de la référence de qualité pour le paramètre bactéries coliformes.,C,C,N,C
+04224,00400151623,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04016,00400151497,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04164,00400151428,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04009,00400151248,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+04050,00400151142,2025-08-25,Eau d'alimentation conforme aux limites de qualité mais dépassement des références de qualité pour les paramètres conductivité et bactéries coliformes.,C,C,N,N

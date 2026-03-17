@@ -1,0 +1,235 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+2B033,02B00120003,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B207,02B00119976,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B087,02B00119915,2025-12-18,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B307,02B00119990,2025-12-18,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices.,C,C,N,C
+2B252,02B00119765,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B299,02B00119806,2025-12-17,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B297,02B00119800,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B273,02B00119782,2025-12-17,Eau d'alimentation conforme aux limites de qualité. Turbidité hors norme.,C,C,C,N
+2B148,02B00119890,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B042,02B00119901,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B342,02B00119854,2025-12-15,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B251,02B00119962,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B123,02B00119943,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B346,02B00119981,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B217,02B00119730,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B202,02B00119718,2025-12-11,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante.,C,C,N,C
+2B164,02B00119678,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B096,02B00119626,2025-12-11,Eau d'alimentation conforme aux limites de qualité. La teneur en chlore libre est trop élévée. Eau faiblement minéralisée.,C,C,C,N
+2B320,02B00119965,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B213,02B00119727,2025-12-10,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B161,02B00119675,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B053,02B00119581,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B354,02B00119868,2025-12-10,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B328,02B00119835,2025-12-10,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Bromates hors norme.,C,N,C,C
+2B315,02B00119824,2025-12-10,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B327,02B00119834,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B261,02B00119775,2025-12-09,Eau d'alimentation conforme aux limites de qualité. Turbidité hors norme.,C,C,C,N
+2B192,02B00119908,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B298,02B00119803,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B166,02B00119888,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B184,02B00119700,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B338,02B00119847,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B256,02B00119768,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B003,02B00119514,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B081,02B00119611,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B340,02B00119849,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B319,02B00119829,2025-12-02,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B242,02B00119754,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B037,02B00120064,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B046,02B00119559,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B152,02B00119667,2025-12-02,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B143,02B00119973,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B110,02B00119638,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B009,02B00119949,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B005,02B00119516,2025-12-01,Eau d'alimentation conforme aux limites de qualité. Carbone Organique Total hors norme.,C,C,C,N
+2B134,02B00120075,2025-12-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B316,02B00120070,2025-12-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B050,02B00119933,2025-12-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B210,02B00119726,2025-11-27,Eau d'alimentation conforme aux limites de qualité. La teneur en chlore libre est trop élévée. Turbidité hors norme. Présence de bactéries sulfito-réductrices.,C,C,N,N
+2B318,02B00119826,2025-11-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B145,02B00119656,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B245,02B00119758,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B214,02B00119728,2025-11-26,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B280,02B00119784,2025-11-26,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B072,02B00119600,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B120,02B00119642,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B353,02B00120054,2025-11-24,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B305,02B00120050,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B291,02B00118535,2025-11-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B222,02B00119737,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B219,02B00119733,2025-11-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B147,02B00119658,2025-11-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B007,02B00119521,2025-11-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B047,02B00119561,2025-11-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B243,02B00119756,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B101,02B00119628,2025-11-19,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B052,02B00119580,2025-11-19,Eau d'alimentation non-conforme aux exigences de qualité. Nickel hors norme. Eau faiblement minéralisée.,C,N,C,N
+2B176,02B00119694,2025-11-19,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B049,02B00119564,2025-11-19,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B010,02B00119525,2025-11-19,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B165,02B00119680,2025-11-18,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B293,02B00119797,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B303,02B00119971,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B088,02B00119617,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B225,02B00119742,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B150,02B00119661,2025-11-06,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B335,02B00119916,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B069,02B00119599,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B125,02B00119648,2025-11-03,Eau d'alimentation conforme aux limites de qualité. La teneur en chlore libre est trop élévée. Présence de bactéries sulfito-réductrices.,C,C,N,C
+2B241,02B00119753,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B135,02B00119957,2025-10-29,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,N,N
+2B257,02B00119771,2025-10-29,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B287,02B00119792,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B277,02B00118765,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B230,02B00119746,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B333,02B00119839,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B057,02B00119589,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B153,02B00119670,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B121,02B00119644,2025-10-28,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,N,N
+2B321,02B00119832,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B187,02B00119706,2025-10-23,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B183,02B00119699,2025-10-23,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B058,02B00119591,2025-10-23,Eau d'alimentation non-conforme aux exigences de qualité. Nickel hors norme. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,C,N,N,N
+2B162,02B00119676,2025-10-23,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B023,02B00119534,2025-10-23,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B178,02B00119697,2025-10-23,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices.,C,C,N,C
+2B093,02B00120079,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B039,02B00119548,2025-10-22,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Nickel hors norme.,C,N,C,C
+2B140,02B00119884,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B138,02B00119653,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B167,02B00119934,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B059,02B00119595,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B084,02B00119614,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B036,02B00119879,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B055,02B00119881,2025-10-22,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B168,02B00120069,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B233,02B00119749,2025-10-21,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B102,02B00119629,2025-10-21,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,C,C
+2B195,02B00119715,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B206,02B00119722,2025-10-21,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante.,C,C,N,C
+2B030,02B00119546,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B361,02B00119872,2025-10-21,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B169,02B00119684,2025-10-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B220,02B00119734,2025-10-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B244,02B00119757,2025-10-20,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Arsenic hors norme.,C,N,C,C
+2B281,02B00119786,2025-10-20,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B248,02B00119762,2025-10-20,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,N,N
+2B086,02B00119616,2025-10-20,Eau d'alimentation conforme aux limites de qualité. Eau fortement minéralisée.,C,C,C,N
+2B043,02B00119553,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B107,02B00119634,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B309,02B00120048,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B205,02B00119720,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B106,02B00119633,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B109,02B00119636,2025-10-16,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B264,02B00119778,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B137,02B00119652,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B029,02B00119542,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B073,02B00119601,2025-10-16,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B095,02B00119619,2025-10-16,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B083,02B00119613,2025-10-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B188,02B00119710,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B034,02B00120085,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B025,02B00119538,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B185,02B00119705,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B239,02B00119752,2025-10-14,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante.,C,C,N,C
+2B012,02B00119527,2025-10-14,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B352,02B00120103,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B226,02B00119743,2025-10-14,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B126,02B00119649,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B097,02B00120086,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B201,02B00119717,2025-10-14,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante.,C,C,N,C
+2B182,02B00120093,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B199,02B00120095,2025-10-14,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale.,N,C,N,C
+2B311,02B00119817,2025-10-13,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries coliformes.,C,C,N,C
+2B229,02B00119745,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B313,02B00119819,2025-10-13,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,C,C
+2B082,02B00119612,2025-10-13,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B122,02B00119645,2025-10-13,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B263,02B00119777,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B177,02B00119696,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B286,02B00120067,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B077,02B00119603,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B172,02B00119692,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B365,02B00119874,2025-10-09,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,C,N
+2B265,02B00119779,2025-10-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B111,02B00119639,2025-10-08,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B193,02B00119713,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B334,02B00119840,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B194,02B00119714,2025-10-08,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale.,N,C,N,C
+2B329,02B00119836,2025-10-08,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,C,C
+2B283,02B00119791,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B289,02B00119793,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B301,02B00119808,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B314,02B00119822,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B341,02B00119852,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B171,02B00119690,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B339,02B00120102,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B190,02B00120094,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B235,02B00120098,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B156,02B00120089,2025-10-07,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B075,02B00119968,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B016,02B00119530,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B155,02B00119671,2025-10-02,Eau d'alimentation non-conforme aux limites de qualité. Arsenic hors norme,C,N,C,C
+2B364,02B00119873,2025-10-02,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B356,02B00119871,2025-10-02,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,N
+2B080,02B00119610,2025-10-02,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B015,02B00119529,2025-10-02,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B343,02B00119860,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B149,02B00119956,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B236,02B00119967,2025-10-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B124,02B00119647,2025-10-01,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B223,02B00120096,2025-10-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B180,02B00120092,2025-10-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B332,02B00120101,2025-10-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B136,02B00120088,2025-10-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B079,02B00119605,2025-09-30,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B159,02B00119674,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B173,02B00120090,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B112,02B00120087,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B175,02B00120091,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B290,02B00120100,2025-09-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B063,02B00119596,2025-09-25,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B067,02B00119597,2025-09-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B366,02B00119876,2025-09-25,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries sulfito-réductrices. Eau faiblement minéralisée.,C,C,N,N
+2B157,02B00119672,2025-09-25,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B292,02B00119795,2025-09-25,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. Eau faiblement minéralisée.,N,C,C,N
+2B013,02B00119528,2025-09-24,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B274,02B00119889,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B355,02B00119870,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B267,02B00119781,2025-09-18,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B302,02B00119811,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B317,02B00119825,2025-09-17,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,C,N
+2B170,02B00118339,2025-09-17,Eau d'alimentation conforme aux limites de qualité. Eau fortement minéralisée. Eau incrustante. Présence de bactéries sulfito-réductrices. La teneur en chlore libre est insuffisante.,C,C,N,N
+2B078,02B00119604,2025-09-17,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B275,02B00119783,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B045,02B00119557,2025-09-17,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B306,02B00119815,2025-09-16,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B113,02B00119640,2025-09-16,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B246,02B00119760,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B255,02B00119766,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B347,02B00119864,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B074,02B00119602,2025-09-15,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,N,N
+2B238,02B00119751,2025-09-15,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B260,02B00119772,2025-09-15,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B344,02B00119861,2025-09-11,Eau d'alimentation conforme aux limites de qualité. La teneur en chlore libre est trop élévée. Eau faiblement minéralisée.,C,C,C,N
+2B218,02B00119731,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B105,02B00119632,2025-09-11,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B116,02B00119641,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B296,02B00119798,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B231,02B00120082,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B224,02B00119740,2025-09-09,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B054,02B00119588,2025-09-04,Eau d'alimentation conforme aux limites de qualité Eau faiblement minéralisée.,C,C,C,N
+2B337,02B00119845,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La teneur en chlore libre est trop élévée.,C,C,C,C
+2B304,02B00119813,2025-09-01,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante. Eau faiblement minéralisée.,N,C,N,N
+2B051,02B00119577,2025-09-01,Eau d'alimentation non-conforme aux limites de qualité et conforme aux références de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,C,C
+2B216,02B00119729,2025-09-01,Eau d'alimentation conforme aux limites de qualité. Présence de bactéries coliformes. La teneur en chlore libre est insuffisante.,C,C,N,C
+2B179,02B00119698,2025-09-01,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. La teneur en chlore libre est insuffisante.,N,C,N,C
+2B068,02B00119598,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B208,02B00119724,2025-09-01,Eau d'alimentation non-conforme aux exigences de qualité. Présence de germes témoins de contamination fécale. Eau faiblement minéralisée.,N,C,C,N
+2B227,02B00119744,2025-09-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B234,02B00119750,2025-09-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B221,02B00119735,2025-09-01,Eau d'alimentation conforme aux limites de qualité. Eau faiblement minéralisée.,C,C,C,N
+2B250,02B00118480,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+2B350,02B00118708,2025-07-22,Eau d'alimentation conforme aux limites de qualité.,C,C,C,N

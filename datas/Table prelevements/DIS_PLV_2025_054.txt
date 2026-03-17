@@ -1,0 +1,578 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+54104,05400175551,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54345,05400175542,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54383,05400175541,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54271,05400175545,2025-12-30,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54129,05400175546,2025-12-30,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54540,05400175544,2025-12-30,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54371,05400175539,2025-12-30,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54535,05400175540,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54295,05400175547,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54362,05400175538,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54303,05400175535,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54157,05400175529,2025-12-29,Faible contamination microbiologique. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.,C,C,N,C
+54472,05400175537,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54049,05400175528,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54430,05400175536,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54290,05400175548,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54150,05400175531,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54395,05400175521,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54338,05400175532,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54137,05400175520,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54526,05400175525,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54188,05400175533,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54537,05400175519,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54274,05400175523,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54376,05400175534,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54172,05400175517,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54547,05400175527,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54428,05400175518,2025-12-29,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).",C,C,C,C
+54528,05400175481,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54174,05400175502,2025-12-24,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique règlementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau. Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+54339,05400175454,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54414,05400175500,2025-12-24,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique règlementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale ne présente pas de risque sanitaire pour le consommateur. Des mesures correctives doivent être prises afin de rétablir la qualité de l'eau. Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+54298,05400175480,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54288,05400175479,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54439,05400175469,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54420,05400175478,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54266,05400175495,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54451,05400175497,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54089,05400175514,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54382,05400175498,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54329,05400175446,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54323,05400175475,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54449,05400175447,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54261,05400175499,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54321,05400175474,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54493,05400175477,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54431,05400175457,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54421,05400175462,2025-12-22,Eau d'alimentation conforme aux limites de qualité et non conforme à la référence de qualité réglementaire minimum pour le paramètre Cond uctivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54332,05400175443,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54578,05400175492,2025-12-22,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54075,05400175461,2025-12-22,"Faible contamination microbiologique persistante. De plus, eau d'alime ntation ne satisfaisant pas non plus à la référence de qualité régleme ntaire minimum pour le paramètre Conductivité (200 µS/cm) : eau suscep tible d'être corrosive.  Une analyse de recontrôle sera réalisée afin de vérifier l'efficacité des mesures correctives effectuées et le reto ur à une situation normale.",C,C,N,N
+54279,05400175444,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54239,05400175459,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54201,05400175463,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54229,05400175493,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54115,05400175442,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54038,05400175494,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54199,05400175460,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54125,05400175464,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54090,05400175429,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54574,05400175412,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54011,05400175411,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54485,05400175550,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54148,05400175426,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54507,05400175427,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54572,05400175410,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54079,05400175488,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54234,05400175486,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54145,05400175425,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54138,05400175549,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54215,05400175489,2025-12-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54022,05400175434,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54097,05400175423,2025-12-18,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54518,05400175394,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54498,05400175396,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54073,05400175510,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54477,05400175407,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54392,05400175391,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54546,05400175420,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54351,05400175409,2025-12-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54041,05400175390,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54390,05400175419,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54105,05400175509,2025-12-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54496,05400175415,2025-12-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54474,05400175395,2025-12-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54548,05400175406,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54375,05400175418,2025-12-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54120,05400175389,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54318,05400175393,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54205,05400175483,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54149,05400175511,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54240,05400175417,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54007,05400175388,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54328,05400175385,2025-12-16,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54333,05400175405,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54159,05400175321,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54076,05400175318,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54256,05400175508,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54270,05400175507,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54275,05400175355,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54596,05400175352,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54594,05400175360,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54140,05400175354,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54119,05400175359,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54586,05400175350,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54570,05400175356,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54385,05400175433,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54411,05400175319,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54060,05400175343,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54523,05400175353,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54252,05400175381,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54369,05400175342,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54405,05400175317,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54409,05400175320,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54415,05400175358,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54575,05400175340,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54426,05400175345,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54367,05400175338,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54563,05400175323,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54583,05400175347,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54569,05400175378,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54143,05400175346,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54505,05400175516,2025-12-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54320,05400175482,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54580,05400175678,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54516,05400175324,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54388,05400175404,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54463,05400175337,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54214,05400175351,2025-12-15,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre CARBONE ORGANIQUE TOTAL. Une analyse de contrôle sera réalisée afin de vérifier le retour à une situation normale.,C,C,C,N
+54397,05400175349,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54241,05400175322,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54013,05400175293,2025-12-12,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54030,05400175294,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54077,05400175295,2025-12-12,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54251,05400175333,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54512,05400175276,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54273,05400175331,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54254,05400175279,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54427,05400175291,2025-12-12,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54539,05400175292,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54081,05400175278,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54306,05400175329,2025-12-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54534,05400175288,2025-12-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54525,05400175252,2025-12-10,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54346,05400175250,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54088,05400175287,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54327,05400175286,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54102,05400175285,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54128,05400175284,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54504,05400175251,2025-12-10,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54074,05400175194,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54162,05400175414,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54557,05400175190,2025-12-09,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54494,05400175467,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54189,05400175185,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54116,05400175231,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54490,05400175196,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54373,05400175230,2025-12-09,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54545,05400175186,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54260,05400175187,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54531,05400175183,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54584,05400175229,2025-12-09,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54232,05400175188,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54315,05400175249,2025-12-09,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54068,05400175182,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54202,05400175473,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54300,05400175179,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54559,05400175247,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54280,05400175172,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54263,05400175171,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54028,05400175173,2025-12-08,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54040,05400175240,2025-12-08,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54191,05400175242,2025-12-08,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54423,05400175243,2025-12-08,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54484,05400175177,2025-12-08,Eau d'alimentation présentant une teneur en perchlorates supérieure à 4 µg/L mais inférieure à 15 µg/L. La consommation de cette eau est déconseillée pour les nourrissons de moins de 6 mois. Un suivi renforcé de ce paramètre est réalisé.,S,C,S,C
+54210,05400175176,2025-12-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54262,05400175152,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54196,05400175139,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54519,05400175145,2025-12-05,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54065,05400175150,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54364,05400175377,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54487,05400175141,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54365,05400175144,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54459,05400175162,2025-12-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54299,05400175143,2025-12-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54154,05400175151,2025-12-05,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54410,05400175136,2025-12-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54039,05400175149,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54483,05400175103,2025-12-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54549,05400175134,2025-12-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54462,05400175132,2025-12-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54357,05400175102,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54163,05400175104,2025-12-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54035,05400175101,2025-12-04,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54230,05400175100,2025-12-04,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54314,05400175094,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54218,05400175092,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54432,05400175087,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54352,05400175086,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54111,05400175085,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54058,05400175089,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54389,05400175091,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54123,05400175083,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54194,05400175594,2025-12-03,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre équilibre calcocarbonique. Cette eau présente un caractère incrustant et susceptible de provoquer des dépôts dans les conduites. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,C,N
+54099,05400175090,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54482,05400175059,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54495,05400175053,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54178,05400175043,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54118,05400175042,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54134,05400175039,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54322,05400175041,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54590,05400175045,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54378,05400175079,2025-12-01,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54286,05400174986,2025-11-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54272,05400175037,2025-11-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54350,05400175003,2025-11-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54027,05400175036,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54064,05400175032,2025-11-28,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54380,05400174987,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54080,05400174988,2025-11-26,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54008,05400174989,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54135,05400175012,2025-11-26,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54046,05400174990,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54047,05400174991,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54208,05400174984,2025-11-26,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54466,05400175006,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54360,05400175007,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54095,05400174978,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54059,05400174980,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54542,05400174973,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54034,05400174968,2025-11-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54476,05400175169,2025-11-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54514,05400175029,2025-11-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,C
+54536,05400174965,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54289,05400174979,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54231,05400175008,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54221,05400174958,2025-11-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54043,05400174957,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54515,05400174944,2025-11-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54223,05400174943,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54354,05400175048,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54500,05400174942,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54366,05400174838,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54225,05400174897,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54305,05400174892,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54573,05400174891,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54355,05400175236,2025-11-21,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre équilibre calcocarbonique. Cette eau présente un caractère légèrement agressif et mettant en évidence une insuffisance du traitement de neutralisation. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau.,C,C,C,N
+54460,05400174886,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54532,05400174887,2025-11-21,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54200,05400174888,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54139,05400174878,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54335,05400174883,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54595,05400174880,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54243,05400175167,2025-11-19,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre équilibre calcocarbonique. Cette eau présente un caractère agressif, susceptible de provoquer une corrosion des conduites ce qui peut entrainer une augmentation de certaines substances (plomb, cuivre…) et présenter alors un risque pour la santé des consommateurs. Il est recommandé de ne consommer cette eau qu'après écoulement de quelques minutes. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau : installation d'un traitement adapté.",C,C,C,N
+54308,05400174903,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54146,05400174866,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54233,05400174902,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54083,05400174867,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54287,05400175129,2025-11-19,"Eau d'alimentation ne satisfaisant pas aux références de qualité réglementaire pour les paramètres conductivité et équilibre calcocarbonique. Cette eau présente un caractère agressif, susceptible de provoquer une corrosion des conduites ce qui peut entrainer une augmentation de certaines substances (plomb, cuivre…) et présenter alors un risque pour la santé des consommateurs. En effet les résultats mettent en évidence une insuffisance du traitement de neutralisation. Il est recommandé de ne consommer cette eau qu'après écoulement de quelques minutes. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,C,N
+54555,05400174900,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54527,05400174871,2025-11-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54050,05400174993,2025-11-19,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre température. Ce phénomène est lié au contexte géologique et à la profondeur de prélèvement de l'eau. Par arrêté préfectoral, la collectivité est autorisée à prélever une eau brute dont la température est supérieure à la limite de qualité (25°C). La température n'entraîne pas de risque direct pour le consommateur mais peut favoriser la croissance bactérienne, diminuer l'efficacité de certains traitements de l'eau et induire des problèmes de saveur, d'odeur, de couleur et de corrosion. Un suivi particulier pour les légionelles est mis en place car la température de l'eau captée est supérieure à 25°C : Présence de légionelles.",C,C,C,N
+54220,05400174860,2025-11-18,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54003,05400174861,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54444,05400174857,2025-11-18,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54464,05400174858,2025-11-18,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54579,05400174828,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54419,05400174815,2025-11-17,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54488,05400175124,2025-11-17,"Eau d'alimentation ne satisfaisant pas aux références de qualité réglementaire pour les paramètres conductivité et équilibre calcocarbonique. Cette eau présente un caractère agressif, susceptible de provoquer une corrosion des conduites ce qui peut entrainer une augmentation de certaines substances (plomb, cuivre…) et présenter alors un risque pour la santé des consommateurs. En effet les résultats mettent en évidence une insuffisance du traitement de neutralisation. Il est recommandé de ne consommer cette eau qu'après écoulement de quelques minutes. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,C,N
+54363,05400175400,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54435,05400174830,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54017,05400174814,2025-11-17,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54184,05400174823,2025-11-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54582,05400174812,2025-11-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54412,05400174807,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54236,05400174805,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54417,05400174797,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54407,05400174756,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54237,05400174763,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54204,05400174757,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54597,05400174796,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54379,05400174754,2025-11-13,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54521,05400174848,2025-11-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54212,05400174790,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54425,05400174751,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54217,05400174727,2025-11-10,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre fer. Le fer n'entraîne pas directement un risque sanitaire mais il induit des effets indirects gênants pour l'usager, notamment une coloration rouille et des goûts perceptibles. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi renforcé est mis en place pour ce paramètre.",C,C,C,N
+54265,05400174723,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54560,05400174719,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54396,05400174714,2025-11-10,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54418,05400174700,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54530,05400174702,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54552,05400174704,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54391,05400174677,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54491,05400174670,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54568,05400174666,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54602,05400174649,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54282,05400174648,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54103,05400174652,2025-11-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54025,05400174640,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54167,05400174634,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54206,05400174604,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54292,05400174605,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54192,05400174606,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54066,05400174626,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54222,05400174629,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54010,05400174608,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54456,05400174624,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54245,05400174630,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54399,05400174631,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54510,05400174625,2025-11-03,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54538,05400174622,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54226,05400174611,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54593,05400174568,2025-10-31,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54257,05400174596,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54179,05400174534,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54216,05400174533,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54567,05400174529,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54554,05400174528,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54550,05400174486,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54209,05400174660,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54183,05400174697,2025-10-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54114,05400174435,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54122,05400174427,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54497,05400174454,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54164,05400174424,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54443,05400174659,2025-10-21,"Eau d'alimentation ne satisfaisant pas aux références de qualité réglementaire pour les paramètres conductivité et équilibre calcocarbonique. Cette eau présente un caractère agressif, susceptible de provoquer unecorrosion des conduites ce qui peut entrainer une augmentation de certaines substances (plomb, cuivre…) et présenter alors un risque pour la santé des consommateurs. Il est recommandé de ne consommer cette eau qu'après écoulement de quelques minutes. Les mesures correctives doivent être prises afin de rétablir la qualité de l'eau.",C,C,C,N
+54529,05400174420,2025-10-21,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54190,05400174419,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54475,05400174933,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54304,05400174407,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54470,05400174368,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54187,05400174369,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54246,05400174334,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54211,05400174583,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54481,05400174497,2025-10-14,Eau d'alimentation présentant une teneur en perchlorates supérieure à 4 µg/L mais inférieure à 15 µg/L. La consommation de cette eau est déconseillée pour les nourrissons de moins de 6 mois. Un suivi renforcé de ce paramètre est réalisé.,S,C,S,C
+54571,05400174322,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54565,05400174328,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54181,05400174314,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54016,05400174295,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54086,05400174294,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54264,05400174274,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54052,05400174266,2025-10-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54242,05400174227,2025-10-08,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54165,05400174222,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54445,05400174226,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54096,05400174208,2025-10-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54349,05400174543,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54353,05400174196,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54093,05400174194,2025-10-06,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54283,05400174195,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54152,05400174146,2025-10-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54433,05400174113,2025-10-01,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates. La consommation de l'eau est déconseillée aux femmes enceintes et aux nourrissons de moins de 6 mois. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi analytique renforcé est réalisé pour vérifier l'évolution de ce paramètre.,C,N,C,C
+54313,05400174112,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54126,05400174114,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54067,05400174118,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54055,05400174097,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54326,05400174084,2025-09-30,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54533,05400174172,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54394,05400174088,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54581,05400174083,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54069,05400174089,2025-09-30,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54277,05400174082,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54009,05400174081,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54294,05400174001,2025-09-24,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates. La consommation de l'eau est déconseillée aux femmes enceintes et aux nourrissons de moins de 6 mois. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.,C,N,C,C
+54044,05400174077,2025-09-24,Eau d'alimentation présentant une teneur en perchlorates supérieure à 4 µg/L mais inférieure à 15 µg/L. La consommation de cette eau est déconseillée pour les nourrissons de moins de 6 mois. Un suivi renforcé de ce paramètre est réalisé.,S,C,S,C
+54513,05400173986,2025-09-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54197,05400173966,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54285,05400173910,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54422,05400173911,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54553,05400173875,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54151,05400173885,2025-09-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54291,05400173861,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54091,05400173860,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54576,05400173791,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54562,05400173818,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54544,05400173780,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54330,05400173748,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54479,05400173777,2025-09-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54436,05400173715,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54601,05400173680,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54182,05400173669,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54416,05400173800,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54520,05400173727,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54136,05400173726,2025-09-02,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54156,05400173814,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54224,05400173730,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54301,05400173651,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54336,05400173646,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54438,05400173507,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54063,05400173798,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54160,05400173502,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54281,05400173388,2025-08-14,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54056,05400173392,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54029,05400173393,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54268,05400173397,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54207,05400173317,2025-08-13,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54312,05400173315,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54511,05400173295,2025-08-11,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54110,05400173218,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54258,05400173221,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54253,05400173225,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54177,05400173219,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54048,05400173211,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54175,05400173241,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54561,05400173284,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54307,05400173283,2025-08-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54278,05400173239,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54401,05400173131,2025-08-01,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire minimum pour le paramètre Conductivité (200 µS/cm) : eau susceptible d'être corrosive.,C,C,C,N
+54556,05400173154,2025-08-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54471,05400173098,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54227,05400173072,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54406,05400173125,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54447,05400172952,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54368,05400172951,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54311,05400172948,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54002,05400173116,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54508,05400172972,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54006,05400173046,2025-07-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54037,05400172845,2025-07-15,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54309,05400172847,2025-07-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54087,05400172860,2025-07-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54404,05400173018,2025-07-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54170,05400172761,2025-07-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54133,05400172749,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54180,05400172750,2025-07-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54374,05400172745,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54117,05400172736,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54442,05400172738,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54094,05400172735,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54310,05400172737,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54036,05400172801,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54543,05400172722,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54387,05400172839,2025-07-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54131,05400172659,2025-07-03,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates. La consommation de l'eau est déconseillée aux femmes enceintes et aux nourrissons de moins de 6 mois. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi analytique renforcé est réalisé pour vérifier l'évolution de ce paramètre.,C,N,C,C
+54297,05400172580,2025-07-02,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54480,05400172639,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54492,05400172794,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54176,05400172540,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54061,05400172769,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54441,05400172489,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54398,05400172523,2025-06-27,"Eau d'alimentation ne satisfaisant pas aux références de qualité réglementaires  pour les paramètres Conductivité et pH. Avec une conductiivité inférieure à 200 µS/cm, l'eau est susceptible d 'être corrosive. Le paramètre pH est supérieur à 9 unités pH). Un pH élevé peut entraîn er une diminution du pouvoir de désinfection au chlore.",C,C,C,N
+54062,05400172531,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54106,05400172630,2025-06-27,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54130,05400172626,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54467,05400172627,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54551,05400172487,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54101,05400172574,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54589,05400172682,2025-06-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54434,05400172457,2025-06-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54018,05400172618,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54334,05400172620,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54084,05400172700,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54458,05400172486,2025-06-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54370,05400172316,2025-06-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54499,05400172604,2025-06-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54473,05400172313,2025-06-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54238,05400172314,2025-06-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54014,05400173186,2025-06-20,Eau d'alimentation présentant une teneur en perchlorates supérieure à 4 µg/L mais inférieure à 15 µg/L. La consommation de cette eau est donseillée pour les nourrissons de moins de 6 mois. Un suivi renforcé de ce paramètre est réalisé.,S,C,S,C
+54501,05400172259,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54070,05400172362,2025-06-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54296,05400172249,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54524,05400172115,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54453,05400172036,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54400,05400171945,2025-06-02,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54108,05400171976,2025-06-02,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54024,05400171832,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54455,05400171823,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54228,05400171984,2025-05-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54158,05400171818,2025-05-26,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54161,05400171634,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54450,05400171961,2025-05-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54452,05400171552,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. La restriction des usages de l'eau prise le 19 mai 2025 peut être levée sur la base des résultats de cette analyse.,C,C,C,C
+54348,05400171549,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54057,05400171548,2025-05-20,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54598,05400171531,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54489,05400171533,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54012,05400171527,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54144,05400171530,2025-05-19,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54478,05400171478,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54213,05400171459,2025-05-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54100,05400171505,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54276,05400171434,2025-05-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54284,05400171646,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54127,05400171406,2025-05-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54071,05400171340,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54185,05400171414,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54502,05400171383,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54522,05400171344,2025-05-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54001,05400171291,2025-05-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54437,05400171357,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54249,05400171266,2025-05-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54112,05400171267,2025-05-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54461,05400171243,2025-05-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54121,05400171242,2025-05-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54468,05400171235,2025-05-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54168,05400171227,2025-04-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54566,05400171023,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54169,05400170929,2025-04-14,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54302,05400170930,2025-04-14,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54469,05400170981,2025-04-14,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54109,05400170862,2025-04-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54486,05400170910,2025-04-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54359,05400170863,2025-04-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54098,05400170864,2025-04-11,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54107,05400170816,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54053,05400170821,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54259,05400170814,2025-04-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54541,05400170820,2025-04-09,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54577,05400170808,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54021,05400170807,2025-04-08,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54235,05400170976,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54343,05400170760,2025-04-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54019,05400170759,2025-04-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L).Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54393,05400170765,2025-04-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54141,05400170902,2025-04-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54198,05400170693,2025-04-01,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54587,05400170679,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54337,05400170932,2025-04-01,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54203,05400170678,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54600,05400170891,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54092,05400170680,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54457,05400170515,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54033,05400170606,2025-03-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54072,05400170505,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54124,05400170509,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54317,05400170504,2025-03-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54558,05400170489,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54372,05400170598,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54517,05400170491,2025-03-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54592,05400170487,2025-03-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54465,05400170488,2025-03-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54564,05400170397,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54147,05400170393,2025-03-18,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54440,05400170371,2025-03-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54171,05400170430,2025-03-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54377,05400170479,2025-03-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+54247,05400170256,2025-03-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54244,05400170233,2025-03-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54015,05400170152,2025-03-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54325,05400170143,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54085,05400170142,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54356,05400170144,2025-03-04,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54424,05400170119,2025-02-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54402,05400170093,2025-02-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54340,05400170047,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54316,05400170046,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54078,05400169976,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54166,05400169871,2025-02-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54381,05400169784,2025-02-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54113,05400169759,2025-02-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54358,05400169760,2025-02-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54413,05400169749,2025-02-11,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54142,05400169738,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54408,05400169728,2025-02-10,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est très élevée (>0,5 mg/L). Une recherche des sous produits de désinfection a été réalisée.",C,C,C,C
+54082,05400169731,2025-02-10,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54429,05400170122,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54331,05400169721,2025-02-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54026,05400169642,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54132,05400169686,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54045,05400169683,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54324,05400169684,2025-02-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54042,05400169685,2025-02-05,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54023,05400169617,2025-01-31,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54219,05400169651,2025-01-31,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54293,05400169444,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54255,05400169445,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54386,05400169645,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54344,05400169586,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54153,05400169398,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54004,05400169401,2025-01-27,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54248,05400169395,2025-01-27,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54051,05400169459,2025-01-27,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C
+54403,05400169397,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54193,05400169396,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54032,05400169389,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54591,05400169388,2025-01-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+54005,05400169387,2025-01-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois la teneur en désinfectant (chlore libre) est élevée (> 0,3 mg/l).",C,C,C,C

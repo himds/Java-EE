@@ -1,0 +1,507 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+88358,08800192584,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88127,08800192589,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88110,08800192583,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88322,08800192587,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88338,08800192600,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88416,08800192588,2025-12-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88399,08800192586,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88165,08800192582,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88317,08800192601,2025-12-31,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88244,08800192581,2025-12-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88115,08800192590,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88009,08800192576,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88349,08800192580,2025-12-30,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88200,08800192574,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88111,08800192578,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88345,08800192579,2025-12-30,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88016,08800192572,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88049,08800192573,2025-12-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88462,08800192570,2025-12-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88383,08800192563,2025-12-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88429,08800192566,2025-12-29,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88508,08800192550,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88491,08800192549,2025-12-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88490,08800192532,2025-12-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88060,08800192533,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88473,08800192535,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88406,08800192526,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88171,08800192529,2025-12-23,Eau d'alimentation non-conforme aux exigences de qualité en vigueur po ur le paramètre antimoine. Les mesures correctives doivent être mises en oeuvre. Un suivi renforcé est mis en place pour ce paramètre.,C,C,C,C
+88090,08800192524,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88377,08800192538,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88096,08800192528,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88163,08800192523,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88450,08800192537,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88004,08800192527,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88379,08800192602,2025-12-23,"Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre ARSENIC. Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre fer. Le fer n'entraîne pas directement un risque sanitaire mais il induit des effets indirects gênants pour l'usager, notamment une coloration rouille et des goûts perceptibles. Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre manganèse. Conformément à l'a vis de l'Agence Nationale de Sécurité Sanitaire (ANSES) du 20 avril 20 18, la consommation de l'eau est déconseillée aux femmes enceintes et aux enfants de moins de 4 ans. Des effets gênants pour les usagers peu vent également être relevés notamment une coloration (noire) et des go ûts perceptibles. Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle est en cours afin de co nfirmer ou infirmer ces résultats.",C,N,N,N
+88307,08800192530,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88355,08800192539,2025-12-23,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88455,08800192536,2025-12-23,Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires : faible contamination microbiologique. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.,C,C,N,C
+88314,08800192531,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88475,08800192534,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88446,08800192519,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88448,08800192520,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,N
+88482,08800192522,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88003,08800192509,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88440,08800192517,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88274,08800192515,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88336,08800192591,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88045,08800192510,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88104,08800192512,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88249,08800192514,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88443,08800192518,2025-12-22,"Eau d'alimentation ne satisfaisant pas aux références de qualité microbiologique réglementaires en vigueur en raison de la présence de germes de type coliformes. Toutefois, la présence seule et en faible nombre de coliformes, en l'absence de tout autre germe d'origine fécale, ne présente pas de risque sanitaire pour le consommateur. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de recontrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.",C,C,N,C
+88352,08800192548,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88118,08800192513,2025-12-22,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le(s) paramètre(s) microbiologique(s): faible contamination microbiologique. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de contrôle sera réalisée prochainement afin de vérifier le retour à une situation normale.,N,C,N,C
+88102,08800192511,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88457,08800192521,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88005,08800192504,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88531,08800192508,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88503,08800192507,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88373,08800192489,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88492,08800192503,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88428,08800192506,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88438,08800192505,2025-12-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88075,08800192501,2025-12-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88442,08800192603,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88519,08800192483,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88301,08800192494,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88419,08800192496,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88033,08800192495,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88341,08800192481,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88093,08800192485,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88436,08800192498,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88159,08800192479,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88215,08800192499,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88501,08800192497,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88362,08800192486,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88262,08800192480,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88053,08800192484,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88261,08800192492,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88340,08800192493,2025-12-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88495,08800192482,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88132,08800192478,2025-12-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88487,08800192491,2025-12-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88351,08800192471,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88108,08800192472,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88126,08800192466,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88327,08800192474,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88469,08800192468,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88325,08800192454,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88105,08800192451,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88061,08800192441,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88330,08800192452,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88124,08800192450,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88517,08800192453,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88468,08800192425,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88081,08800192449,2025-12-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L). Eau d'alimentation ne satisfais ant pas à la référence de qualité réglementaire pour le paramètre cond uctivité.",C,C,C,N
+88444,08800192427,2025-12-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88306,08800192396,2025-12-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88346,08800192424,2025-12-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88506,08800192421,2025-12-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88300,08800192419,2025-12-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88451,08800192448,2025-12-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88037,08800192418,2025-12-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88467,08800192417,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88500,08800192416,2025-12-11,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. A noter, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,N
+88116,08800192414,2025-12-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88302,08800192415,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88369,08800192410,2025-12-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88408,08800192411,2025-12-11,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88361,08800192388,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88057,08800192447,2025-12-10,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,C,N
+88516,08800192463,2025-12-10,"Eau d'alimentation non conforme à la limite de qualité réglementaire p our le paramètre ARSENIC. Des mesures correctives doivent être mises en place. Eau d'alimentation ne satisfaisant pas à la référence de qua lité réglementaire pour le paramètre fer. Le fer n'entraîne pas directement un risque sanitaire mais il induit des effets indirects gênants pour l'usager, notamment une coloration rouille et des goûts perceptibles. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi renforcé est mis en pla ce pour ces paramètres. Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Une analyse de contrôle sera prochainement réalisée afin de vérifier le retour à u ne situation normale.",C,N,C,N
+88481,08800192400,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88113,08800192408,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88225,08800192551,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88032,08800192403,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88386,08800192387,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88464,08800192462,2025-12-10,"Eau non conforme aux exigences de qualité réglementaires pour les comp osés per et poly-fluoroalkylés (PFAS). Le résultat de la somme des PFA S est de 0,12 µg/L pour une limite de qualité fixée à 0,1 µg/l. Un sui vi renforcé est mis en place pour caractériser ce paramètre. DEPUIS LE 21 OCTOBRE 2025, LA CONSOMMATION DE L'EAU A DES FINS DE BOISSON ET DE PREPARATION DE BIBERONS EST INTERDITE POUR LES PERSONNES SENSIBLES.",S,N,S,C
+88114,08800192391,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88050,08800192406,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88119,08800192402,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88012,08800192386,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88011,08800192385,2025-12-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88524,08800192401,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88232,08800192446,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88068,08800192382,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88019,08800192374,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88435,08800192383,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88305,08800192376,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88319,08800192371,2025-12-09,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88344,08800192379,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88308,08800192377,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88321,08800192362,2025-12-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88078,08800192335,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88076,08800192333,2025-12-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88315,08800192334,2025-12-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88463,08800192331,2025-12-05,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88251,08800192330,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88418,08800192336,2025-12-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88196,08800192298,2025-12-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88470,08800192294,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88109,08800192329,2025-12-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88048,08800192398,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+88088,08800192286,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88479,08800192284,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88311,08800192289,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88029,08800192285,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88266,08800192277,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88263,08800192278,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88240,08800192279,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88085,08800192275,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88164,08800192272,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88146,08800192271,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88035,08800192274,2025-12-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88194,08800192327,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88014,08800192345,2025-12-02,"Eau non conforme aux exigences de qualité réglementaires pour les comp osés per et poly-fluoroalkylés (PFAS). Le résultat de la somme des PFA S est de 0,780 µg/L pour une limite de qualité fixée à 0,1 µg/l. Un su ivi renforcé est mis en place pour caractériser ce paramètre. DEPUIS L E 15 OCTOBRE 2025, LA CONSOMMATION DE L'EAU A DES FINS DE BOISSON ET D E PREPARATION DE BIBERONS EST INTERDITE.",C,N,C,N
+88476,08800192270,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88433,08800192326,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88013,08800192268,2025-12-02,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates. La consommation de l'eau est déconseillée aux femmes enceintes et aux nourrissons de moins de 6 mois. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi analytique renforcé est réalisé pour vérifier l'évolution de ce paramètre.,C,N,C,C
+88150,08800192269,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88413,08800192283,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88160,08800192230,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88445,08800192243,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+88424,08800192241,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88209,08800192226,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88182,08800192236,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88142,08800192208,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88098,08800192215,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88002,08800192223,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88494,08800192209,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88437,08800192210,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88084,08800192207,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88449,08800192282,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88056,08800192222,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88295,08800192217,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88304,08800192205,2025-11-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88277,08800192203,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88245,08800192187,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88328,08800192184,2025-11-26,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88145,08800192546,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88313,08800192218,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88461,08800192201,2025-11-26,Eau d'alimentation ne satisfaisant pas à la référence de qualité régle mentaire pour le paramètre carbone organique total. Les mesures correc tives nécessaires doivent être prises afin de rétablir la qualité de l 'eau. Une analyse de recontrôle est en cours.,C,C,C,N
+88497,08800192544,2025-11-26,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. A noter, la teneur en désinfectant (chlore libre) est élevée (>0,5 mg/L).",C,C,C,N
+88275,08800192156,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88054,08800192153,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88198,08800192154,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88064,08800192175,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88106,08800192172,2025-11-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,N
+88256,08800192179,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88181,08800192177,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88089,08800192197,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88059,08800192174,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88205,08800192181,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88086,08800192176,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88415,08800192220,2025-11-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88434,08800192144,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88265,08800192168,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88486,08800192141,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88195,08800192142,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88409,08800192140,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88296,08800192143,2025-11-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88158,08800192167,2025-11-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,N
+88079,08800192442,2025-11-24,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88169,08800192137,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88136,08800192136,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88131,08800192135,2025-11-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88099,08800192134,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88157,08800192125,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88028,08800192139,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88210,08800192129,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88297,08800192138,2025-11-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88201,08800192130,2025-11-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88465,08800192131,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88530,08800192128,2025-11-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88298,08800192107,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88402,08800192106,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88077,08800192500,2025-11-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88318,08800192121,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88168,08800192104,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88332,08800192105,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88513,08800192102,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88371,08800192052,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88484,08800192347,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88161,08800192049,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88526,08800192309,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88218,08800192050,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88123,08800192315,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88320,08800192091,2025-11-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88258,08800192310,2025-11-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88134,08800192059,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88452,08800192063,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88271,08800192090,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88289,08800192100,2025-11-18,"Eau d'alimentation ne satisfaisant pas à la référence de qualité régle mentaire pour le paramètre manganèse. Conformément à l'avis de l'Agenc e Nationale de Sécurité Sanitaire (ANSES) du 20 avril 2018, la consomm ation de l'eau est déconseillée aux femmes enceintes et aux enfants de moins de 4 ans. Des effets gênants pour les usagers peuvent également être relevés notamment une coloration (noire) et des goûts perceptibl es. Les mesures correctives nécessaires doivent être prises afin de ré tablir la qualité de l'eau. Un suivi renforcé est mis en place pour ce paramètre. Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre fer. Le fer n'entraîne pas directement un risque sanitaire mais il induit des effets indirects gênants pour l'usager, notamment une coloration rouille et des goûts perceptibles.",C,C,C,N
+88253,08800192070,2025-11-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88101,08800192057,2025-11-18,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88129,08800192030,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88403,08800192032,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88241,08800192033,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88324,08800192035,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88087,08800192040,2025-11-17,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88197,08800192026,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88083,08800192029,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88401,08800192036,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88447,08800192025,2025-11-17,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88460,08800192037,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88293,08800192034,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88128,08800192014,2025-11-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88213,08800192007,2025-11-14,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88375,08800191985,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88276,08800191980,2025-11-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88326,08800191983,2025-11-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88233,08800192000,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88162,08800191968,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88140,08800191967,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88180,08800191935,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88238,08800191961,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88515,08800191962,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88372,08800191932,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88221,08800191955,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88082,08800191954,2025-11-12,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88026,08800192219,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88391,08800191952,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88175,08800191949,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88512,08800191951,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88203,08800191916,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88216,08800192023,2025-11-10,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Compte-tenu de la concentration en chlore résiduel, un prélèvement de recontrôle n 'est pas nécessaire.",C,C,C,N
+88498,08800191950,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88348,08800191944,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88148,08800191948,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88184,08800191945,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88243,08800191946,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88152,08800191947,2025-11-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88423,08800191899,2025-11-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88284,08800191898,2025-11-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88268,08800191867,2025-11-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88193,08800191866,2025-11-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88291,08800191892,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88007,08800191889,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88220,08800191845,2025-11-06,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates. La consommation de l'eau est déconseillée aux femmes enceintes et aux nourrissons de moins de 6 mois. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi analytique renforcé est réalisé pour vérifier l'évolution de ce paramètre.,C,N,C,C
+88272,08800191891,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88248,08800191918,2025-11-06,"Eau d'alimentation ne satisfaisant pas à la référence de qualité régle mentaire pour le paramètre sulfates. En raison d'éventuels effets laxa tifs  l'utilisation de cette eau est déconseillée pour les nourrissons (pour la boisson et la préparation des aliments). Un goût particulier de l'eau peut être ressenti. Les mesures correctives nécessaires doiv ent être prises afin de rétablir la qualité de l'eau. Un contrôle renf orcé est mis en place, il pourra inclure des analyses de métaux en rai son de l'accentuation des phénomènes de corrosion des installations de distribution en présence des sulfates. Eau d'alimentation ne satisfai sant pas à la référence de qualité réglementaire pour le paramètre con ductivité.",C,C,C,N
+88269,08800191896,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88179,08800191890,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88177,08800191887,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88421,08800191895,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88310,08800191893,2025-11-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88381,08800191894,2025-11-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88299,08800191837,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88350,08800191841,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88523,08800191838,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88250,08800191835,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88426,08800191832,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88135,08800191834,2025-11-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88188,08800191831,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88039,08800191839,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88387,08800191840,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88407,08800191783,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88219,08800191781,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88183,08800191827,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88303,08800191828,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88260,08800191850,2025-11-03,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88212,08800191976,2025-11-03,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88044,08800191975,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88270,08800191779,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88070,08800191804,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88154,08800192490,2025-11-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88041,08800191803,2025-11-03,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88120,08800191808,2025-11-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88367,08800191794,2025-10-31,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88167,08800191798,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88410,08800191763,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88080,08800191793,2025-10-31,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88331,08800191795,2025-10-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88483,08800191943,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88178,08800191822,2025-10-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88309,08800192192,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88472,08800191761,2025-10-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88021,08800191694,2025-10-28,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88040,08800191690,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88532,08800191882,2025-10-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88398,08800191658,2025-10-27,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88378,08800191814,2025-10-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88259,08800191819,2025-10-22,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88166,08800191635,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88117,08800191644,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88357,08800191636,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88202,08800191634,2025-10-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88430,08800191590,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88502,08800191739,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88176,08800191538,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88214,08800191549,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88091,08800191575,2025-10-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88208,08800191507,2025-10-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88172,08800191724,2025-10-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88363,08800191463,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88137,08800191460,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88514,08800191461,2025-10-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88459,08800191620,2025-10-14,Eau d'alimentation non conforme à la limite de qualité réglementaire pour le paramètre nitrates et pour la somme our la somme NO2/3 + NO3/5 0. La consommation de l'eau est déconseillée pour la population. Les m esures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi analytique renforcé est réalisé pour vérif ier l'évolution de ce paramètre.,C,N,C,C
+88504,08800191400,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88507,08800191395,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88144,08800191383,2025-10-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88488,08800191384,2025-10-08,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88052,08800191320,2025-10-03,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88380,08800191331,2025-10-02,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88006,08800191287,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88094,08800191294,2025-09-26,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre sulfates. En raison d'éventuels effets laxatifs l'utilisation de cette eau est déconseillée pour les nourrissons (pour la boisson et la préparation des aliments). Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un contrôle renforcé est mis en place, il pourra inclure des analyses de métaux en raison de l'accentuation des phénomènes de corrosion des installations de distribution en présence des sulfates.",C,C,C,N
+88231,08800191149,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88273,08800191152,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88432,08800191147,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88125,08800191237,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88471,08800191087,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88236,08800191084,2025-09-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88453,08800191029,2025-09-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88458,08800191017,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88529,08800191019,2025-09-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88222,08800191198,2025-09-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88027,08800191192,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88505,08800191051,2025-09-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88228,08800191193,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88121,08800191197,2025-09-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88189,08800190952,2025-09-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88477,08800190950,2025-09-12,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88047,08800190978,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88370,08800190990,2025-09-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88439,08800190919,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88388,08800191632,2025-09-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88237,08800190977,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88092,08800190934,2025-09-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88441,08800190918,2025-09-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88170,08800190987,2025-09-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88062,08800190867,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88278,08800190954,2025-09-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88334,08800190856,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88431,08800190857,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88046,08800190794,2025-09-01,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88316,08800190808,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88390,08800190790,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88356,08800190798,2025-09-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88474,08800190745,2025-08-27,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88493,08800190687,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88073,08800190688,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88509,08800190704,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88522,08800190708,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88133,08800190732,2025-08-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88353,08800190649,2025-08-19,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88466,08800190650,2025-08-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88294,08800190634,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88280,08800190640,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88365,08800190638,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88043,08800190637,2025-08-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88288,08800190601,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88427,08800190579,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88382,08800190577,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88095,08800190580,2025-08-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88485,08800190490,2025-08-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88020,08800190431,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88174,08800190332,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88527,08800190261,2025-07-31,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88283,08800190223,2025-07-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88247,08800190590,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88480,08800190156,2025-07-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88520,08800190202,2025-07-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88335,08800190134,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88347,08800190084,2025-07-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88030,08800190082,2025-07-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88281,08800190079,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88364,08800189979,2025-07-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88097,08800189980,2025-07-11,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. La turbidité peut engendrer un risque de contamination microbiologique et perturber la désinfection. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau.,C,C,C,N
+88058,08800189974,2025-07-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88199,08800189844,2025-07-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88025,08800189838,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88107,08800189966,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88511,08800189839,2025-07-02,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre température. La température n'entraîne pas de risque direct pour le consommateur mais peut favoriser la croissance bactérienne, diminuer l'efficacité de certains traitements de l'eau et induire des problèmes de saveur, d'odeur, de couleur et de corrosion. Les mesures correctives nécessaires doivent être prises afin d'éviter les risques précités. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 m g/L).",C,C,C,N
+88103,08800189959,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88071,08800189741,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88374,08800189865,2025-07-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88454,08800189884,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88267,08800189634,2025-06-25,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88368,08800189549,2025-06-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88333,08800189360,2025-06-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88001,08800189366,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88285,08800189308,2025-06-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88227,08800189309,2025-06-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88257,08800189263,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88366,08800189262,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88478,08800189291,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88036,08800189261,2025-06-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88286,08800189189,2025-05-28,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88417,08800189323,2025-05-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88252,08800189218,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88287,08800189215,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88394,08800189214,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88122,08800189219,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88292,08800189192,2025-05-23,Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre turbidité en distribution. Les teneurs en fer (200 mg/L) peuvent expliquer ce résultat.  Les mesures correct ives nécessaires doivent être prises afin de rétablir la qualité de l' eau. Un suivi renforcé est mis en place pour ce paramètre.,C,C,C,N
+88246,08800189182,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88279,08800189178,2025-05-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88074,08800189200,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88143,08800188890,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88343,08800188796,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88141,08800188797,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88359,08800189094,2025-05-13,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88130,08800188770,2025-05-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88255,08800188696,2025-05-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88489,08800188615,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88149,08800188579,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88264,08800188614,2025-04-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88069,08800188618,2025-04-25,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88254,08800188558,2025-04-22,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88354,08800188556,2025-04-22,"Eau d'alimentation ne satisfaisant pas à la référence de qualité réglementaire pour le paramètre fer. Le fer n'entraîne pas directement un risque sanitaire mais il induit des effets indirects gênants pour l'usager, notamment une coloration rouille et des goûts perceptibles. Les mesures correctives nécessaires doivent être prises afin de rétablir la qualité de l'eau. Un suivi renforcé est mis en pla ce pour ce paramètre. Eau d'alimentation ne satisfaisant pas à la réfé rence de qualité réglementaire pour le paramètre turbidité en distribu tion. La turbidité peut engendrer un risque de contamination microbiol ogique et perturber la désinfection. Les mesures correctives nécessair es doivent être prises afin de rétablir la qualité de l'eau.",C,C,C,N
+88038,08800188552,2025-04-22,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88411,08800188596,2025-04-16,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88173,08800188458,2025-04-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88100,08800188422,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88389,08800188587,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88312,08800188423,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88031,08800188421,2025-04-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88342,08800188376,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88230,08800188348,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88425,08800188347,2025-04-10,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88153,08800188689,2025-04-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88290,08800188308,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88051,08800188146,2025-03-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88525,08800187969,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88186,08800187967,2025-03-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88226,08800187911,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88242,08800187917,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88015,08800187916,2025-03-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88147,08800187869,2025-03-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88239,08800188098,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88385,08800187786,2025-03-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88404,08800187681,2025-03-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88412,08800187621,2025-03-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88022,08800187535,2025-02-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88456,08800187522,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88139,08800187509,2025-02-24,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88229,08800187506,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88185,08800187503,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88499,08800187505,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88192,08800187504,2025-02-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88151,08800187471,2025-02-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88528,08800187468,2025-02-21,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,C,C,C,N
+88138,08800187496,2025-02-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88376,08800187420,2025-02-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88063,08800187319,2025-02-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88024,08800187313,2025-02-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88223,08800187315,2025-02-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88055,08800187316,2025-02-07,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88521,08800187246,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88156,08800187245,2025-02-03,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88042,08800187244,2025-02-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88187,08800187231,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88518,08800187232,2025-01-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88066,08800187197,2025-01-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88360,08800187165,2025-01-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88400,08800187125,2025-01-22,"Eau d'alimentation conforme aux exigences de qualité en vigueur pour l 'ensemble des paramètres mesurés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88206,08800187226,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88010,08800187162,2025-01-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88510,08800187108,2025-01-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88496,08800187060,2025-01-16,"Eau d'alimentation respectant les exigences de qualité réglementaires pour les paramètres analysés. Toutefois, la teneur en désinfectant (chlore libre) est élevée (>0,3 mg/L).",C,C,C,C
+88017,08800187059,2025-01-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88065,08800186986,2025-01-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88023,08800187000,2025-01-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88008,08800186866,2025-01-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88395,08800186864,2025-01-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88224,08800187454,2025-01-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88190,08800187453,2025-01-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+88155,08800186845,2025-01-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C

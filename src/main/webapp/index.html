@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dans mon eau — démo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="landing-body">
+  <header class="site-header">
+    <div class="brand">Dans mon eau</div>
+    <nav>
+      <a href="#hero">Accueil</a>
+      <a href="#map-frame">Carte</a>
+      <a href="#about">Comprendre</a>
+    </nav>
+  </header>
+
+  <section id="hero" class="hero-section">
+    <div class="hero-copy">
+      <div class="eyebrow">La transparence à portée de clic</div>
+      <h1>Découvrez la qualité de l’eau autour de vous</h1>
+      <p>Une interface inspirée de dansmoneau.fr, mais adaptée à ton besoin réel : une carte administrative sans routes ni fond OSM, uniquement des zones colorées et leurs frontières, avec affichage de secours si la couche communale est trop lourde.</p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="#map-frame">Ouvrir la carte</a>
+        <a class="btn-secondary" href="embed.html?api=http://localhost:8082/water-quality/api" target="_blank" rel="noopener">Carte (Docker 8082)</a>
+        <a class="btn-secondary" href="#about">Comprendre la lecture</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-card">
+        <div class="hero-chip green">Conforme</div>
+        <div class="hero-chip yellow">Surveillance</div>
+        <div class="hero-chip orange">Alerte chimique</div>
+        <div class="hero-chip red">Alerte forte</div>
+      </div>
+    </div>
+  </section>
+
+  <section id="map-frame" class="frame-section">
+    <iframe class="map-iframe" src="embed.html" title="Carte de qualité de l'eau"></iframe>
+  </section>
+
+  <section id="about" class="info-section">
+    <div class="info-card">
+      <h2>Comment lire cette carte</h2>
+      <p>La carte d’accueil charge une vue territoriale agrégée par département pour se rapprocher d’une logique UDI / zone de desserte. Tu peux ensuite basculer vers une vue détaillée par communes.</p>
+    </div>
+    <div class="info-card">
+      <h2>Filtres réels</h2>
+      <p>Les sélecteurs année et type de pollution sont câblés sur le backend. Ils modifient les données demandées à l’API.</p>
+    </div>
+    <div class="info-card">
+      <h2>Panneau détail</h2>
+      <p>Le panneau latéral présente un résumé visuel, le statut principal, les métadonnées du territoire ou de la commune, et la liste des analyses disponibles.</p>
+    </div>
+  </section>
+</body>
+</html>

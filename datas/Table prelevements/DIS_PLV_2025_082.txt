@@ -1,0 +1,196 @@
+inseecommuneprinc,referenceprel,dateprel,conclusionprel,plvconformitebacterio,plvconformitechimique,plvconformitereferencebact,plvconformitereferencechim
+82151,08200090685,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82165,08200090667,2025-12-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82117,08200090678,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82054,08200090694,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82177,08200090672,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82169,08200090665,2025-12-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82090,08200090670,2025-12-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82115,08200092335,2025-12-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Les non-conformités portent sur un paramètre microbiologique et le car bone organique total (COT). Elles n'ont toutefois pas nécessité de res triction de consommation de l'eau. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité d e l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution d es paramètres et vérifier le retour à une situation normale.,C,C,N,N
+82121,08200090734,2025-12-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82174,08200090699,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82161,08200090714,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82037,08200090698,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82082,08200090702,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82155,08200090700,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82038,08200090703,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82041,08200090701,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82026,08200090712,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82134,08200090713,2025-12-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82135,08200090738,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82044,08200090731,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82167,08200090684,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82125,08200090664,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82013,08200090688,2025-12-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect de la référence de qualité réglementaire concernant le carbone organique total (COT) n'a pas nécessité une restriction de la consommation de l'eau. Ce paramètre permet de mesurer la teneur en matière organique présente dans l'eau. Celle-ci doit être la plus faible possible. Il a été demandé à l'exploitant de prendre les mesures correctives nécessaires pour rétablir la qualité de l'eau. Un nouveau contrôle a été programmé pour suivre l'évolution du paramètre et vérifier le retour à une situation normale.,S,C,S,N
+82098,08200090680,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82107,08200090668,2025-12-16,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82055,08200090689,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82071,08200090690,2025-12-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82065,08200090695,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82141,08200090697,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82033,08200090706,2025-12-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82178,08200091427,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82156,08200090710,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82003,08200090626,2025-12-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82112,08200090696,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82008,08200091374,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82102,08200091375,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82087,08200090669,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82108,08200090709,2025-12-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82085,08200090728,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82052,08200090715,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82027,08200090676,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82025,08200090675,2025-12-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82005,08200090674,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82020,08200090687,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82043,08200090679,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82190,08200090686,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82075,08200091373,2025-12-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82083,08200090578,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82030,08200090625,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82181,08200091348,2025-11-26,"Eau d'alimentation non-conforme aux exigences de qualité. Les teneurs en chlorites et chlorates font l’objet d’une surveillance renforcée. La valeur la plus faible doit être visée sans compromettre la désinfection. En cas de teneurs en chlorates supérieures à 0,25 mg/L, par précaution , l’ARS Occitanie recommande que les enfants pesant moins de 14 kg ne consomment pas l’eau.",C,C,C,N
+82050,08200091346,2025-11-26,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Les teneurs en chlorites et chlorates font l’objet d’une surveillance renforcée. La valeur la plus faible doit être visée sans compromettre la désinfection. En cas de teneurs en chlorates supérieures à 0,25 mg/L, par précaution , l’ARS Occitanie recommande que les enfants pesant moins de 14 kg ne consomment pas l’eau.",C,C,C,N
+82049,08200091345,2025-11-26,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82089,08200090607,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82080,08200090624,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82072,08200089935,2025-11-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82158,08200090577,2025-11-25,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Les teneurs en chlorites et chlorates font l’objet d’une surveillance renforcée. La valeur la plus faible doit être visée sans compromettre la désinfection. En cas de teneurs en chlorates supérieures à 0,25 mg/L, par précaution , l’ARS Occitanie recommande que les enfants pesant moins de 14 kg ne consomment pas l’eau.",C,C,C,N
+82184,08200090632,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82010,08200091342,2025-11-25,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82179,08200090612,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82166,08200090575,2025-11-25,Eau à caractère légèrement agressif. Il est nécessaire de maintenir l' eau à l'équilibre (ou légèrement incrustante).,C,C,C,N
+82029,08200090596,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82139,08200091344,2025-11-25,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82088,08200090502,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82109,08200090576,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82101,08200090604,2025-11-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82001,08200090622,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82148,08200090613,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82137,08200090614,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82187,08200090615,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82061,08200090617,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82002,08200090630,2025-11-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82185,08200090595,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82017,08200090584,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82084,08200090582,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés. Eau incrustante. Il est nécessaire de maintenir l'eau à l'équilibre (o u légèrement incrustante).,C,C,C,N
+82057,08200090586,2025-11-17,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82051,08200090605,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82116,08200090581,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82160,08200090608,2025-11-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82188,08200090590,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82150,08200090649,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82136,08200090587,2025-11-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82099,08200090602,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82189,08200090580,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82110,08200090611,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82076,08200090579,2025-11-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82062,08200090570,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82023,08200090588,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82195,08200090643,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82194,08200090573,2025-11-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82191,08200091296,2025-10-28,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82176,08200090496,2025-10-27,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82039,08200091337,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82127,08200090515,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82182,08200090479,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82157,08200090498,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82164,08200090489,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82042,08200090482,2025-10-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82186,08200090517,2025-10-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82175,08200090516,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82012,08200090532,2025-10-15,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82096,08200090534,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82124,08200090552,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82123,08200090487,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82105,08200090492,2025-10-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82132,08200090545,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82092,08200090524,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82145,08200090541,2025-10-07,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Eau fortement minéralisée en raison de la présence de sulfates à une c oncentration supérieure aux références de qualité. L'utilisation de ce tte eau est déconseillée pour la boisson et la préparation des aliment s pour les nourrissons, en raison d'éventuels effets laxatifs.",C,C,C,N
+82100,08200090528,2025-10-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82058,08200090538,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82009,08200090474,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82070,08200090506,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82053,08200090505,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82048,08200090486,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82014,08200090501,2025-10-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82149,08200090521,2025-10-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82128,08200090416,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82040,08200090415,2025-09-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82056,08200090420,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82147,08200090422,2025-09-24,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82004,08200091278,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82034,08200091280,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82146,08200091292,2025-09-23,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité.,S,C,S,N
+82143,08200091288,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82074,08200091282,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82163,08200091293,2025-09-23,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82104,08200091284,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82129,08200091286,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82097,08200091276,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82067,08200091281,2025-09-23,"Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",S,C,S,N
+82180,08200091320,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82060,08200090375,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82016,08200090386,2025-09-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82015,08200090387,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82081,08200090432,2025-09-09,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82018,08200090352,2025-09-03,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82114,08200090384,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82028,08200090383,2025-09-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82142,08200090262,2025-08-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82063,08200090317,2025-08-20,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82171,08200090316,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82118,08200090266,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82091,08200090281,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82064,08200090280,2025-08-12,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82024,08200090292,2025-08-06,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82153,08200090272,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82021,08200090263,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82192,08200090270,2025-08-06,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82113,08200090252,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82183,08200090257,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82131,08200090302,2025-08-05,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82031,08200090318,2025-08-04,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82078,08200090301,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82154,08200091214,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82133,08200090311,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82122,08200091215,2025-08-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82022,08200090139,2025-07-29,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82068,08200090168,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82093,08200090203,2025-07-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82172,08200090193,2025-07-22,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82094,08200090150,2025-07-21,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82079,08200090148,2025-07-16,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82066,08200090153,2025-07-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82045,08200090151,2025-07-15,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82077,08200091020,2025-07-10,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82106,08200090169,2025-07-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82007,08200090186,2025-07-07,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82120,08200090138,2025-07-07,Eau d'alimentation conforme aux limites de qualité et non conforme aux références de qualité. Ce non respect des exigences porte sur la température de l'eau.,C,C,C,N
+82011,08200090198,2025-07-02,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82069,08200090161,2025-07-01,"La teneur mesurée en chlorites dépasse la référence de qualité établie à 0,20 mg/L. Elle est cependant inférieure à la limite de qualité fixée à 0,7mg/L lorsqu'une méthode de désinfection des eaux destinées à la consommation humaine qui génère des chlorites est utilisée. La valeur la plus faible doit être visée  sans compromettre la désinfection.",C,C,C,N
+82130,08200090057,2025-06-30,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82173,08200090019,2025-06-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82095,08200090066,2025-06-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82111,08200090004,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82035,08200090085,2025-06-10,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82047,08200090046,2025-06-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82103,08200089927,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82059,08200089926,2025-05-26,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82140,08200089895,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82168,08200089937,2025-05-20,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82019,08200089933,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82193,08200089910,2025-05-19,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82126,08200089942,2025-05-13,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82144,08200089792,2025-04-16,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82032,08200089824,2025-04-08,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82086,08200089848,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82036,08200089815,2025-04-01,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82162,08200089684,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82073,08200089675,2025-03-18,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82138,08200089677,2025-03-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82046,08200089698,2025-03-04,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82159,08200089621,2025-02-25,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82152,08200089635,2025-02-11,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82170,08200090782,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,S,C,S,C
+82006,08200089520,2025-01-28,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
+82119,08200089531,2025-01-14,Eau d'alimentation conforme aux exigences de qualité en vigueur pour l'ensemble des paramètres mesurés.,C,C,C,C
