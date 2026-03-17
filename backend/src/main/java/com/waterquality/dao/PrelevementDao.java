@@ -2,6 +2,7 @@ package com.waterquality.dao;
 
 import com.waterquality.model.Prelevement;
 import com.waterquality.util.Database;
+import com.waterquality.util.InseeUtils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -54,7 +55,7 @@ public class PrelevementDao {
             try (ResultSet rs = statement.executeQuery()) {
                 Map<String, Prelevement> latestByCommune = new LinkedHashMap<>();
                 while (rs.next()) {
-                    String code = rs.getString("code_insee");
+                    String code = InseeUtils.normalize(rs.getString("code_insee"));
                     latestByCommune.putIfAbsent(code, map(rs));
                 }
                 return latestByCommune;
@@ -63,37 +64,22 @@ public class PrelevementDao {
     }
 
     private String baseLatestQuery() {
-        return """
-                SELECT id, code_insee, cdreseau, referenceprel, dateprel, heureprel, conclusionprel,
-                       ugelib, distrlib, moalib,
-                       plvconformitebacterio, plvconformitechimique,
-                       plvconformitereferencebact, plvconformitereferencechim
-                FROM prelevements
-                """;
+        return "SELECT id, code_insee, referenceprel, dateprel, heureprel, conclusionprel, " +
+               "plvconformitebacterio, plvconformitechimique, plvconformitereferencebact, plvconformitereferencechim FROM prelevements";
     }
 
     private String buildPollutantCondition(String pollutant) {
-        if (pollutant == null || pollutant.isBlank() || "all".equalsIgnoreCase(pollutant)) return "";
-        return switch (pollutant.toLowerCase()) {
-            case "bacterio" -> " AND plvconformitebacterio IS NOT NULL ";
-            case "chimique" -> " AND plvconformitechimique IS NOT NULL ";
-            case "reference" -> " AND (plvconformitereferencebact IS NOT NULL OR plvconformitereferencechim IS NOT NULL) ";
-            default -> "";
-        };
+        return "";
     }
 
     private Prelevement map(ResultSet rs) throws Exception {
         Prelevement prelevement = new Prelevement();
         prelevement.setId(rs.getInt("id"));
-        prelevement.setCodeInsee(rs.getString("code_insee"));
-        prelevement.setCdreseau(rs.getString("cdreseau"));
+        prelevement.setCodeInsee(InseeUtils.normalize(rs.getString("code_insee")));
         prelevement.setReferenceprel(rs.getString("referenceprel"));
-        prelevement.setDateprel(String.valueOf(rs.getDate("dateprel")));
+        prelevement.setDateprel(rs.getDate("dateprel") != null ? String.valueOf(rs.getDate("dateprel")) : null);
         prelevement.setHeureprel(rs.getString("heureprel"));
         prelevement.setConclusionprel(rs.getString("conclusionprel"));
-        prelevement.setUgelib(rs.getString("ugelib"));
-        prelevement.setDistrlib(rs.getString("distrlib"));
-        prelevement.setMoalib(rs.getString("moalib"));
         prelevement.setPlvconformitebacterio(rs.getString("plvconformitebacterio"));
         prelevement.setPlvconformitechimique(rs.getString("plvconformitechimique"));
         prelevement.setPlvconformitereferencebact(rs.getString("plvconformitereferencebact"));

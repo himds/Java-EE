@@ -2,7 +2,6 @@ package com.waterquality.dao;
 
 import com.waterquality.model.AnalysisResult;
 import com.waterquality.util.Database;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

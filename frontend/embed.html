@@ -12,6 +12,7 @@
     <main class="map-stage">
       <div id="map"></div>
       <div class="top-controls">
+        <button type="button" id="fullscreen-btn" class="control-chip" title="Plein écran" aria-label="Plein écran">⛶</button>
         <div class="control-chip">
           <label for="year-filter">Année</label>
           <select id="year-filter">
@@ -33,19 +34,20 @@
         <div class="control-chip">
           <label for="view-mode">Vue</label>
           <select id="view-mode">
-            <option value="regions">Zones administratives</option>
+            <option value="regions">Départements</option>
+            <option value="communes">Communes (carte)</option>
             <option value="points">Communes (points)</option>
           </select>
         </div>
         <div class="search-wrap">
-          <input id="search" type="text" placeholder="Saisir adresse ou commune" />
+          <input id="search" type="text" placeholder="Nom de commune ou n° département (3 caractères min.)" />
           <div id="results" class="results"></div>
         </div>
       </div>
       <button id="panel-toggle" class="panel-toggle" type="button" aria-label="Afficher les détails">‹</button>
       <section class="legend-card" id="legend-card">
         <button class="legend-header" id="legend-toggle" type="button">
-          <span>Légende — Carte communale</span>
+          <span>Légende — Qualité de l'eau</span>
           <span id="legend-arrow">▾</span>
         </button>
         <div class="legend-body" id="legend-body">

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Carte embarquée - 水质数据地图</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* 添加一些调试样式 */
+    .debug-info {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 12px;
+      z-index: 1000;
+      max-width: 300px;
+    }
+  </style>
+</head>
+<body class="embed-body">
+  <div class="debug-info" id="debug-info">
+    <div>状态: <span id="status">初始化中...</span></div>
+    <div>API: <span id="api-status">测试中...</span></div>
+    <div>数据: <span id="data-status">等待...</span></div>
+  </div>
+  
+  <div class="app-shell">
+    <main class="map-stage">
+      <div id="map"></div>
+      <div class="top-controls">
+        <div class="control-chip">
+          <label for="year-filter">Année</label>
+          <select id="year-filter">
+            <option value="latest">Dernière analyse</option>
+            <option value="2025">2025</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+          </select>
+        </div>
+        <div class="control-chip">
+          <label for="category-filter">Polluant</label>
+          <select id="category-filter">
+            <option value="all">Tous polluants</option>
+            <option value="bacterio">Bactériologique</option>
+            <option value="chimique">Chimique</option>
+            <option value="reference">Référence qualité</option>
+          </select>
+        </div>
+        <div class="control-chip">
+          <label for="view-mode">Vue</label>
+          <select id="view-mode">
+            <option value="regions">Départements</option>
+            <option value="communes">Communes (carte)</option>
+            <option value="points">Communes (points)</option>
+          </select>
+        </div>
+        <div class="search-wrap">
+          <input id="search" type="text" placeholder="Saisir adresse ou commune" />
+          <div id="results" class="results"></div>
+        </div>
+      </div>
+      <button id="panel-toggle" class="panel-toggle" type="button" aria-label="Afficher les détails">‹</button>
+      <section class="legend-card" id="legend-card">
+        <button class="legend-header" id="legend-toggle" type="button">
+          <span>Légende — Qualité de l'eau</span>
+          <span id="legend-arrow">▾</span>
+        </button>
+        <div class="legend-body" id="legend-body">
+          <div class="legend-item">
+            <span class="legend-color" style="background-color: #22c55e"></span>
+            <span class="legend-label">Conforme</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background-color: #facc15"></span>
+            <span class="legend-label">Surveillance</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background-color: #f97316"></span>
+            <span class="legend-label">Alerte chimique</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background-color: #e11d48"></span>
+            <span class="legend-label">Alerte forte</span>
+          </div>
+          <div class="legend-item">
+            <span class="legend-color" style="background-color: #9ca3af"></span>
+            <span class="legend-label">Aucune donnée</span>
+          </div>
+        </div>
+      </section>
+    </main>
+    <aside id="side-panel" class="side-panel is-hidden">
+      <div class="panel-header">
+        <h2 id="commune-title">Sélectionnez une zone</h2>
+        <div id="commune-meta" class="commune-meta"></div>
+        <button id="close-panel" class="close-panel" type="button" aria-label="Fermer le panneau">×</button>
+      </div>
+      <div class="panel-body">
+        <h3 id="detail-heading">Détails</h3>
+        <ul id="analysis-list" class="analysis-list"></ul>
+      </div>
+    </aside>
+  </div>
+  <div class="metrics-bar">
+    <div class="metric">
+      <span class="metric-label">Vue</span>
+      <span id="metric-view" class="metric-value">—</span>
+    </div>
+    <div class="metric">
+      <span class="metric-label">Polluant</span>
+      <span id="metric-pollutant" class="metric-value">—</span>
+    </div>
+    <div class="metric">
+      <span class="metric-label">Année</span>
+      <span id="metric-year" class="metric-value">—</span>
+    </div>
+    <div class="metric">
+      <span class="metric-label">Échantillons</span>
+      <span id="metric-samples" class="metric-value">—</span>
+    </div>
+  </div>
+  <div id="status-badge" class="status-badge is-hidden"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+  
+  <script>
+    // 页面加载时的初始化
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('页面加载完成');
+      updateDebugInfo('status', '页面就绪');
+      
+      // 测试API连接
+      setTimeout(async () => {
+        try {
+          updateDebugInfo('api-status', '测试中...');
+          const response = await fetch('/water-quality/api/communes');
+          if (response.ok) {
+            updateDebugInfo('api-status', '✅ 连接成功');
+          } else {
+            updateDebugInfo('api-status', `⚠️ ${response.status} 错误`);
+          }
+        } catch (error) {
+          updateDebugInfo('api-status', '❌ 连接失败');
+        }
+      }, 1000);
+    });
+    
+    function updateDebugInfo(elementId, text) {
+      const element = document.getElementById(elementId);
+      if (element) {
+        element.textContent = text;
+      }
+    }
+    
+    // 监听地图数据加载事件
+    window.addEventListener('load', function() {
+      console.log('所有资源加载完成');
+      updateDebugInfo('status', '系统就绪');
+    });
+  </script>
+</body>
+</html>

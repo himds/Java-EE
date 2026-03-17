@@ -18,7 +18,7 @@ public class CommuneService {
     private final WaterQualityColorService colorService = new WaterQualityColorService();
 
     public List<Commune> getAll(Integer year, String pollutant) throws Exception {
-        List<Commune> communes = communeDao.findAll(5000);
+        List<Commune> communes = communeDao.findAll(50000);
         for (Commune commune : communes) enrich(commune, year, pollutant);
         return communes;
     }
@@ -42,11 +42,10 @@ public class CommuneService {
         response.setYear(year);
         response.setPollutant(pollutant == null || pollutant.isBlank() ? "all" : pollutant);
 
-        List<Commune> communes = communeDao.findAll(20000);
+        List<Commune> communes = communeDao.findAll(50000);
         Map<String, Prelevement> latestByCommune = prelevementDao.findLatestByCommuneAndFilters(year, pollutant);
 
         List<MapFeature> features = communes.stream()
-                .filter(c -> c.getLatitude() != null && c.getLongitude() != null)
                 .map(c -> toFeature(c, latestByCommune.get(c.getCodeInsee()), response.getPollutant(), year))
                 .collect(Collectors.toList());
 

@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   mysql:
     image: mysql:8.0
@@ -14,16 +12,27 @@ services:
     volumes:
       - mysql-data:/var/lib/mysql
       - ../database/schema.sql:/docker-entrypoint-initdb.d/schema.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
 
   tomcat:
     image: tomcat:11.0
     container_name: water-tomcat
     ports:
-      - "8080:8080"
+      - "8082:8080"
+    environment:
+      DB_URL: "jdbc:mysql://mysql:3306/waterdb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=utf8"
+      DB_USER: wateruser
+      DB_PASSWORD: waterpass
     volumes:
-      - ../backend/target:/usr/local/tomcat/webapps
+      - ../backend/target/water-quality.war:/usr/local/tomcat/webapps/water-quality.war
     depends_on:
-      - mysql
+      mysql:
+        condition: service_healthy
 
 volumes:
   mysql-data:

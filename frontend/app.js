@@ -1,7 +1,15 @@
-const API_BASE = 'http://localhost:8080/water-quality/api';
+// 后端 API 根地址。本机 RunServer/Cargo 默认 8081；Docker 若映射到 8082 则用 embed.html?api=http://localhost:8082/water-quality/api
+const API_BASE = (() => {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('api') || 'http://localhost:8081/water-quality/api';
+})();
 const COMMUNES_GEOJSON_URL = './data/communes.geojson';
 const DEPARTMENTS_GEOJSON_URL = './data/departements.geojson';
 const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([46.5, 2.5], 6);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  maxZoom: 19
+}).addTo(map);
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
@@ -121,17 +129,27 @@ function renderRegionPopup(feature) {
 async function loadAnalyses(prelevementId) {
   analysisList.innerHTML = '<li>Chargement...</li>';
   const response = await fetch(`${API_BASE}/details/${prelevementId}`);
-  const data = await response.json();
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) {
+    const msg = data.message || data.error || `HTTP ${response.status}`;
+    analysisList.innerHTML = `<li>Aucune analyse détaillée disponible.</li><li class="error-msg">${escapeHtml(msg)}</li>`;
+    return;
+  }
   if (!Array.isArray(data) || data.length === 0) {
     analysisList.innerHTML = '<li>Aucune analyse détaillée disponible.</li>';
     return;
   }
-  analysisList.innerHTML = data.map(item => `
-    <li>
+  analysisList.innerHTML = data.map(item => {
+    const v = item.valeurMesuree;
+    const lim = item.limiteLegale;
+    const nonConforme = typeof v === 'number' && typeof lim === 'number' && v > lim;
+    const rowClass = nonConforme ? 'analysis-item non-conforme' : 'analysis-item';
+    const limitText = lim != null ? ` (limite ≤ ${lim})` : '';
+    return `<li class="${rowClass}">
       <strong>${escapeHtml(item.parametre)}</strong><br>
-      Valeur mesurée: ${item.valeurMesuree ?? '—'} · Limite légale: ${item.limiteLegale ?? '—'}
-    </li>
-  `).join('');
+      Valeur mesurée: ${v ?? '—'} · Limite légale: ${lim ?? '—'}${limitText}
+    </li>`;
+  }).join('');
 }
 
 function setMetrics(viewText, sampleCount) {
@@ -152,7 +170,9 @@ async function showCommuneDetails(city) {
 
   const latestResponse = await fetch(`${API_BASE}/latest/${city.codeInsee}${queryString()}`);
   if (!latestResponse.ok) {
-    analysisList.innerHTML = '<li>Aucun prélèvement trouvé.</li>';
+    const errBody = await latestResponse.json().catch(() => ({}));
+    const msg = errBody.message || errBody.error || `HTTP ${latestResponse.status}`;
+    analysisList.innerHTML = `<li>Aucun prélèvement trouvé.</li><li class="error-msg">${escapeHtml(msg)}</li>`;
     return;
   }
   const latest = await latestResponse.json();
@@ -179,7 +199,7 @@ function showRegionDetails(feature) {
     <li>Cette vue correspond à une carte choropleth par commune, sans routes ni fond OSM.</li>
   `
     : `
-    <li>Le fond communal est trop lourd ou n’a pas pu être affiché correctement.</li>
+    <li>Le fond communal est trop lourd ou n'a pas pu être affiché correctement.</li>
     <li>Affichage de secours: carte départementale colorée.</li>
     <li>Communes agrégées: ${feature.sampleCount ?? 0}.</li>
     <li>Filtre actif: ${labelForPollutant(currentPollutant)} · ${yearLabel()}.</li>
@@ -201,8 +221,11 @@ async function ensureDepartmentsGeoJson() {
 }
 
 function normalizeCommuneCode(code) {
-  if (!code) return '';
-  return String(code).trim().toUpperCase();
+  if (code == null || code === '') return '';
+  const s = String(code).trim();
+  // French INSEE: 5 digits (pad with leading zero for consistent GeoJSON matching)
+  if (/^\d+$/.test(s) && s.length <= 5) return s.padStart(5, '0');
+  return s.toUpperCase();
 }
 
 function getCommuneCode(feature) {
@@ -280,7 +303,11 @@ async function renderCommunesChoropleth(features) {
   const featureMap = new Map(features.map(item => [normalizeCommuneCode(item.id), item]));
 
   clearChoropleth();
-  choroplethLayer = L.geoJSON(geojson, {
+
+  // 渲染全部 GeoJSON 市镇，避免因 2 万条上限导致地图“残缺”；有数据的用 API 颜色，无数据的用灰色
+  const featuresToRender = geojson.features;
+
+  choroplethLayer = L.geoJSON({ type: 'FeatureCollection', features: featuresToRender }, {
     style: geoFeature => {
       const communeCode = getCommuneCode(geoFeature);
       const mapFeature = featureMap.get(communeCode);
@@ -291,6 +318,25 @@ async function renderCommunesChoropleth(features) {
       const communeCode = getCommuneCode(geoFeature);
       const mapFeature = featureMap.get(communeCode);
       const fallbackName = props.nom || props.name || `Commune ${communeCode}`;
+      
+      // 从GeoJSON几何中获取中心点坐标
+      if (geoFeature.geometry && geoFeature.geometry.type === 'Polygon' && geoFeature.geometry.coordinates) {
+        const coordinates = geoFeature.geometry.coordinates[0];
+        let sumLat = 0, sumLng = 0;
+        for (const coord of coordinates) {
+          sumLng += coord[0];
+          sumLat += coord[1];
+        }
+        const centerLng = sumLng / coordinates.length;
+        const centerLat = sumLat / coordinates.length;
+        
+        // 如果API没有提供坐标，使用几何中心
+        if (mapFeature && !mapFeature.latitude && !mapFeature.longitude) {
+          mapFeature.latitude = centerLat;
+          mapFeature.longitude = centerLng;
+        }
+      }
+      
       bindCommuneInteractions(layer, mapFeature, fallbackName);
     }
   }).addTo(map);
@@ -359,12 +405,63 @@ async function renderChoropleth(features) {
   }
 }
 
-function addCommuneMarker(city, boundsAccumulator) {
-  if (city.latitude == null || city.longitude == null) return;
-  const color = city.color || '#9ca3af';
-  boundsAccumulator.push([city.latitude, city.longitude]);
+function centroidFromGeoFeature(geoFeature) {
+  if (!geoFeature?.geometry?.coordinates) return null;
+  const coords = geoFeature.geometry.type === 'Polygon' ? geoFeature.geometry.coordinates[0] : geoFeature.geometry.coordinates;
+  if (!Array.isArray(coords) || coords.length === 0) return null;
+  let sumLat = 0, sumLng = 0, n = 0;
+  for (const c of coords) {
+    const lon = Array.isArray(c) ? c[0] : c;
+    const lat = Array.isArray(c) ? c[1] : c;
+    if (typeof lon === 'number' && typeof lat === 'number') { sumLng += lon; sumLat += lat; n++; }
+  }
+  return n ? [sumLat / n, sumLng / n] : null;
+}
 
-  const marker = L.circleMarker([city.latitude, city.longitude], {
+function buildInseeToCentroidMap(geojson) {
+  const map = new Map();
+  for (const f of geojson.features || []) {
+    const code = normalizeCommuneCode(getCommuneCode(f));
+    if (code && !map.has(code)) {
+      const c = centroidFromGeoFeature(f);
+      if (c) map.set(code, c);
+    }
+  }
+  return map;
+}
+
+function buildPopupContent(city, latest) {
+  const ville = escapeHtml(city.nomCommune);
+  const date = latest?.prelevement?.dateprel ?? '—';
+  const statut = escapeHtml(latest?.tone || city.status || '—');
+  const isConforme = statut === 'Conforme' || (city.color === '#22c55e');
+  let body = '';
+  if (isConforme) {
+    body = '<p class="popup-conforme">Tous les prélèvements conformes.</p>';
+  } else {
+    body = '<button type="button" class="popup-btn popup-btn-detail" data-code="' + escapeHtml(city.codeInsee) + '">Voir les résultats détaillés</button>';
+  }
+  return `
+    <div class="popup-commune-card">
+      <div class="popup-line"><strong>Ville :</strong> ${ville}</div>
+      <div class="popup-line"><strong>Date :</strong> ${escapeHtml(String(date))}</div>
+      <div class="popup-line"><strong>Statut :</strong> ${statut}</div>
+      ${body}
+    </div>
+  `;
+}
+
+function addCommuneMarker(city, boundsAccumulator, centroidMap) {
+  let lat = city.latitude, lon = city.longitude;
+  if (lat == null || lon == null) {
+    const c = centroidMap?.get(normalizeCommuneCode(city.codeInsee));
+    if (!c) return;
+    lat = c[0]; lon = c[1];
+  }
+  const color = city.color || '#9ca3af';
+  boundsAccumulator.push([lat, lon]);
+
+  const marker = L.circleMarker([lat, lon], {
     radius: 8,
     color,
     fillColor: color,
@@ -372,18 +469,19 @@ function addCommuneMarker(city, boundsAccumulator) {
     weight: 2
   }).addTo(markerLayer);
 
-  marker.bindPopup(`
-    <b>${escapeHtml(city.nomCommune)}</b><br>
-    Statut: ${escapeHtml(city.status || 'Conforme')}<br>
-    Département: ${escapeHtml(city.departement || '—')}<br>
-    <button type="button" class="popup-btn" data-code="${escapeHtml(city.codeInsee)}">Voir la fiche</button>
-  `);
-
-  marker.on('popupopen', () => {
-    setTimeout(() => {
-      const btn = document.querySelector(`.popup-btn[data-code="${CSS.escape(city.codeInsee)}"]`);
-      if (btn) btn.onclick = () => showCommuneDetails(city);
-    }, 0);
+  marker.bindPopup('<div class="popup-loading">Chargement...</div>', { minWidth: 260 });
+  marker.on('popupopen', async () => {
+    try {
+      const response = await fetch(`${API_BASE}/latest/${city.codeInsee}${queryString()}`);
+      const latest = response.ok ? await response.json() : null;
+      marker.setPopupContent(buildPopupContent(city, latest));
+      setTimeout(() => {
+        const btn = document.querySelector('.popup-btn-detail[data-code="' + CSS.escape(city.codeInsee) + '"]');
+        if (btn) btn.onclick = () => { marker.closePopup(); showCommuneDetails(city); };
+      }, 0);
+    } catch {
+      marker.setPopupContent(buildPopupContent(city, null));
+    }
   });
   marker.on('click', () => showCommuneDetails(city));
 }
@@ -408,13 +506,23 @@ async function loadMap() {
   markerLayer.clearLayers();
   clearChoropleth();
   const boundsAccumulator = [];
+  if (!sidePanel.classList.contains('is-hidden')) {
+    communeTitle.textContent = 'Chargement...';
+    communeMeta.textContent = 'Récupération des données depuis l\'API.';
+    analysisList.innerHTML = '<li>Chargement en cours.</li>';
+  }
 
   if (currentMode === 'points') {
     try {
       const response = await fetch(`${API_BASE}/communes${queryString()}`);
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const cities = await response.json();
-      cities.forEach(city => addCommuneMarker(city, boundsAccumulator));
+      const cities = await response.json().catch(() => null);
+      if (!response.ok) {
+        const msg = (cities && (cities.message || cities.error)) || `HTTP ${response.status}`;
+        throw new Error(msg);
+      }
+      const geo = await ensureCommunesGeoJson();
+      const centroidMap = buildInseeToCentroidMap(geo);
+      cities.forEach(city => addCommuneMarker(city, boundsAccumulator, centroidMap));
       if (boundsAccumulator.length) map.fitBounds(boundsAccumulator, { padding: [40, 40] });
     } catch (error) {
       openPanel();
@@ -422,13 +530,56 @@ async function loadMap() {
       detailHeading.textContent = 'Mode point indisponible';
       communeMeta.textContent = 'Le backend ne répond pas encore, donc les points communaux ne peuvent pas être chargés.';
       setStatusBadge('Sans backend', '#9ca3af');
-      analysisList.innerHTML = '<li>Démarre l’API si tu veux la vue points.</li>';
+      analysisList.innerHTML = '<li>Démarre l\'API si tu veux la vue points.</li>';
+    }
+  } else if (currentMode === 'communes') {
+    // 市镇级别多边形地图 - 类似dansmoneau.fr
+    try {
+      const response = await fetch(`${API_BASE}/communes${queryString()}`);
+      let features = [];
+      
+      if (response.ok) {
+        const cities = await response.json();
+        
+        // 将市镇数据转换为地图特征
+        features = cities.map(city => ({
+          id: city.codeInsee,
+          name: city.nomCommune,
+          departement: city.departement,
+          color: city.color || '#9ca3af',
+          status: city.status || 'Aucune donnée',
+          sampleCount: 1
+        }));
+      } else {
+        // API不可用，使用演示数据
+        console.warn('API不可用，使用演示数据');
+        const localGeoJson = await ensureCommunesGeoJson();
+        features = demoFeaturesFromGeoJson(localGeoJson, 200);
+      }
+      
+      await renderCommunesChoropleth(features);
+      
+    } catch (error) {
+      console.warn('API communes unavailable, using local demo choropleth', error);
+      const localGeoJson = await ensureCommunesGeoJson();
+      zoneFallbackMode = 'communes';
+      await renderCommunesChoropleth(demoFeaturesFromGeoJson(localGeoJson, 200));
+      openPanel();
+      communeTitle.textContent = 'Carte communale de démonstration';
+      detailHeading.textContent = 'Affichage local';
+      communeMeta.textContent = 'Le backend ne répond pas encore. J\'affiche donc une carte communale locale de démonstration.';
+      setStatusBadge('Démo locale', '#22c55e');
+      analysisList.innerHTML = '<li>Le fond communal est bien chargé.</li><li>Les couleurs actuelles sont des couleurs de démonstration locales.</li><li>Quand le backend répondra, elles seront remplacées par les vraies données.</li>';
     }
   } else {
+    // 默认：区域视图（部门级别）
     try {
       const response = await fetch(`${API_BASE}/map-data${queryString({ mode: 'regions' })}`);
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const mapData = await response.json();
+      const mapData = await response.json().catch(() => null);
+      if (!response.ok) {
+        const msg = (mapData && (mapData.message || mapData.error)) || `HTTP ${response.status}`;
+        throw new Error(msg);
+      }
       await renderChoropleth(mapData.features || []);
     } catch (error) {
       console.warn('API map-data unavailable, using local demo choropleth', error);
@@ -438,13 +589,18 @@ async function loadMap() {
       openPanel();
       communeTitle.textContent = 'Carte de démonstration';
       detailHeading.textContent = 'Affichage local';
-      communeMeta.textContent = 'Le backend ne répond pas encore. J’affiche donc une carte administrative locale de démonstration pour que la carte soit visible immédiatement.';
+      communeMeta.textContent = 'Le backend ne répond pas encore. J\'affiche donc une carte administrative locale de démonstration pour que la carte soit visible immédiatement.';
       setStatusBadge('Démo locale', '#22c55e');
       analysisList.innerHTML = '<li>Le fond administratif est bien chargé.</li><li>Les couleurs actuelles sont des couleurs de démonstration locales.</li><li>Quand le backend répondra, elles seront remplacées par les vraies données.</li>';
     }
   }
 
-  setMetrics(currentMode === 'points' ? 'Commune (point)' : (zoneFallbackMode === 'communes' ? 'Commune (zone)' : 'Département (secours)'), '—');
+  setMetrics(
+    currentMode === 'points' ? 'Commune (point)' : 
+    currentMode === 'communes' ? 'Commune (carte)' : 
+    (zoneFallbackMode === 'communes' ? 'Commune (zone)' : 'Département (secours)'), 
+    '—'
+  );
 }
 
 async function runSearch() {
@@ -452,10 +608,12 @@ async function runSearch() {
   results.innerHTML = '';
   results.classList.remove('has-items');
   currentSearchItems = [];
-  if (value.length < 2) return;
+  if (value.length < 3) return;
 
   const response = await fetch(`${API_BASE}/search${queryString({ q: value })}`);
+  if (!response.ok) return;
   const data = await response.json();
+  if (!Array.isArray(data)) return;
   currentSearchItems = data;
 
   data.forEach(city => {
@@ -475,7 +633,19 @@ async function runSearch() {
   if (data.length) results.classList.add('has-items');
 }
 
-searchInput.addEventListener('input', runSearch);
+// 输入至少 3 个字符后触发搜索，防抖 300ms，保证 1.5s 内返回
+let searchDebounce = null;
+searchInput.addEventListener('input', () => {
+  if (searchDebounce) clearTimeout(searchDebounce);
+  const value = searchInput.value.trim();
+  if (value.length < 3) {
+    results.innerHTML = '';
+    results.classList.remove('has-items');
+    currentSearchItems = [];
+    return;
+  }
+  searchDebounce = setTimeout(runSearch, 300);
+});
 yearFilter.addEventListener('change', async () => {
   currentYear = yearFilter.value === 'latest' ? null : yearFilter.value;
   await loadMap();
@@ -490,6 +660,22 @@ viewModeFilter.addEventListener('change', async () => {
   currentMode = viewModeFilter.value;
   await loadMap();
 });
+
+// 全屏切换（地图容器）
+const mapContainer = document.getElementById('map');
+const fullscreenBtn = document.getElementById('fullscreen-btn');
+if (fullscreenBtn && mapContainer) {
+  fullscreenBtn.addEventListener('click', () => {
+    if (!document.fullscreenElement) {
+      mapContainer.requestFullscreen().catch(() => {});
+    } else {
+      document.exitFullscreen();
+    }
+  });
+  document.addEventListener('fullscreenchange', () => {
+    setTimeout(() => map.invalidateSize(), 200);
+  });
+}
 
 territoryJumpButtons.forEach(button => {
   button.addEventListener('click', () => {
@@ -511,7 +697,7 @@ loadMap().catch(err => {
   openPanel();
   communeTitle.textContent = 'Carte indisponible';
   detailHeading.textContent = 'Erreur';
-  communeMeta.textContent = 'Le design et les filtres sont prêts, mais l’API ne répond pas encore.';
+  communeMeta.textContent = 'Le design et les filtres sont prêts, mais l\'API ne répond pas encore.';
   setStatusBadge('Indisponible', '#9ca3af');
   analysisList.innerHTML = '<li>Vérifie le backend et la base de données.</li>';
 });

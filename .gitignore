@@ -1,5 +1,5 @@
-# ignore dataset
-data/*.txt
+# ignore dataset (whole folder, not pushed)
+data/
 
 # Java build files
 target/
