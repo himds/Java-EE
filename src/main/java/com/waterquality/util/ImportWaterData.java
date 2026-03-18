@@ -116,13 +116,13 @@ public class ImportWaterData {
             int fileCount = 0;
 
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
-                br.readLine(); // 跳过表头
+                br.readLine(); // Ignorer l'en-tête
 
                 String line;
                 while ((line = br.readLine()) != null) {
                     if (line.trim().isEmpty()) continue;
 
-                    // 解析 CSV 行
+                    // Parser la ligne CSV
                     String[] parts = parseCSVLine(line);
                     if (parts.length < 3) continue;
 
@@ -130,7 +130,7 @@ public class ImportWaterData {
                     String codeInsee = cleanValue(parts[1]);
                     String nomCommune = cleanValue(parts[2]);
 
-                    // 设置参数
+                    // Paramètres
                     pstmt.setString(1, codeInsee);
                     pstmt.setString(2, nomCommune);
                     pstmt.setString(3, cddept);
@@ -138,18 +138,18 @@ public class ImportWaterData {
                     pstmt.executeUpdate();
                     fileCount++;
 
-                    // 每1000条提交一次
+                    // Commit tous les 1000 enregistrements
                     if (fileCount % 1000 == 0) {
                         conn.commit();
                     }
                 }
 
-                conn.commit(); // 提交剩余的数据
+                conn.commit(); // Reste des données
                 totalCount += fileCount;
-                System.out.println("  导入 " + fileCount + " 行");
+                System.out.println("  Importé " + fileCount + " lignes");
 
             } catch (Exception e) {
-                System.out.println("处理文件 " + file.getName() + " 时出错: " + e.getMessage());
+                System.out.println("Erreur sur le fichier " + file.getName() + " : " + e.getMessage());
             }
         }
 
@@ -254,7 +254,7 @@ public class ImportWaterData {
         File[] files = folder.listFiles((dir, name) -> name.endsWith(".txt"));
 
         if (files == null || files.length == 0) {
-            System.out.println("未找到 resultats 数据文件!");
+            System.out.println("Aucun fichier resultats trouvé.");
             return;
         }
 
@@ -270,13 +270,13 @@ public class ImportWaterData {
             int fileSkipped = 0;
 
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
-                br.readLine(); // 跳过表头
+                br.readLine(); // Ignorer l'en-tête
 
                 String line;
                 while ((line = br.readLine()) != null) {
                     if (line.trim().isEmpty()) continue;
 
-                    // 解析 CSV 行
+                    // Parser la ligne CSV
                     String[] parts = parseCSVLine(line);
                     if (parts.length < 4) {
                         fileSkipped++;
@@ -288,24 +288,24 @@ public class ImportWaterData {
                     String limitequal = cleanValue(parts[2]);
                     String valtraduiteStr = cleanValue(parts[3]);
 
-                    // 查找 prelevement_id
+                    // Récupérer prelevement_id
                     Integer prelevementId = prelevementMap.get(referenceprel);
                     if (prelevementId == null) {
                         fileSkipped++;
                         continue;
                     }
 
-                    // 转换数值
+                    // Conversion numérique
                     Double valeurMesuree = null;
                     try {
                         if (valtraduiteStr != null && !valtraduiteStr.isEmpty()) {
                             valeurMesuree = Double.parseDouble(valtraduiteStr);
                         }
                     } catch (NumberFormatException e) {
-                        // 如果转换失败，保持为 null
+                        // En cas d'échec, rester à null
                     }
 
-                    // 设置参数
+                    // Paramètres
                     pstmt.setInt(1, prelevementId);
                     pstmt.setString(2, parametre);
                     if (valeurMesuree != null) {
