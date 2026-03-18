@@ -10,16 +10,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Recherche de communes par nom pour l'autocomplétion côté front.
+ * Service de recherche textuelle.
+ * Il permet de suggérer une liste de communes suite à une saisie utilisateur
  */
 public class SearchService {
 
     /**
-     * Recherche floue par nom de commune, au plus 30 résultats.
-     *
-     * @param query saisie utilisateur (ex. "rou")
-     * @return liste des communes correspondantes
-     * @throws Exception en cas d'erreur SQL ou de connexion
+     * Effectue une recherche dans la table des communes.
+     * @param query La chaîne tapée par l'utilisateur (ex: "rou")
+     * @return Une liste d'objets Commune (maximum 30 résultats pour la performance)
      */
     public List<Commune> searchCommunesByName(String query) throws Exception {
         List<Commune> result = new ArrayList<>();
@@ -33,6 +32,9 @@ public class SearchService {
             return result;
         }
 
+        // LOWER(...) permet de rendre la recherche insensible à la casse (Majuscules/Minuscules).
+        // LIKE ? avec des % permet de trouver le texte n'importe où dans le nom.
+        // LIMIT 30 évite de renvoyer toutes les communes avec un "a" dans le nom si l'utilisateur tape juste la lettre "a".
         String sql =
                 "SELECT code_insee, nom_commune, departement " +
                 "FROM communes " +
@@ -43,10 +45,13 @@ public class SearchService {
         try (Connection conn = DatabaseConnection.getConnection();
              PreparedStatement ps = conn.prepareStatement(sql)) {
 
+            // On entoure la saisie par des "%" : 
+            // "%rou%" trouvera "Rouen", "Saint-Etienne-du-Rouvray", etc.
             ps.setString(1, "%" + trimmed.toLowerCase() + "%");
 
             try (ResultSet rs = ps.executeQuery()) {
                 while (rs.next()) {
+                    // On transforme chaque ligne de la base de données en un objet Java "Commune"
                     Commune c = new Commune(
                             rs.getString("code_insee"),
                             rs.getString("nom_commune"),
@@ -60,4 +65,3 @@ public class SearchService {
         return result;
     }
 }
-

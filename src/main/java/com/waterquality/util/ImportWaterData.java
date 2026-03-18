@@ -25,7 +25,8 @@ public class ImportWaterData {
                 "C:\\Users\\sincerely\\Desktop\\EAU\\water-quality-project\\data\\Données database\\Données database",
                 "C:/Users/sincerely/Desktop/EAU/water-quality-project/data/Données database/Données database",
                 "../data/Données database/Données database",
-                "../../data/Données database/Données database"
+                "../../data/Données database/Données database",
+                "C:\\Users\\62399522\\Desktop\\workspace\\Java-EE\\datas"
         };
 
         File dataDirFile = null;
