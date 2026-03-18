@@ -20,10 +20,14 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
-let choroplethLayer = null;
+let departmentLayer = null;   // 部门多边形，始终显示（在 zoom 足够时可见）
+let choroplethLayer = null;   // 当前展开部门的市镇多边形，仅一个部门展开时存在
+let dromCardLayer = null;
 let communesGeoJson = null;
 let departmentsGeoJson = null;
-let zoneFallbackMode = 'communes';
+let allMapDataFeatures = []; // 初始 map-data 全部 features，用于按部门过滤
+let openDepartmentCode = null;
+const ZOOM_COMMUNE_THRESHOLD = 9; // 缩放低于此级别时只显示部门，不显示市镇
 const appShell = document.querySelector('.app-shell');
 const results = document.getElementById('results');
 const searchInput = document.getElementById('search');
@@ -33,24 +37,18 @@ const closePanel = document.getElementById('close-panel');
 const communeTitle = document.getElementById('commune-title');
 const communeMeta = document.getElementById('commune-meta');
 const analysisList = document.getElementById('analysis-list');
+const analysisReference = document.getElementById('analysis-reference');
 const legendToggle = document.getElementById('legend-toggle');
 const legendBody = document.getElementById('legend-body');
 const legendArrow = document.getElementById('legend-arrow');
-const yearFilter = document.getElementById('year-filter');
-const categoryFilter = document.getElementById('category-filter');
-const viewModeFilter = document.getElementById('view-mode');
 const statusBadge = document.getElementById('status-badge');
 const metricView = document.getElementById('metric-view');
-const metricPollutant = document.getElementById('metric-pollutant');
-const metricYear = document.getElementById('metric-year');
 const metricSamples = document.getElementById('metric-samples');
 const detailHeading = document.getElementById('detail-heading');
-const territoryJumpButtons = document.querySelectorAll('.territory-btn');
+const territoryIconBtns = document.querySelectorAll('.territory-icon-btn');
 
-let currentMode = 'regions';
-let currentYear = null;
-let currentPollutant = 'all';
 let currentSearchItems = [];
+let zoneFallbackMode = 'departments';
 
 const TERRITORY_VIEWS = {
   metro: [[41.0, -5.8], [51.7, 9.8]],
@@ -58,8 +56,11 @@ const TERRITORY_VIEWS = {
   martinique: [[14.25, -61.35], [14.95, -60.75]],
   guyane: [[2.0, -54.9], [6.1, -51.3]],
   reunion: [[-21.45, 55.15], [-20.8, 55.95]],
-  mayotte: [[-13.1, 45.0], [-12.45, 45.4]]
+  mayotte: [[-13.1, 45.0], [-12.45, 45.4]],
+  france_entiere: [[-21.5, -62], [51.7, 56]]
 };
+const DROM_KEYS = ['guadeloupe', 'martinique', 'guyane', 'reunion', 'mayotte'];
+const DROM_LABELS = { guadeloupe: 'Guadeloupe', martinique: 'Martinique', guyane: 'Guyane', reunion: 'La Réunion', mayotte: 'Mayotte' };
 
 function escapeHtml(value) {
   return String(value ?? '').replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
@@ -129,21 +130,11 @@ legendToggle.addEventListener('click', () => {
 
 function queryString(extra = {}) {
   const params = new URLSearchParams();
-  if (currentYear) params.set('year', currentYear);
-  if (currentPollutant && currentPollutant !== 'all') params.set('pollutant', currentPollutant);
   Object.entries(extra).forEach(([key, value]) => {
     if (value !== null && value !== undefined && value !== '') params.set(key, value);
   });
   const qs = params.toString();
   return qs ? `?${qs}` : '';
-}
-
-function labelForPollutant(value) {
-  return ({ all: 'Tous polluants', bacterio: 'Bactériologique', chimique: 'Chimique', reference: 'Référence qualité' })[value] || value;
-}
-
-function yearLabel() {
-  return currentYear || 'Dernière analyse';
 }
 
 function badgeClassFromColor(color) {
@@ -171,6 +162,7 @@ function renderRegionPopup(feature) {
 }
 
 async function loadAnalyses(prelevementId) {
+  if (analysisReference) analysisReference.textContent = '';
   analysisList.innerHTML = '<li>Chargement...</li>';
   const response = await fetch(`${API_BASE}/details/${prelevementId}`);
   const data = await response.json().catch(() => ({}));
@@ -179,18 +171,29 @@ async function loadAnalyses(prelevementId) {
     analysisList.innerHTML = `<li>Aucune analyse détaillée disponible.</li><li class="error-msg">${escapeHtml(msg)}</li>`;
     return;
   }
-  if (!Array.isArray(data) || data.length === 0) {
+  const referenceprel = data.referenceprel != null ? String(data.referenceprel).trim() : '';
+  let analyses = Array.isArray(data.analyses) ? data.analyses : [];
+  const seenParametres = new Set();
+  analyses = analyses.filter(item => {
+    const p = (item.parametre != null ? String(item.parametre).trim() : '');
+    if (!p || seenParametres.has(p)) return false;
+    seenParametres.add(p);
+    return true;
+  });
+  if (analysisReference) analysisReference.textContent = referenceprel ? `Prélèvement: ${escapeHtml(referenceprel)}` : '';
+  if (analyses.length === 0) {
     analysisList.innerHTML = '<li>Aucune analyse détaillée disponible.</li>';
     return;
   }
-  analysisList.innerHTML = data.map(item => {
+  analysisList.innerHTML = analyses.map(item => {
+    const parametre = item.parametre != null ? String(item.parametre) : '';
     const v = item.valeurMesuree;
     const lim = item.limiteLegale;
     const nonConforme = typeof v === 'number' && typeof lim === 'number' && v > lim;
     const rowClass = nonConforme ? 'analysis-item non-conforme' : 'analysis-item';
     const limitText = lim != null ? ` (limite ≤ ${lim})` : '';
     return `<li class="${rowClass}">
-      <strong>${escapeHtml(item.parametre)}</strong><br>
+      <strong>${escapeHtml(parametre)}</strong><br>
       Valeur mesurée: ${v ?? '—'} · Limite légale: ${lim ?? '—'}${limitText}
     </li>`;
   }).join('');
@@ -198,8 +201,6 @@ async function loadAnalyses(prelevementId) {
 
 function setMetrics(viewText, sampleCount) {
   metricView.textContent = viewText;
-  metricPollutant.textContent = labelForPollutant(currentPollutant);
-  metricYear.textContent = yearLabel();
   metricSamples.textContent = sampleCount ?? '—';
 }
 
@@ -221,12 +222,36 @@ async function showCommuneDetails(city) {
   }
   const latest = await latestResponse.json();
   const prelevement = latest.prelevement;
+  if (!prelevement || prelevement.id == null) {
+    communeMeta.textContent += ' · Aucun prélèvement';
+    analysisList.innerHTML = '<li>Aucun prélèvement trouvé pour cette commune.</li>';
+    return;
+  }
   communeMeta.textContent += ` · Dernier prélèvement: ${prelevement.dateprel ?? '—'}`;
-  setStatusBadge(latest.tone || city.status, prelevement.color);
+  setStatusBadge(prelevement.status || city.status, prelevement.color);
   await loadAnalyses(prelevement.id);
 }
 
-function showRegionDetails(feature) {
+async function focusOnCommuneOnMap(city) {
+  if (city.latitude != null && city.longitude != null) {
+    map.setView([city.latitude, city.longitude], 11);
+    return;
+  }
+  const geojson = await ensureCommunesGeoJson().catch(() => null);
+  if (!geojson || !Array.isArray(geojson.features)) return;
+  const targetCode = normalizeCommuneCode(city.codeInsee);
+  const feature = geojson.features.find(f => {
+    const code = getCommuneCode(f);
+    return normalizeCommuneCode(code) === targetCode;
+  });
+  if (!feature) return;
+  const center = centroidFromGeoFeature(feature);
+  if (center && Array.isArray(center) && center.length === 2) {
+    map.setView(center, 11);
+  }
+}
+
+async function showRegionDetails(feature) {
   openPanel();
   detailHeading.textContent = zoneFallbackMode === 'communes' ? 'Commune' : 'Département';
   communeTitle.textContent = feature.name;
@@ -235,18 +260,39 @@ function showRegionDetails(feature) {
     ? `Code INSEE: ${feature.id ?? '—'} · Département: ${feature.departement ?? '—'} · Statut: ${feature.status ?? '—'}`
     : `Département: ${feature.departement ?? '—'} · Statut: ${feature.status ?? '—'} · Communes agrégées: ${feature.sampleCount ?? 0}`;
   setStatusBadge(feature.status, feature.color);
+
+  if (zoneFallbackMode === 'communes' && feature.id) {
+    analysisList.innerHTML = '<li>Chargement...</li>';
+    if (analysisReference) analysisReference.textContent = '';
+    try {
+      const response = await fetch(`${API_BASE}/latest/${encodeURIComponent(feature.id)}${queryString()}`);
+      const data = await response.json().catch(() => ({}));
+      const prelevement = data.prelevement;
+      if (prelevement && prelevement.id != null) {
+        communeMeta.textContent += ` · Dernier prélèvement: ${prelevement.dateprel ?? '—'}`;
+        setStatusBadge(prelevement.status || feature.status, prelevement.color);
+        await loadAnalyses(prelevement.id);
+      } else {
+        if (analysisReference) analysisReference.textContent = '';
+        analysisList.innerHTML = '<li>Aucun prélèvement trouvé pour cette commune.</li>';
+      }
+    } catch (e) {
+      if (analysisReference) analysisReference.textContent = '';
+      analysisList.innerHTML = `<li>Aucune analyse détaillée disponible.</li><li class="error-msg">${escapeHtml(e.message || 'Erreur réseau')}</li>`;
+    }
+    return;
+  }
+
   analysisList.innerHTML = zoneFallbackMode === 'communes'
     ? `
     <li>Zone coloriée à partir du fond communal France.</li>
     <li>Département: ${feature.departement ?? '—'}.</li>
-    <li>Filtre actif: ${labelForPollutant(currentPollutant)} · ${yearLabel()}.</li>
     <li>Cette vue correspond à une carte choropleth par commune, sans routes ni fond OSM.</li>
   `
     : `
     <li>Le fond communal est trop lourd ou n'a pas pu être affiché correctement.</li>
     <li>Affichage de secours: carte départementale colorée.</li>
     <li>Communes agrégées: ${feature.sampleCount ?? 0}.</li>
-    <li>Filtre actif: ${labelForPollutant(currentPollutant)} · ${yearLabel()}.</li>
   `;
 }
 
@@ -282,6 +328,22 @@ function getDepartmentCode(feature) {
   return normalizeCommuneCode(props.code || props.code_departement || props.id);
 }
 
+/** 从市镇 GeoJSON feature 得到部门代码（法国 mainland 为 code_insee 前 2 位） */
+function getDepartmentFromCommuneFeature(feature) {
+  const code = getCommuneCode(feature);
+  const s = String(code).trim();
+  if (s.length >= 2) return s.slice(0, 2);
+  return s;
+}
+
+/** 统一为 2 位部门码，便于与 map-data 的 departement 匹配（如 "076" / "76" → "76"） */
+function normalizeDepartmentCode(v) {
+  const s = String(v ?? '').trim();
+  if (s.length === 0) return '';
+  const two = s.replace(/^0+/, '').slice(-2);
+  return two.length >= 2 ? two : two.padStart(2, '0');
+}
+
 function createCommuneStyle(mapFeature) {
   const color = mapFeature?.color || '#cbd5e1';
   return {
@@ -307,10 +369,10 @@ function createCommuneHoverStyle(mapFeature) {
 }
 
 async function fetchCommuneFromBackend(codeInsee) {
-  const response = await fetch(`${API_BASE}/communes/${encodeURIComponent(codeInsee)}${queryString()}`);
+  const response = await fetch(`${API_BASE}/latest/${encodeURIComponent(codeInsee)}${queryString()}`);
   const data = await response.json().catch(() => ({}));
   if (!response.ok) throw new Error(data.message || data.error || `HTTP ${response.status}`);
-  return data;
+  return data.commune || data;
 }
 
 function bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee) {
@@ -378,6 +440,18 @@ function clearChoropleth() {
   }
 }
 
+function clearCommuneLayer() {
+  clearChoropleth();
+  openDepartmentCode = null;
+}
+
+function clearDepartmentLayer() {
+  if (departmentLayer) {
+    map.removeLayer(departmentLayer);
+    departmentLayer = null;
+  }
+}
+
 async function renderCommunesChoropleth(features) {
   const geojson = await ensureCommunesGeoJson();
   // featureMap: code_insee (id) -> { color, status, ... } 来自后端/数据库，前端仅按 id 匹配着色
@@ -420,19 +494,19 @@ async function renderCommunesChoropleth(features) {
   try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
 }
 
-async function renderDepartmentsFallback(features) {
-  const geojson = await ensureDepartmentsGeoJson();
+function aggregateFeaturesByDepartment(features) {
   const grouped = new Map();
   for (const item of features) {
-    const key = normalizeCommuneCode(item.departement);
+    const key = (item.departement && String(item.departement).trim().slice(0, 2)) || (item.id && String(item.id).trim().slice(0, 2)) || '';
+    if (!key) continue;
     const prev = grouped.get(key);
     if (!prev) {
       grouped.set(key, {
         id: `dept-${key}`,
         name: `Département ${key}`,
         departement: key,
-        color: item.color,
-        status: item.status,
+        color: item.color || '#9ca3af',
+        status: item.status || 'Aucune donnée',
         sampleCount: 1
       });
     } else {
@@ -444,7 +518,84 @@ async function renderDepartmentsFallback(features) {
       }
     }
   }
+  return grouped;
+}
 
+/** 仅绘制部门层，初始全部灰色；点击某部门后展开该部门内的市镇并显示各市颜色 */
+async function renderDepartmentLayerOnly(features) {
+  const geojson = await ensureDepartmentsGeoJson();
+  const greyDept = { color: '#9ca3af', status: 'Aucune donnée', sampleCount: 0 };
+
+  clearDepartmentLayer();
+  departmentLayer = L.geoJSON(geojson, {
+    style: () => createCommuneStyle(greyDept),
+    onEachFeature: (geoFeature, layer) => {
+      const props = geoFeature.properties || {};
+      const deptCode = getDepartmentCode(geoFeature);
+      const dept2 = String(deptCode).trim().slice(-2);
+      const mapFeature = {
+        id: `dept-${dept2}`,
+        name: props.nom || `Département ${dept2}`,
+        departement: dept2,
+        status: 'Aucune donnée',
+        color: '#9ca3af',
+        sampleCount: 0
+      };
+      bindCommuneInteractions(layer, mapFeature, mapFeature.name);
+      layer.on('click', () => {
+        openDepartmentCode = dept2;
+        if (map.getZoom() >= ZOOM_COMMUNE_THRESHOLD) {
+          showCommunesForDepartment(dept2);
+        } else {
+          map.setZoom(ZOOM_COMMUNE_THRESHOLD);
+          map.once('zoomend', () => showCommunesForDepartment(dept2));
+        }
+      });
+    }
+  }).addTo(map);
+
+  try { map.fitBounds(departmentLayer.getBounds(), { padding: [20, 20] }); } catch { }
+}
+
+/** 只显示指定部门内的市镇，并用 allMapDataFeatures 的 color 为每个市镇上色（绿/黄/橙/红/灰）；同时只能有一个部门展开 */
+async function showCommunesForDepartment(deptCode) {
+  clearChoropleth();
+  zoneFallbackMode = 'communes';
+  const geojson = await ensureCommunesGeoJson();
+  const normalizedDept = normalizeDepartmentCode(deptCode);
+  const communeFeatures = (geojson.features || []).filter(f => {
+    const d = getDepartmentFromCommuneFeature(f);
+    return d === normalizedDept || normalizeDepartmentCode(d) === normalizedDept;
+  });
+  if (communeFeatures.length === 0) return;
+
+  const featuresForDept = allMapDataFeatures.filter(item => {
+    const itemDept = normalizeDepartmentCode(item.departement || (item.id && String(item.id).trim().slice(0, 2)) || '');
+    return itemDept === normalizedDept;
+  });
+  const featureMap = new Map(featuresForDept.map(item => [normalizeCommuneCode(item.id), item]));
+
+  choroplethLayer = L.geoJSON({ type: 'FeatureCollection', features: communeFeatures }, {
+    style: geoFeature => {
+      const codeInsee = normalizeCommuneCode(getCommuneCode(geoFeature));
+      const mapFeature = featureMap.get(codeInsee);
+      return createCommuneStyle(mapFeature);
+    },
+    onEachFeature: (geoFeature, layer) => {
+      const props = geoFeature.properties || {};
+      const codeInsee = normalizeCommuneCode(getCommuneCode(geoFeature));
+      const mapFeature = featureMap.get(codeInsee);
+      const fallbackName = props.nom || props.name || `Commune ${codeInsee}`;
+      bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee);
+    }
+  }).addTo(map);
+
+  try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
+}
+
+async function renderDepartmentsFallback(features) {
+  const grouped = aggregateFeaturesByDepartment(features);
+  const geojson = await ensureDepartmentsGeoJson();
   clearChoropleth();
   choroplethLayer = L.geoJSON(geojson, {
     style: geoFeature => {
@@ -466,7 +617,6 @@ async function renderDepartmentsFallback(features) {
       bindCommuneInteractions(layer, mapFeature, mapFeature.name);
     }
   }).addTo(map);
-
   try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
 }
 
@@ -580,93 +730,39 @@ function demoFeaturesFromGeoJson(geojson, limit = 800) {
 
 async function loadMap() {
   markerLayer.clearLayers();
-  clearChoropleth();
-  const boundsAccumulator = [];
+  clearCommuneLayer();
+  clearDepartmentLayer();
   if (!sidePanel.classList.contains('is-hidden')) {
     communeTitle.textContent = 'Chargement...';
     communeMeta.textContent = 'Récupération des données depuis l\'API.';
     analysisList.innerHTML = '<li>Chargement en cours.</li>';
   }
 
-  if (currentMode === 'points') {
-    try {
-      const response = await fetch(`${API_BASE}/communes${queryString()}`);
-      const cities = await response.json().catch(() => null);
-      if (!response.ok) {
-        const msg = (cities && (cities.message || cities.error)) || `HTTP ${response.status}`;
-        throw new Error(msg);
-      }
-      const geo = await ensureCommunesGeoJson();
-      const centroidMap = buildInseeToCentroidMap(geo);
-      cities.forEach(city => addCommuneMarker(city, boundsAccumulator, centroidMap));
-      if (boundsAccumulator.length) map.fitBounds(boundsAccumulator, { padding: [40, 40] });
-    } catch (error) {
-      openPanel();
-      communeTitle.textContent = 'Backend indisponible';
-      detailHeading.textContent = 'Mode point indisponible';
-      communeMeta.textContent = 'Le backend ne répond pas encore, donc les points communaux ne peuvent pas être chargés.';
-      setStatusBadge('Sans backend', '#9ca3af');
-      analysisList.innerHTML = '<li>Démarre l\'API si tu veux la vue points.</li>';
+  try {
+    const response = await fetch(`${API_BASE}/map-data${queryString({ mode: 'regions' })}`);
+    const mapData = await response.json().catch(() => null);
+    if (!response.ok) {
+      const msg = (mapData && (mapData.message || mapData.error)) || `HTTP ${response.status}`;
+      throw new Error(msg);
     }
-  } else if (currentMode === 'communes') {
-    // 市镇多边形：颜色 100% 来自后端/数据库（code_insee → prelevements → 颜色）
-    try {
-      const response = await fetch(`${API_BASE}/communes${queryString()}`);
-      const cities = await response.json().catch(() => []);
-      if (!response.ok) throw new Error(cities.message || cities.error || `HTTP ${response.status}`);
-
-      const features = cities.map(city => ({
-        id: city.codeInsee,
-        name: city.nomCommune,
-        departement: city.departement,
-        color: city.color || '#9ca3af',
-        status: city.status || 'Aucune donnée',
-        sampleCount: 1
-      }));
-      await renderCommunesChoropleth(features);
-    } catch (error) {
-      console.warn('API communes indisponible, carte en gris (données BDD non chargées)', error);
-      zoneFallbackMode = 'communes';
-      await renderCommunesChoropleth([]);
-      openPanel();
-      communeTitle.textContent = 'Données base indisponibles';
-      detailHeading.textContent = 'Connexion BDD requise';
-      communeMeta.textContent = 'Les couleurs viennent de la base de données. Démarrez le backend et MySQL pour afficher les données par code INSEE.';
-      setStatusBadge('Sans BDD', '#9ca3af');
-      analysisList.innerHTML = '<li>La carte affiche tous les codes INSEE (GeoJSON) ; les couleurs sont calculées côté backend à partir des tables communes et prelevements.</li><li>Vérifiez que le backend et la base de données sont démarrés.</li><li><button type="button" class="popup-btn" id="check-connection-btn">Vérifier la connexion</button></li>';
-      document.getElementById('check-connection-btn')?.addEventListener('click', runConnectionCheck);
-    }
-  } else {
-    // 默认：区域视图，颜色 100% 来自后端/数据库（map-data = communes + prelevements par code_insee）
-    try {
-      const response = await fetch(`${API_BASE}/map-data${queryString({ mode: 'regions' })}`);
-      const mapData = await response.json().catch(() => null);
-      if (!response.ok) {
-        const msg = (mapData && (mapData.message || mapData.error)) || `HTTP ${response.status}`;
-        throw new Error(msg);
-      }
-      await renderChoropleth(mapData.features || []);
-    } catch (error) {
-      console.warn('API map-data indisponible, carte en gris (données BDD non chargées)', error);
-      const localGeoJson = await ensureDepartmentsGeoJson();
-      zoneFallbackMode = 'departments';
-      await renderDepartmentsFallback([]);
-      openPanel();
-      communeTitle.textContent = 'Données base indisponibles';
-      detailHeading.textContent = 'Connexion BDD requise';
-      communeMeta.textContent = 'Les couleurs viennent de la base de données (map-data). Démarrez le backend et MySQL pour afficher les données par code INSEE.';
-      setStatusBadge('Sans BDD', '#9ca3af');
-      analysisList.innerHTML = '<li>La carte utilise l\'API map-data : pour chaque code_insee, le backend interroge les tables communes et prelevements puis calcule la couleur.</li><li>Vérifiez que le backend et la base de données sont démarrés.</li><li><button type="button" class="popup-btn" id="check-connection-btn">Vérifier la connexion</button></li>';
-      document.getElementById('check-connection-btn')?.addEventListener('click', runConnectionCheck);
-    }
+    const features = mapData.features || [];
+    allMapDataFeatures = features;
+    zoneFallbackMode = 'departments';
+    await renderDepartmentLayerOnly(features);
+  } catch (error) {
+    console.warn('API map-data indisponible, carte en gris', error);
+    await ensureDepartmentsGeoJson();
+    await renderDepartmentsFallback([]);
+    openPanel();
+    communeTitle.textContent = 'Données base indisponibles';
+    detailHeading.textContent = 'Connexion BDD requise';
+    communeMeta.textContent = 'Démarrez le backend et MySQL pour afficher les données.';
+    setStatusBadge('Sans BDD', '#9ca3af');
+    analysisList.innerHTML = '<li><button type="button" class="popup-btn" id="check-connection-btn">Vérifier la connexion</button></li>';
+    document.getElementById('check-connection-btn')?.addEventListener('click', runConnectionCheck);
   }
 
-  setMetrics(
-    currentMode === 'points' ? 'Commune (point)' :
-      currentMode === 'communes' ? 'Commune (carte)' :
-        (zoneFallbackMode === 'communes' ? 'Commune (zone)' : 'Département (secours)'),
-    '—'
-  );
+  setMetrics('Département', '—');
 }
 
 async function runSearch() {
@@ -687,10 +783,10 @@ async function runSearch() {
     button.type = 'button';
     button.className = 'result-item';
     button.textContent = `${city.nomCommune} (${city.departement || 'N/A'})`;
-    button.onclick = () => {
+    button.onclick = async () => {
       results.innerHTML = '';
       results.classList.remove('has-items');
-      if (city.latitude != null && city.longitude != null) map.setView([city.latitude, city.longitude], 11);
+      await focusOnCommuneOnMap(city);
       showCommuneDetails(city);
     };
     results.appendChild(button);
@@ -712,19 +808,13 @@ searchInput.addEventListener('input', () => {
   }
   searchDebounce = setTimeout(runSearch, 300);
 });
-yearFilter.addEventListener('change', async () => {
-  currentYear = yearFilter.value === 'latest' ? null : yearFilter.value;
-  await loadMap();
-  await runSearch();
-});
-categoryFilter.addEventListener('change', async () => {
-  currentPollutant = categoryFilter.value;
-  await loadMap();
-  await runSearch();
-});
-viewModeFilter.addEventListener('change', async () => {
-  currentMode = viewModeFilter.value;
-  await loadMap();
+
+// 缩小到一定级别后只显示部门，隐藏市镇
+map.on('zoomend', () => {
+  if (map.getZoom() < ZOOM_COMMUNE_THRESHOLD) {
+    clearCommuneLayer();
+    zoneFallbackMode = 'departments';
+  }
 });
 
 // 全屏切换（地图容器）
@@ -743,18 +833,63 @@ if (fullscreenBtn && mapContainer) {
   });
 }
 
-territoryJumpButtons.forEach(button => {
-  button.addEventListener('click', () => {
-    const territory = button.dataset.territory;
-    const bounds = TERRITORY_VIEWS[territory];
-    if (!bounds) return;
-    map.fitBounds(bounds, { padding: [20, 20] });
-    openPanel();
-    communeTitle.textContent = button.textContent;
-    detailHeading.textContent = 'Territoire';
-    communeMeta.textContent = `Vue rapide vers ${button.textContent}. Utilise ensuite le zoom et clique sur une zone pour afficher sa fiche.`;
-    setStatusBadge('Navigation', '#22c55e');
+function clearDromCardLayer() {
+  if (dromCardLayer) {
+    map.removeLayer(dromCardLayer);
+    dromCardLayer = null;
+  }
+}
+
+const TERRITORY_LABELS = { metro: 'Métropole', guadeloupe: 'Guadeloupe', martinique: 'Martinique', guyane: 'Guyane', reunion: 'La Réunion', mayotte: 'Mayotte' };
+
+function setTerritoryButtonSelected(territoryKey) {
+  territoryIconBtns.forEach(btn => {
+    const key = btn.getAttribute('data-territory');
+    if (key === territoryKey) {
+      btn.classList.add('is-selected');
+      btn.setAttribute('aria-pressed', 'true');
+    } else {
+      btn.classList.remove('is-selected');
+      btn.setAttribute('aria-pressed', 'false');
+    }
+  });
+}
+
+function applyTerritoryView(territoryKey) {
+  const bounds = TERRITORY_VIEWS[territoryKey];
+  if (!bounds) return;
+  map.fitBounds(bounds, { padding: [20, 20] });
+  openPanel();
+  setTerritoryButtonSelected(territoryKey);
+  const label = TERRITORY_LABELS[territoryKey] || territoryKey;
+  communeTitle.textContent = label;
+  detailHeading.textContent = 'Territoire';
+  const isDrom = DROM_KEYS.includes(territoryKey);
+  clearDromCardLayer();
+  if (isDrom) {
+    const name = DROM_LABELS[territoryKey] || territoryKey;
+    dromCardLayer = L.rectangle(bounds, {
+      color: '#64748b',
+      fillColor: '#94a3b8',
+      fillOpacity: 0.35,
+      weight: 2,
+      dashArray: '6,4'
+    }).addTo(map);
+    dromCardLayer.bindPopup(`<strong>${escapeHtml(name)}</strong><br>La carte détaillée (communes/départements) n'est pas encore disponible pour ce territoire.`);
+    communeMeta.textContent = `Vue : ${name}. La couche détaillée par commune n'est pas encore disponible pour les DROM.`;
+    analysisList.innerHTML = '<li>Données détaillées à venir pour ce territoire.</li>';
+  } else {
+    communeMeta.textContent = `Vue : ${label}. Utilisez le zoom et cliquez sur une zone pour afficher sa fiche.`;
     analysisList.innerHTML = '<li>Raccourci de navigation territoriale.</li>';
+  }
+  setStatusBadge('Navigation', '#22c55e');
+}
+
+territoryIconBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const territory = btn.getAttribute('data-territory');
+    if (!territory || !TERRITORY_VIEWS[territory]) return;
+    applyTerritoryView(territory);
   });
 });
 

@@ -1,8 +1,7 @@
 package com.waterquality.controller;
 
 import com.waterquality.model.Commune;
-import com.waterquality.service.CommuneService;
-
+import com.waterquality.service.SearchService;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -10,25 +9,40 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
+import java.net.URLDecoder;
+import java.nio.charset.StandardCharsets;
 import java.util.List;
 
-/** 从 MySQL 拿 communes，返回 JSON。流程：浏览器 → Tomcat → @WebServlet → Service → MySQL */
-@WebServlet("/api/communes")
-public class CommunesServlet extends HttpServlet {
+/**
+ * /api/search?q=rou → 返回城市列表（用于前端自动补全）。
+ */
+@WebServlet("/api/search")
+public class SearchServlet extends HttpServlet {
 
-    private final CommuneService communeService = new CommuneService();
+    private final SearchService searchService = new SearchService();
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         resp.setContentType("application/json; charset=UTF-8");
+
+        String rawQuery = req.getParameter("q");
+        if (rawQuery == null || rawQuery.trim().length() < 1) {
+            resp.getWriter().write("[]");
+            return;
+        }
+
+        // 防止编码问题
+        String q = URLDecoder.decode(rawQuery, StandardCharsets.UTF_8.name());
+
         try {
-            List<Commune> communes = communeService.getCommunesFromDb();
+            List<Commune> communes = searchService.searchCommunesByName(q);
             resp.getWriter().write(toJson(communes));
         } catch (Exception e) {
             e.printStackTrace();
             resp.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-            resp.getWriter().write("{\"error\":\"" + escapeJson(e.getMessage()) + "\"}");
+            String message = e.getMessage() == null ? "Search error" : e.getMessage();
+            resp.getWriter().write("{\"error\":\"" + escapeJson(message) + "\"}");
         }
     }
 
@@ -39,13 +53,19 @@ public class CommunesServlet extends HttpServlet {
             Commune c = list.get(i);
             sb.append("{\"codeInsee\":\"").append(escapeJson(c.getCodeInsee()))
               .append("\",\"nomCommune\":\"").append(escapeJson(c.getNomCommune()))
-              .append("\",\"departement\":\"").append(escapeJson(c.getDepartement())).append("\"}");
+              .append("\",\"departement\":\"").append(escapeJson(c.getDepartement()))
+              // latitude / longitude 目前由前端通过 GeoJSON 质心计算，所以先返回 null
+              .append("\",\"latitude\":null,\"longitude\":null}");
         }
         return sb.append(']').toString();
     }
 
     private static String escapeJson(String s) {
         if (s == null) return "";
-        return s.replace("\\", "\\\\").replace("\"", "\\\"").replace("\n", "\\n").replace("\r", "\\r");
+        return s.replace("\\", "\\\\")
+                .replace("\"", "\\\"")
+                .replace("\n", "\\n")
+                .replace("\r", "\\r");
     }
 }
+
