@@ -12,7 +12,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * GET /api/map-data → 返回所有市镇的 id, name, departement, color, status（颜色由最新 prélèvement 四字段计算）。
+ * GET /api/map-data → retourne pour chaque commune id, name, departement, color, status
+ * (couleur calculée à partir des quatre champs du dernier prélèvement).
  */
 @WebServlet("/api/map-data")
 public class MapDataServlet extends HttpServlet {

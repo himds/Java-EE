@@ -7,20 +7,20 @@ import java.io.*;
 import java.util.*;
 
 /**
- * ETL 导入：与 API 共用同一数据源。
- * - 本机运行：未设置 DB_URL 时默认连 localhost:3307（即 Docker MySQL 映射端口）。
- * - 要导入到 Docker MySQL：先启动 Docker，再运行本 main；要导入到本机 MySQL：设置 DB_URL 指向本机（如 3306）。
+ * Import ETL : même source de données que l'API.
+ * - En local : sans DB_URL, connexion par défaut à localhost:3307 (MySQL Docker).
+ * - Pour importer vers MySQL Docker : démarrer Docker puis lancer ce main ; pour MySQL local : définir DB_URL (ex. port 3306).
  */
 public class ImportWaterData {
 
     public static void main(String[] args) {
-        System.out.println("开始导入水质数据...");
+        System.out.println("Début de l'import des données qualité de l'eau...");
 
-        // 数据目录 - 使用Windows绝对路径
+        // Répertoire des données (chemin absolu Windows par défaut)
         String dataDir = "C:\\Users\\sincerely\\Desktop\\EAU\\water-quality-project\\data\\Données database\\Données database";
-        System.out.println("使用数据目录: " + dataDir);
+        System.out.println("Répertoire utilisé : " + dataDir);
 
-        // 同时尝试其他可能的路径格式
+        // Autres chemins possibles
         String[] possiblePaths = {
                 "C:\\Users\\sincerely\\Desktop\\EAU\\water-quality-project\\data\\Données database\\Données database",
                 "C:/Users/sincerely/Desktop/EAU/water-quality-project/data/Données database/Données database",
@@ -31,77 +31,77 @@ public class ImportWaterData {
         File dataDirFile = null;
         for (String path : possiblePaths) {
             File testFile = new File(path);
-            System.out.println("检查路径: " + path);
-            System.out.println("  是否存在: " + testFile.exists());
-            System.out.println("  是目录: " + testFile.isDirectory());
+            System.out.println("Vérification du chemin : " + path);
+            System.out.println("  Existe : " + testFile.exists());
+            System.out.println("  Est un répertoire : " + testFile.isDirectory());
 
             if (testFile.exists() && testFile.isDirectory()) {
                 dataDirFile = testFile;
                 dataDir = path;
-                System.out.println("✅ 找到有效路径: " + path);
+                System.out.println("Répertoire trouvé : " + path);
                 break;
             }
         }
 
         if (dataDirFile == null) {
-            System.out.println("❌ 错误: 无法找到数据目录!");
-            System.out.println("请检查数据文件是否在正确的位置。");
-            System.out.println("预期位置: C:\\Users\\sincerely\\Desktop\\EAU\\water-quality-project\\data\\Données database\\Données database");
+            System.out.println("Erreur : répertoire des données introuvable.");
+            System.out.println("Vérifiez l'emplacement des fichiers.");
+            System.out.println("Emplacement attendu : C:\\Users\\sincerely\\Desktop\\EAU\\water-quality-project\\data\\Données database\\Données database");
             return;
         }
 
-        System.out.println("✅ 数据目录验证通过: " + dataDir);
+        System.out.println("Répertoire des données validé : " + dataDir);
 
         try {
-            // 1. 连接数据库（与 DatabaseConnection.java 一致：DB_URL 或默认 localhost:3307 = Docker MySQL）
+            // 1. Connexion BDD (comme DatabaseConnection : DB_URL ou localhost:3307 par défaut)
             Connection conn = DatabaseConnection.getConnection();
             conn.setAutoCommit(false);
 
             String url = conn.getMetaData().getURL();
-            System.out.println("数据库连接成功! " + (url.contains("3307") ? "(Docker MySQL)" : url));
+            System.out.println("Connexion BDD OK " + (url.contains("3307") ? "(Docker MySQL)" : url));
 
-            // 2. 导入 communes 数据
+            // 2. Import des communes
             importCommunes(conn, dataDir + File.separator + "Table communes");
 
-            // 3. 导入 prelevements 数据
+            // 3. Import des prélèvements
             importPrelevements(conn, dataDir + File.separator + "Table prelevements");
 
-            // 4. 导入 resultats 数据
+            // 4. Import des resultats
             importResultats(conn, dataDir + File.separator + "Table resultats");
 
-            // 5. 提交事务
+            // 5. Commit
             conn.commit();
             conn.close();
 
-            System.out.println("ETL处理完成!");
-            System.out.println("注意: 如果没有显示导入行数，可能没有找到数据文件或数据已存在。");
+            System.out.println("ETL terminé.");
+            System.out.println("Si aucun nombre de lignes n'est affiché, les fichiers sont peut-être absents ou les données déjà présentes.");
 
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("数据导入失败!");
+            System.out.println("Échec de l'import.");
         }
     }
 
-    // 导入 communes 数据
+    // Import des communes
     private static void importCommunes(Connection conn, String folderPath) throws Exception {
-        System.out.println("导入 communes 数据...");
-        System.out.println("文件夹路径: " + folderPath);
+        System.out.println("Import des communes...");
+        System.out.println("Dossier : " + folderPath);
 
         File folder = new File(folderPath);
-        System.out.println("文件夹是否存在: " + folder.exists());
-        System.out.println("是目录: " + folder.isDirectory());
+        System.out.println("Dossier existe : " + folder.exists());
+        System.out.println("Est un répertoire : " + folder.isDirectory());
 
         File[] files = folder.listFiles((dir, name) -> name.endsWith(".txt"));
 
         if (files == null) {
-            System.out.println("文件夹为空或无法访问");
+            System.out.println("Dossier vide ou inaccessible.");
             return;
         }
 
-        System.out.println("找到文件数量: " + files.length);
+        System.out.println("Nombre de fichiers : " + files.length);
 
         if (files.length == 0) {
-            System.out.println("未找到 communes 数据文件!");
+            System.out.println("Aucun fichier communes trouvé.");
             return;
         }
 
@@ -112,7 +112,7 @@ public class ImportWaterData {
         int totalCount = 0;
 
         for (File file : files) {
-            System.out.println("处理文件: " + file.getName());
+            System.out.println("Fichier : " + file.getName());
             int fileCount = 0;
 
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
@@ -154,18 +154,18 @@ public class ImportWaterData {
         }
 
         pstmt.close();
-        System.out.println("Communes 数据导入完成: 总共 " + totalCount + " 行");
+        System.out.println("Import communes terminé : " + totalCount + " lignes au total.");
     }
 
-    // 导入 prelevements 数据
+    // Import des prélèvements
     private static void importPrelevements(Connection conn, String folderPath) throws Exception {
-        System.out.println("导入 prelevements 数据...");
+        System.out.println("Import des prélèvements...");
 
         File folder = new File(folderPath);
         File[] files = folder.listFiles((dir, name) -> name.endsWith(".txt"));
 
         if (files == null || files.length == 0) {
-            System.out.println("未找到 prelevements 数据文件!");
+            System.out.println("Aucun fichier prélèvements trouvé.");
             return;
         }
 
@@ -180,17 +180,17 @@ public class ImportWaterData {
         int totalCount = 0;
 
         for (File file : files) {
-            System.out.println("处理文件: " + file.getName());
+            System.out.println("Fichier : " + file.getName());
             int fileCount = 0;
 
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
-                br.readLine(); // 跳过表头
+                br.readLine(); // Ignorer l'en-tête
 
                 String line;
                 while ((line = br.readLine()) != null) {
                     if (line.trim().isEmpty()) continue;
 
-                    // 解析 CSV 行（处理引号内的逗号）
+                    // Parser la ligne CSV (virgules dans les guillemets)
                     String[] parts = parseCSVLine(line);
                     if (parts.length < 8) continue;
 
@@ -203,13 +203,13 @@ public class ImportWaterData {
                     String refBact = parts.length > 6 ? cleanValue(parts[6]) : "";
                     String refChim = parts.length > 7 ? cleanValue(parts[7]) : "";
 
-                    // 只取第一个字符（数据库是 CHAR(1)）
+                    // Premier caractère uniquement (BD CHAR(1))
                     bacterio = bacterio.length() > 0 ? String.valueOf(bacterio.charAt(0)) : "";
                     chimique = chimique.length() > 0 ? String.valueOf(chimique.charAt(0)) : "";
                     refBact = refBact.length() > 0 ? String.valueOf(refBact.charAt(0)) : "";
                     refChim = refChim.length() > 0 ? String.valueOf(refChim.charAt(0)) : "";
 
-                    // 设置参数
+                    // Paramètres
                     pstmt.setString(1, codeInsee);
                     pstmt.setString(2, referenceprel);
                     pstmt.setString(3, dateprel);
@@ -222,33 +222,33 @@ public class ImportWaterData {
                     pstmt.executeUpdate();
                     fileCount++;
 
-                    // 每1000条提交一次
+                    // Commit tous les 1000 enregistrements
                     if (fileCount % 1000 == 0) {
                         conn.commit();
                     }
                 }
 
-                conn.commit(); // 提交剩余的数据
+                conn.commit(); // Reste des données
                 totalCount += fileCount;
-                System.out.println("  导入 " + fileCount + " 行");
+                System.out.println("  Importé " + fileCount + " lignes");
 
             } catch (Exception e) {
-                System.out.println("处理文件 " + file.getName() + " 时出错: " + e.getMessage());
+                System.out.println("Erreur sur le fichier " + file.getName() + " : " + e.getMessage());
                 e.printStackTrace();
             }
         }
 
         pstmt.close();
-        System.out.println("Prelevements 数据导入完成: 总共 " + totalCount + " 行");
+        System.out.println("Import prélèvements terminé : " + totalCount + " lignes au total.");
     }
 
-    // 导入 resultats 数据
+    // Import des resultats
     private static void importResultats(Connection conn, String folderPath) throws Exception {
-        System.out.println("导入 resultats 数据...");
+        System.out.println("Import des resultats...");
 
-        // 首先获取所有 prelevements 的映射
+        // Charger le mapping prelevements (referenceprel -> id)
         Map<String, Integer> prelevementMap = loadPrelevementMap(conn);
-        System.out.println("加载了 " + prelevementMap.size() + " 个 prelevements 映射");
+        System.out.println("Mapping prélèvements chargé : " + prelevementMap.size() + " entrées.");
 
         File folder = new File(folderPath);
         File[] files = folder.listFiles((dir, name) -> name.endsWith(".txt"));
@@ -265,7 +265,7 @@ public class ImportWaterData {
         int skippedCount = 0;
 
         for (File file : files) {
-            System.out.println("处理文件: " + file.getName());
+            System.out.println("Fichier : " + file.getName());
             int fileCount = 0;
             int fileSkipped = 0;
 

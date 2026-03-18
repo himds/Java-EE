@@ -10,16 +10,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 提供基于名称的城市搜索，用于前端自动补全。
+ * Recherche de communes par nom pour l'autocomplétion côté front.
  */
 public class SearchService {
 
     /**
-     * 按城市名称模糊搜索 communes，返回最多 30 条。
+     * Recherche floue par nom de commune, au plus 30 résultats.
      *
-     * @param query 用户输入，例如 "rou"
-     * @return 匹配的城市列表
-     * @throws Exception SQL 或连接异常
+     * @param query saisie utilisateur (ex. "rou")
+     * @return liste des communes correspondantes
+     * @throws Exception en cas d'erreur SQL ou de connexion
      */
     public List<Commune> searchCommunesByName(String query) throws Exception {
         List<Commune> result = new ArrayList<>();

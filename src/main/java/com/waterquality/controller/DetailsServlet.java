@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * GET /api/details/{prelevementId} → 根据 referenceprel 对应 prélèvement 返回分析列表：
+ * GET /api/details/{prelevementId} → retourne la référence du prélèvement et la liste des analyses :
  * { "referenceprel": "...", "analyses": [ { "parametre", "valeurMesuree", "limiteLegale" }, ... ] }
  */
 @WebServlet("/api/details/*")

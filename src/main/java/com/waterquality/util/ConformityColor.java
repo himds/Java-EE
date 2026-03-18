@@ -1,8 +1,9 @@
 package com.waterquality.util;
 
 /**
- * 根据 Prelevement 四个合规字段计算显示颜色与状态文案。
- * 规则：全部合格→绿；健康合格且指标异常→黄；细菌OK且化学不OK→橙；无数据→灰；否则→红。
+ * Calcule la couleur d'affichage et le libellé de statut à partir des quatre champs de conformité du prélèvement.
+ * Règles : tout conforme → vert ; conformité santé + indicateur(s) anormal(aux) → jaune ;
+ * bactério OK et chimie non OK → orange ; aucune donnée → gris ; sinon → rouge.
  */
 public final class ConformityColor {
 
@@ -20,8 +21,8 @@ public final class ConformityColor {
     }
 
     /**
-     * 根据四个合规字段返回 [颜色十六进制, 状态文案]。
-     * 无数据（四个均为 null/空）时返回灰色。
+     * Retourne [couleur hexadécimale, libellé de statut] à partir des quatre champs.
+     * Retourne gris si aucune donnée (tous null ou vides).
      */
     public static String[] fromPrelevement(String bacterio, String chimique, String refBact, String refChim) {
         boolean b = isConforme(bacterio);

@@ -14,7 +14,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 
 /**
- * /api/search?q=rou → 返回城市列表（用于前端自动补全）。
+ * GET /api/search?q=rou → retourne la liste des communes (pour l'autocomplétion côté front).
  */
 @WebServlet("/api/search")
 public class SearchServlet extends HttpServlet {
@@ -32,7 +32,7 @@ public class SearchServlet extends HttpServlet {
             return;
         }
 
-        // 防止编码问题
+        // Éviter les problèmes d'encodage
         String q = URLDecoder.decode(rawQuery, StandardCharsets.UTF_8.name());
 
         try {
@@ -54,7 +54,7 @@ public class SearchServlet extends HttpServlet {
             sb.append("{\"codeInsee\":\"").append(escapeJson(c.getCodeInsee()))
               .append("\",\"nomCommune\":\"").append(escapeJson(c.getNomCommune()))
               .append("\",\"departement\":\"").append(escapeJson(c.getDepartement()))
-              // latitude / longitude 目前由前端通过 GeoJSON 质心计算，所以先返回 null
+              // latitude / longitude calculées côté front à partir du GeoJSON (centroïde), donc null ici
               .append("\",\"latitude\":null,\"longitude\":null}");
         }
         return sb.append(']').toString();

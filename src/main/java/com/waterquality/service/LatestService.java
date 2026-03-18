@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 按 code_insee 查询该市镇最新一条 prélèvement，并计算 color/status。
+ * Récupère le dernier prélèvement d'une commune par code_insee et calcule color/status.
  */
 public class LatestService {
 
@@ -27,10 +27,10 @@ public class LatestService {
         "SELECT c.code_insee, c.nom_commune, c.departement FROM communes c WHERE c.code_insee = ?";
 
     /**
-     * 返回该市镇最新 prélèvement 及（用于展示的）commune 信息。
-     * 若没有 prélèvement，commune 仍有值但 prelevement 为 null。
-     * @return Map: "commune" -> { codeInsee, nomCommune, departement, status, color },
-     *             "prelevement" -> { id, dateprel, referenceprel, color } 或 null
+     * Retourne le dernier prélèvement de la commune et les infos commune (pour l'affichage).
+     * Sans prélèvement, commune est renseigné mais prelevement est null.
+     * @return Map : "commune" -> { codeInsee, nomCommune, departement, status, color },
+     *               "prelevement" -> { id, dateprel, referenceprel, color } ou null
      */
     public Map<String, Object> getLatestByCodeInsee(String codeInsee) throws Exception {
         Map<String, Object> out = new HashMap<>();

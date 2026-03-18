@@ -12,12 +12,13 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 为地图提供市镇列表及按最新 prélèvement 四字段计算的颜色/状态。
+ * Fournit la liste des communes et la couleur/statut calculés à partir du dernier prélèvement (quatre champs).
  */
 public class MapDataService {
 
     /**
-     * 查询所有市镇及其最新 prélèvement 的四个合规字段，计算 color/status，返回供前端地图使用的 features。
+     * Récupère toutes les communes et les quatre champs de conformité du dernier prélèvement,
+     * calcule color/status, retourne les features pour la carte front.
      */
     public List<Map<String, Object>> getMapFeatures() throws Exception {
         String sql =

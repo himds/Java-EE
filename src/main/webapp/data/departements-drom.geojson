@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "code": "971", "nom": "Guadeloupe" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-61.9, 15.7], [-60.9, 15.7], [-60.9, 16.6], [-61.9, 16.6], [-61.9, 15.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "972", "nom": "Martinique" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-61.35, 14.25], [-60.75, 14.25], [-60.75, 14.95], [-61.35, 14.95], [-61.35, 14.25]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "973", "nom": "Guyane" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-54.9, 2.0], [-51.3, 2.0], [-51.3, 6.1], [-54.9, 6.1], [-54.9, 2.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "974", "nom": "La Réunion" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[55.15, -21.45], [55.95, -21.45], [55.95, -20.8], [55.15, -20.8], [55.15, -21.45]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "code": "976", "nom": "Mayotte" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[45.0, -13.1], [45.4, -13.1], [45.4, -12.45], [45.0, -12.45], [45.0, -13.1]]]
+      }
+    }
+  ]
+}

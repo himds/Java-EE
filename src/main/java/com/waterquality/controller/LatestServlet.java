@@ -11,8 +11,9 @@ import java.io.IOException;
 import java.util.Map;
 
 /**
- * GET /api/latest/{codeInsee} → 返回该市镇最新 prélèvement 及 commune 信息，供右侧面板与地图着色使用。
- * 响应: { "commune": { codeInsee, nomCommune, departement, status, color }, "prelevement": { id, dateprel, referenceprel, color } | null }
+ * GET /api/latest/{codeInsee} → retourne le dernier prélèvement de la commune et les infos commune
+ * (panneau droit et coloration carte).
+ * Réponse : { "commune": { codeInsee, nomCommune, departement, status, color }, "prelevement": { id, dateprel, referenceprel, color } | null }
  */
 @WebServlet("/api/latest/*")
 public class LatestServlet extends HttpServlet {

@@ -1,16 +1,16 @@
 package com.waterquality.model;
 
 /**
- * 检测指标结果 — 对应表 resultats_analyses
- * 关系: prelevement (1) —— (N) resultat_analyse
+ * Résultat d'analyse — correspond à la table resultats_analyses.
+ * Relation : prelevement (1) —— (N) resultat_analyse.
  */
 public class ResultatAnalyse {
 
-    private Integer id;              // PK, 自增
-    private Integer prelevementId;    // 检测ID → prelevements.id
-    private String parametre;        // 指标名称 (libmajparametre)
-    private Double valeurMesuree;    // 测量值 (valtraduite)
-    private Double limiteLegale;     // 标准值 (limitequal)，表中列为 limite_legale
+    private Integer id;              // PK, auto-incrémenté
+    private Integer prelevementId;   // ID prélèvement → prelevements.id
+    private String parametre;        // Nom du paramètre (libmajparametre)
+    private Double valeurMesuree;    // Valeur mesurée (valtraduite)
+    private Double limiteLegale;     // Limite légale (limitequal), colonne limite_legale
 
     public ResultatAnalyse() {}
 

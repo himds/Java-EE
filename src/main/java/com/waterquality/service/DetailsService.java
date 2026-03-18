@@ -12,14 +12,14 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * 根据 prélèvement（id 或 referenceprel）查询对应的 resultats_analyses，
- * 返回 referenceprel 及 parametre, valeurMesuree, limiteLegale。
+ * Récupère les resultats_analyses associés à un prélèvement (par id),
+ * retourne referenceprel et pour chaque analyse : parametre, valeurMesuree, limiteLegale.
  */
 public class DetailsService {
 
     /**
-     * 按 prelevement_id 查询 referenceprel 与所有分析结果。
-     * @return [0]=referenceprel, [1]=List of ResultatAnalyse
+     * Récupère referenceprel et toutes les analyses pour un prelevement_id.
+     * @return [0]=referenceprel, [1]=Liste de ResultatAnalyse
      */
     public Object[] getDetailsByPrelevementId(int prelevementId) throws Exception {
         String refSql = "SELECT referenceprel FROM prelevements WHERE id = ?";

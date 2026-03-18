@@ -1,13 +1,13 @@
 package com.waterquality.model;
 
 /**
- * 城市/地区 — 对应表 communes
+ * Commune — correspond à la table communes.
  */
 public class Commune {
 
-    private String codeInsee;    // 城市ID (INSEE), PK
-    private String nomCommune;    // 城市名称
-    private String departement;   // 部门编号 (cddept)
+    private String codeInsee;    // Code INSEE (PK)
+    private String nomCommune;   // Nom de la commune
+    private String departement;  // Code département (cddept)
 
     public Commune() {}
 

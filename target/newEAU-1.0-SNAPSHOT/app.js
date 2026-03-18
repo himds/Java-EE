@@ -12,6 +12,8 @@ const API_BASE = (() => {
 })();
 const COMMUNES_GEOJSON_URL = './data/communes.geojson';
 const DEPARTMENTS_GEOJSON_URL = './data/departements.geojson';
+const COMMUNES_DROM_GEOJSON_URL = './data/communes-drom.geojson';
+const DEPARTMENTS_DROM_GEOJSON_URL = './data/departements-drom.geojson';
 const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([46.5, 2.5], 6);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -41,6 +43,7 @@ const analysisReference = document.getElementById('analysis-reference');
 const legendToggle = document.getElementById('legend-toggle');
 const legendBody = document.getElementById('legend-body');
 const legendArrow = document.getElementById('legend-arrow');
+const colorblindToggle = document.getElementById('colorblind-toggle');
 const statusBadge = document.getElementById('status-badge');
 const metricView = document.getElementById('metric-view');
 const metricSamples = document.getElementById('metric-samples');
@@ -49,6 +52,24 @@ const territoryIconBtns = document.querySelectorAll('.territory-icon-btn');
 
 let currentSearchItems = [];
 let zoneFallbackMode = 'departments';
+let colorblindMode = false;
+
+const COLORBLIND_MAP = {
+  '#9ca3af': '#9ca3af',
+  '#22c55e': '#56B4E9',
+  '#eab308': '#F0E442',
+  '#facc15': '#F0E442',
+  '#f97316': '#E69F00',
+  '#ef4444': '#D55E00',
+  '#e11d48': '#D55E00',
+  '#cbd5e1': '#9ca3af'
+};
+
+function resolveDisplayColor(hex) {
+  if (!hex || !colorblindMode) return hex || '#cbd5e1';
+  const h = (hex || '').toLowerCase();
+  return COLORBLIND_MAP[h] || hex;
+}
 
 const TERRITORY_VIEWS = {
   metro: [[41.0, -5.8], [51.7, 9.8]],
@@ -128,6 +149,16 @@ legendToggle.addEventListener('click', () => {
   legendArrow.textContent = collapsed ? '▸' : '▾';
 });
 
+if (colorblindToggle) {
+  colorblindToggle.addEventListener('change', async () => {
+    colorblindMode = colorblindToggle.checked;
+    if (legendBody) legendBody.classList.toggle('colorblind', colorblindMode);
+    document.body.classList.toggle('colorblind', colorblindMode);
+    setStatusBadge(lastStatusBadgeText, lastStatusBadgeColor);
+    await refreshMapColors();
+  });
+}
+
 function queryString(extra = {}) {
   const params = new URLSearchParams();
   Object.entries(extra).forEach(([key, value]) => {
@@ -138,16 +169,23 @@ function queryString(extra = {}) {
 }
 
 function badgeClassFromColor(color) {
-  if (color === '#22c55e') return 'green';
-  if (color === '#facc15') return 'yellow';
-  if (color === '#f97316') return 'orange';
-  if (color === '#e11d48') return 'red';
+  const c = (color || '').toLowerCase();
+  if (c === '#22c55e' || c === '#56b4e9') return 'green';
+  if (c === '#facc15' || c === '#eab308' || c === '#f0e442') return 'yellow';
+  if (c === '#f97316' || c === '#e69f00') return 'orange';
+  if (c === '#e11d48' || c === '#ef4444' || c === '#d55e00') return 'red';
   return 'neutral';
 }
 
+let lastStatusBadgeText = '';
+let lastStatusBadgeColor = '';
+
 function setStatusBadge(text, color) {
-  statusBadge.className = `status-badge ${badgeClassFromColor(color)}`;
-  statusBadge.textContent = text || 'Aucune donnée';
+  lastStatusBadgeText = text || 'Aucune donnée';
+  lastStatusBadgeColor = color;
+  const displayColor = resolveDisplayColor(color);
+  statusBadge.className = `status-badge ${badgeClassFromColor(displayColor)}`;
+  statusBadge.textContent = lastStatusBadgeText;
 }
 
 function renderRegionPopup(feature) {
@@ -298,15 +336,43 @@ async function showRegionDetails(feature) {
 
 async function ensureCommunesGeoJson() {
   if (communesGeoJson) return communesGeoJson;
-  const response = await fetch(COMMUNES_GEOJSON_URL);
-  communesGeoJson = await response.json();
+  const features = [];
+  try {
+    const r = await fetch(COMMUNES_GEOJSON_URL);
+    if (r.ok) {
+      const data = await r.json();
+      features.push(...(data.features || []));
+    }
+  } catch (e) { /* ignore */ }
+  try {
+    const r = await fetch(COMMUNES_DROM_GEOJSON_URL);
+    if (r.ok) {
+      const data = await r.json();
+      features.push(...(data.features || []));
+    }
+  } catch (e) { /* ignore */ }
+  communesGeoJson = { type: 'FeatureCollection', features };
   return communesGeoJson;
 }
 
 async function ensureDepartmentsGeoJson() {
   if (departmentsGeoJson) return departmentsGeoJson;
-  const response = await fetch(DEPARTMENTS_GEOJSON_URL);
-  departmentsGeoJson = await response.json();
+  const features = [];
+  try {
+    const r = await fetch(DEPARTMENTS_GEOJSON_URL);
+    if (r.ok) {
+      const data = await r.json();
+      features.push(...(data.features || []));
+    }
+  } catch (e) { /* ignore */ }
+  try {
+    const r = await fetch(DEPARTMENTS_DROM_GEOJSON_URL);
+    if (r.ok) {
+      const data = await r.json();
+      features.push(...(data.features || []));
+    }
+  } catch (e) { /* ignore */ }
+  departmentsGeoJson = { type: 'FeatureCollection', features };
   return departmentsGeoJson;
 }
 
@@ -328,24 +394,26 @@ function getDepartmentCode(feature) {
   return normalizeCommuneCode(props.code || props.code_departement || props.id);
 }
 
-/** 从市镇 GeoJSON feature 得到部门代码（法国 mainland 为 code_insee 前 2 位） */
+/** 从市镇 GeoJSON feature 得到部门代码：本土 2 位（如 76），海外 DROM 3 位（如 971） */
 function getDepartmentFromCommuneFeature(feature) {
   const code = getCommuneCode(feature);
   const s = String(code).trim();
-  if (s.length >= 2) return s.slice(0, 2);
-  return s;
+  if (s.length < 2) return s;
+  if (s.length >= 3 && /^97|98/.test(s)) return s.slice(0, 3);
+  return s.slice(0, 2);
 }
 
-/** 统一为 2 位部门码，便于与 map-data 的 departement 匹配（如 "076" / "76" → "76"） */
+/** 统一部门码：本土 2 位（76），海外 DROM 保持 3 位（971, 972, 973, 974, 976） */
 function normalizeDepartmentCode(v) {
-  const s = String(v ?? '').trim();
+  const s = String(v ?? '').trim().replace(/^0+/, '');
   if (s.length === 0) return '';
-  const two = s.replace(/^0+/, '').slice(-2);
+  if (/^97|98/.test(s)) return s.length >= 3 ? s.slice(0, 3) : s.padStart(3, '0');
+  const two = s.slice(-2);
   return two.length >= 2 ? two : two.padStart(2, '0');
 }
 
 function createCommuneStyle(mapFeature) {
-  const color = mapFeature?.color || '#cbd5e1';
+  const color = resolveDisplayColor(mapFeature?.color || '#cbd5e1');
   return {
     color: '#ffffff',
     weight: 1.5,
@@ -357,7 +425,7 @@ function createCommuneStyle(mapFeature) {
 }
 
 function createCommuneHoverStyle(mapFeature) {
-  const color = mapFeature?.color || '#cbd5e1';
+  const color = resolveDisplayColor(mapFeature?.color || '#cbd5e1');
   return {
     color: '#0f172a',
     weight: 2.2,
@@ -570,7 +638,8 @@ async function showCommunesForDepartment(deptCode) {
   if (communeFeatures.length === 0) return;
 
   const featuresForDept = allMapDataFeatures.filter(item => {
-    const itemDept = normalizeDepartmentCode(item.departement || (item.id && String(item.id).trim().slice(0, 2)) || '');
+    const raw = item.departement || (item.id && getDepartmentFromCommuneFeature({ properties: { code: item.id } })) || '';
+    const itemDept = normalizeDepartmentCode(raw);
     return itemDept === normalizedDept;
   });
   const featureMap = new Map(featuresForDept.map(item => [normalizeCommuneCode(item.id), item]));
@@ -591,6 +660,16 @@ async function showCommunesForDepartment(deptCode) {
   }).addTo(map);
 
   try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
+}
+
+async function refreshMapColors() {
+  const greyDept = { color: '#9ca3af', status: 'Aucune donnée', sampleCount: 0 };
+  if (departmentLayer) {
+    departmentLayer.eachLayer(l => l.setStyle(createCommuneStyle(greyDept)));
+  }
+  if (choroplethLayer && openDepartmentCode) {
+    await showCommunesForDepartment(openDepartmentCode);
+  }
 }
 
 async function renderDepartmentsFallback(features) {
@@ -866,18 +945,11 @@ function applyTerritoryView(territoryKey) {
   detailHeading.textContent = 'Territoire';
   const isDrom = DROM_KEYS.includes(territoryKey);
   clearDromCardLayer();
+  clearCommuneLayer();
   if (isDrom) {
     const name = DROM_LABELS[territoryKey] || territoryKey;
-    dromCardLayer = L.rectangle(bounds, {
-      color: '#64748b',
-      fillColor: '#94a3b8',
-      fillOpacity: 0.35,
-      weight: 2,
-      dashArray: '6,4'
-    }).addTo(map);
-    dromCardLayer.bindPopup(`<strong>${escapeHtml(name)}</strong><br>La carte détaillée (communes/départements) n'est pas encore disponible pour ce territoire.`);
-    communeMeta.textContent = `Vue : ${name}. La couche détaillée par commune n'est pas encore disponible pour les DROM.`;
-    analysisList.innerHTML = '<li>Données détaillées à venir pour ce territoire.</li>';
+    communeMeta.textContent = `Vue : ${name}. Cliquez sur un département pour afficher les communes (si les données GeoJSON incluent ce territoire).`;
+    analysisList.innerHTML = '<li>Cliquez sur un département dans la zone pour afficher les communes et les analyses.</li>';
   } else {
     communeMeta.textContent = `Vue : ${label}. Utilisez le zoom et cliquez sur une zone pour afficher sa fiche.`;
     analysisList.innerHTML = '<li>Raccourci de navigation territoriale.</li>';

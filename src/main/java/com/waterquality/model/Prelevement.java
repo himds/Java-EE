@@ -3,21 +3,21 @@ package com.waterquality.model;
 import java.time.LocalDate;
 
 /**
- * 水样检测记录 — 对应表 prelevements
- * 关系: commune (1) —— (N) prelevement
+ * Prélèvement d'eau — correspond à la table prelevements.
+ * Relation : commune (1) —— (N) prelevement.
  */
 public class Prelevement {
 
-    private Integer id;                    // PK, 自增
-    private String codeInsee;              // 城市ID → communes.code_insee
-    private String referenceprel;          // 检测编号，唯一
-    private LocalDate dateprel;             // 检测日期
-    private String heureprel;              // 检测时间
-    private String conclusionprel;         // 检测结论
-    private String plvconformitebacterio;   // C/N bacterio
-    private String plvconformitechimique;   // C/N chimique
-    private String plvconformitereferencebact;  // C/N ref bacterio
-    private String plvconformitereferencechim; // C/N ref chimique
+    private Integer id;                    // PK, auto-incrémenté
+    private String codeInsee;              // Code INSEE → communes.code_insee
+    private String referenceprel;          // Référence du prélèvement (unique)
+    private LocalDate dateprel;            // Date du prélèvement
+    private String heureprel;              // Heure du prélèvement
+    private String conclusionprel;        // Conclusion du prélèvement
+    private String plvconformitebacterio;  // C/N bactériologie
+    private String plvconformitechimique;  // C/N chimique
+    private String plvconformitereferencebact;  // C/N référence bactériologie
+    private String plvconformitereferencechim;  // C/N référence chimique
 
     public Prelevement() {}
 

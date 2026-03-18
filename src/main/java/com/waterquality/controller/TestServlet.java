@@ -10,7 +10,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-/** 流程：浏览器 → Tomcat → @WebServlet → Service */
+/** Flux : navigateur → Tomcat → @WebServlet → Service */
 @WebServlet("/api/test")
 public class TestServlet extends HttpServlet {
 
