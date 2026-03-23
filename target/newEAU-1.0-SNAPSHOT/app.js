@@ -1,20 +1,21 @@
-// ========== 地图与数据库联动 ==========
-// 1. 前端：GeoJSON 仅提供几何（市镇边界），每个 feature 有 properties.code / code_insee（即 INSEE 代码）。
-// 2. 前端请求后端：GET /api/communes 或 GET /api/map-data → 后端从 DB 读取 communes + prelevements，按 code_insee 计算颜色。
-// 3. 前端用 GeoJSON 的 code_insee 与 API 返回的 id（codeInsee）匹配，对每个多边形应用后端返回的 color。
-// 结论：颜色 100% 来自数据库，无静态演示色；若后端/DB 不可用，地图全部显示灰色并提示。
-// ==========
+/**
+ * Carte qualité de l'eau — inspiration « Dans Mon Eau » (Générations Futures / Data For Good)
+ * https://dansmoneau.fr/ — carte par commune, couleurs = synthèse du contrôle sanitaire, clic → fiche détaillée.
+ */
 
-// 后端 API 根地址。本机 RunServer/Cargo 默认 8081；Docker 若映射到 8082 则用 embed.html?api=http://localhost:8082/water-quality/api
 const API_BASE = (() => {
   const params = new URLSearchParams(window.location.search);
   return params.get('api') || 'http://localhost:8081/water-quality/api';
 })();
 const COMMUNES_GEOJSON_URL = './data/communes.geojson';
-const DEPARTMENTS_GEOJSON_URL = './data/departements.geojson';
 const COMMUNES_DROM_GEOJSON_URL = './data/communes-drom.geojson';
-const DEPARTMENTS_DROM_GEOJSON_URL = './data/departements-drom.geojson';
-const map = L.map('map', { zoomControl: false, attributionControl: false }).setView([46.5, 2.5], 6);
+/** 仅初始中心/级别，之后不再程序性 setView / fitBounds（缩放平移全靠用户） */
+const map = L.map('map', {
+  zoomControl: false,
+  attributionControl: false,
+  center: [46.5, 2.5],
+  zoom: 6
+});
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   maxZoom: 19
@@ -22,15 +23,15 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
-let departmentLayer = null;   // 部门多边形，始终显示（在 zoom 足够时可见）
-let choroplethLayer = null;   // 当前展开部门的市镇多边形，仅一个部门展开时存在
+let choroplethLayer = null;   // 仅市镇面 choropleth（不加载省/部门 GeoJSON）
 let dromCardLayer = null;
 let communesGeoJson = null;
-let departmentsGeoJson = null;
-let allMapDataFeatures = []; // 初始 map-data 全部 features，用于按部门过滤
-let openDepartmentCode = null;
-const ZOOM_COMMUNE_THRESHOLD = 9; // 缩放低于此级别时只显示部门，不显示市镇
+let allMapDataFeatures = []; // map-data 全量（着色 + 侧栏列表）
 const appShell = document.querySelector('.app-shell');
+if (appShell) {
+  appShell.classList.add('no-transition');
+  setTimeout(() => appShell.classList.remove('no-transition'), 400);
+}
 const results = document.getElementById('results');
 const searchInput = document.getElementById('search');
 const sidePanel = document.getElementById('side-panel');
@@ -51,7 +52,6 @@ const detailHeading = document.getElementById('detail-heading');
 const territoryIconBtns = document.querySelectorAll('.territory-icon-btn');
 
 let currentSearchItems = [];
-let zoneFallbackMode = 'departments';
 let colorblindMode = false;
 
 const COLORBLIND_MAP = {
@@ -71,15 +71,6 @@ function resolveDisplayColor(hex) {
   return COLORBLIND_MAP[h] || hex;
 }
 
-const TERRITORY_VIEWS = {
-  metro: [[41.0, -5.8], [51.7, 9.8]],
-  guadeloupe: [[15.7, -61.9], [16.6, -60.9]],
-  martinique: [[14.25, -61.35], [14.95, -60.75]],
-  guyane: [[2.0, -54.9], [6.1, -51.3]],
-  reunion: [[-21.45, 55.15], [-20.8, 55.95]],
-  mayotte: [[-13.1, 45.0], [-12.45, 45.4]],
-  france_entiere: [[-21.5, -62], [51.7, 56]]
-};
 const DROM_KEYS = ['guadeloupe', 'martinique', 'guyane', 'reunion', 'mayotte'];
 const DROM_LABELS = { guadeloupe: 'Guadeloupe', martinique: 'Martinique', guyane: 'Guyane', reunion: 'La Réunion', mayotte: 'Mayotte' };
 
@@ -189,12 +180,18 @@ function setStatusBadge(text, color) {
 }
 
 function renderRegionPopup(feature) {
+  const accent = resolveDisplayColor(feature.color || '#cbd5e1');
+  const status = feature.status || 'Aucune donnée récente';
   return `
-    <div class="popup-region-card">
-      <div class="popup-region-title">${escapeHtml(feature.name)}</div>
-      <div class="popup-region-line">Statut: ${escapeHtml(feature.status || '—')}</div>
-      <div class="popup-region-line">Communes agrégées: ${feature.sampleCount ?? 0}</div>
-      <button type="button" class="popup-btn" data-region="${escapeHtml(feature.id)}">Voir la fiche</button>
+    <div class="water-popup">
+      <div class="water-popup-accent" style="background:${accent}"></div>
+      <div class="water-popup-inner">
+        <div class="water-popup-kicker">Qualité de l'eau potable</div>
+        <strong class="water-popup-title">${escapeHtml(feature.name)}</strong>
+        <p class="water-popup-status">${escapeHtml(status)}</p>
+        <p class="water-popup-note">Synthèse à partir du dernier prélèvement disponible en base (comme sur la carte nationale open data).</p>
+        <button type="button" class="popup-btn water-popup-cta" data-region="${escapeHtml(feature.id)}">Voir la fiche détaillée</button>
+      </div>
     </div>
   `;
 }
@@ -244,7 +241,8 @@ function setMetrics(viewText, sampleCount) {
 
 async function showCommuneDetails(city) {
   openPanel();
-  detailHeading.textContent = 'Commune';
+  analysisList.className = 'analysis-list';
+  detailHeading.textContent = 'Dernières analyses officielles';
   communeTitle.textContent = city.nomCommune;
   setMetrics('Commune', 1);
   communeMeta.textContent = `Code INSEE: ${city.codeInsee} · Département: ${city.departement ?? '—'} · Statut: ${city.status ?? '—'}`;
@@ -270,68 +268,38 @@ async function showCommuneDetails(city) {
   await loadAnalyses(prelevement.id);
 }
 
-async function focusOnCommuneOnMap(city) {
-  if (city.latitude != null && city.longitude != null) {
-    map.setView([city.latitude, city.longitude], 11);
-    return;
-  }
-  const geojson = await ensureCommunesGeoJson().catch(() => null);
-  if (!geojson || !Array.isArray(geojson.features)) return;
-  const targetCode = normalizeCommuneCode(city.codeInsee);
-  const feature = geojson.features.find(f => {
-    const code = getCommuneCode(f);
-    return normalizeCommuneCode(code) === targetCode;
-  });
-  if (!feature) return;
-  const center = centroidFromGeoFeature(feature);
-  if (center && Array.isArray(center) && center.length === 2) {
-    map.setView(center, 11);
-  }
-}
-
 async function showRegionDetails(feature) {
   openPanel();
-  detailHeading.textContent = zoneFallbackMode === 'communes' ? 'Commune' : 'Département';
+  analysisList.className = 'analysis-list';
+  detailHeading.textContent = 'Qualité de l\'eau — commune';
   communeTitle.textContent = feature.name;
-  setMetrics(zoneFallbackMode === 'communes' ? 'Choropleth communal' : 'Choropleth départemental', feature.sampleCount ?? 1);
-  communeMeta.textContent = zoneFallbackMode === 'communes'
-    ? `Code INSEE: ${feature.id ?? '—'} · Département: ${feature.departement ?? '—'} · Statut: ${feature.status ?? '—'}`
-    : `Département: ${feature.departement ?? '—'} · Statut: ${feature.status ?? '—'} · Communes agrégées: ${feature.sampleCount ?? 0}`;
+  setMetrics('Commune', feature.sampleCount ?? 1);
+  communeMeta.textContent = `Code INSEE: ${feature.id ?? '—'} · Département: ${feature.departement ?? '—'} · Statut: ${feature.status ?? '—'}`;
   setStatusBadge(feature.status, feature.color);
 
-  if (zoneFallbackMode === 'communes' && feature.id) {
-    analysisList.innerHTML = '<li>Chargement...</li>';
-    if (analysisReference) analysisReference.textContent = '';
-    try {
-      const response = await fetch(`${API_BASE}/latest/${encodeURIComponent(feature.id)}${queryString()}`);
-      const data = await response.json().catch(() => ({}));
-      const prelevement = data.prelevement;
-      if (prelevement && prelevement.id != null) {
-        communeMeta.textContent += ` · Dernier prélèvement: ${prelevement.dateprel ?? '—'}`;
-        setStatusBadge(prelevement.status || feature.status, prelevement.color);
-        await loadAnalyses(prelevement.id);
-      } else {
-        if (analysisReference) analysisReference.textContent = '';
-        analysisList.innerHTML = '<li>Aucun prélèvement trouvé pour cette commune.</li>';
-      }
-    } catch (e) {
-      if (analysisReference) analysisReference.textContent = '';
-      analysisList.innerHTML = `<li>Aucune analyse détaillée disponible.</li><li class="error-msg">${escapeHtml(e.message || 'Erreur réseau')}</li>`;
-    }
+  if (!feature.id) {
+    analysisList.innerHTML = '<li>Sélectionnez une commune sur la carte pour afficher les analyses.</li>';
     return;
   }
 
-  analysisList.innerHTML = zoneFallbackMode === 'communes'
-    ? `
-    <li>Zone coloriée à partir du fond communal France.</li>
-    <li>Département: ${feature.departement ?? '—'}.</li>
-    <li>Cette vue correspond à une carte choropleth par commune, sans routes ni fond OSM.</li>
-  `
-    : `
-    <li>Le fond communal est trop lourd ou n'a pas pu être affiché correctement.</li>
-    <li>Affichage de secours: carte départementale colorée.</li>
-    <li>Communes agrégées: ${feature.sampleCount ?? 0}.</li>
-  `;
+  analysisList.innerHTML = '<li>Chargement...</li>';
+  if (analysisReference) analysisReference.textContent = '';
+  try {
+    const response = await fetch(`${API_BASE}/latest/${encodeURIComponent(feature.id)}${queryString()}`);
+    const data = await response.json().catch(() => ({}));
+    const prelevement = data.prelevement;
+    if (prelevement && prelevement.id != null) {
+      communeMeta.textContent += ` · Dernier prélèvement: ${prelevement.dateprel ?? '—'}`;
+      setStatusBadge(prelevement.status || feature.status, prelevement.color);
+      await loadAnalyses(prelevement.id);
+    } else {
+      if (analysisReference) analysisReference.textContent = '';
+      analysisList.innerHTML = '<li>Aucun prélèvement trouvé pour cette commune.</li>';
+    }
+  } catch (e) {
+    if (analysisReference) analysisReference.textContent = '';
+    analysisList.innerHTML = `<li>Aucune analyse détaillée disponible.</li><li class="error-msg">${escapeHtml(e.message || 'Erreur réseau')}</li>`;
+  }
 }
 
 async function ensureCommunesGeoJson() {
@@ -355,27 +323,6 @@ async function ensureCommunesGeoJson() {
   return communesGeoJson;
 }
 
-async function ensureDepartmentsGeoJson() {
-  if (departmentsGeoJson) return departmentsGeoJson;
-  const features = [];
-  try {
-    const r = await fetch(DEPARTMENTS_GEOJSON_URL);
-    if (r.ok) {
-      const data = await r.json();
-      features.push(...(data.features || []));
-    }
-  } catch (e) { /* ignore */ }
-  try {
-    const r = await fetch(DEPARTMENTS_DROM_GEOJSON_URL);
-    if (r.ok) {
-      const data = await r.json();
-      features.push(...(data.features || []));
-    }
-  } catch (e) { /* ignore */ }
-  departmentsGeoJson = { type: 'FeatureCollection', features };
-  return departmentsGeoJson;
-}
-
 function normalizeCommuneCode(code) {
   if (code == null || code === '') return '';
   const s = String(code).trim();
@@ -387,29 +334,6 @@ function normalizeCommuneCode(code) {
 function getCommuneCode(feature) {
   const props = feature.properties || {};
   return normalizeCommuneCode(props.code || props.insee || props.code_insee || props.id);
-}
-
-function getDepartmentCode(feature) {
-  const props = feature.properties || {};
-  return normalizeCommuneCode(props.code || props.code_departement || props.id);
-}
-
-/** 从市镇 GeoJSON feature 得到部门代码：本土 2 位（如 76），海外 DROM 3 位（如 971） */
-function getDepartmentFromCommuneFeature(feature) {
-  const code = getCommuneCode(feature);
-  const s = String(code).trim();
-  if (s.length < 2) return s;
-  if (s.length >= 3 && /^97|98/.test(s)) return s.slice(0, 3);
-  return s.slice(0, 2);
-}
-
-/** 统一部门码：本土 2 位（76），海外 DROM 保持 3 位（971, 972, 973, 974, 976） */
-function normalizeDepartmentCode(v) {
-  const s = String(v ?? '').trim().replace(/^0+/, '');
-  if (s.length === 0) return '';
-  if (/^97|98/.test(s)) return s.length >= 3 ? s.slice(0, 3) : s.padStart(3, '0');
-  const two = s.slice(-2);
-  return two.length >= 2 ? two : two.padStart(2, '0');
 }
 
 function createCommuneStyle(mapFeature) {
@@ -452,9 +376,16 @@ function bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee) {
     color: '#9ca3af',
     sampleCount: 0
   };
+  const baseStyle = () => createCommuneStyle(featureData);
+  const hoverStyle = () => createCommuneHoverStyle(featureData);
 
-  // Popup 初始先展示（若无数据为灰），点击/打开时把 code_insee 回传后端查库算色并刷新
-  layer.bindPopup(renderRegionPopup(featureData));
+  // Popup type « fiche » (style carte nationale eau)
+  layer.bindPopup(renderRegionPopup(featureData), {
+    minWidth: 280,
+    maxWidth: 340,
+    className: 'leaflet-water-popup',
+    autoPanPadding: [12, 12]
+  });
   layer.on('click', async () => {
     if (!codeInsee) return showRegionDetails(featureData);
     try {
@@ -471,13 +402,13 @@ function bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee) {
     showRegionDetails(featureData);
   });
   layer.on('mouseover', () => {
-    layer.setStyle(createCommuneHoverStyle(featureData));
+    layer.setStyle(hoverStyle());
     if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
       layer.bringToFront();
     }
   });
   layer.on('mouseout', () => {
-    layer.setStyle(createCommuneStyle(featureData));
+    layer.setStyle(baseStyle());
   });
   layer.on('popupopen', () => {
     if (codeInsee) {
@@ -495,7 +426,7 @@ function bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee) {
         .catch(() => { });
     }
     setTimeout(() => {
-      const btn = document.querySelector(`.popup-btn[data-region="${CSS.escape(featureData.id)}"]`);
+      const btn = document.querySelector(`.water-popup-cta[data-region="${CSS.escape(String(featureData.id))}"]`);
       if (btn) btn.onclick = () => showRegionDetails(featureData);
     }, 0);
   });
@@ -510,14 +441,6 @@ function clearChoropleth() {
 
 function clearCommuneLayer() {
   clearChoropleth();
-  openDepartmentCode = null;
-}
-
-function clearDepartmentLayer() {
-  if (departmentLayer) {
-    map.removeLayer(departmentLayer);
-    departmentLayer = null;
-  }
 }
 
 async function renderCommunesChoropleth(features) {
@@ -558,169 +481,111 @@ async function renderCommunesChoropleth(features) {
       bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee);
     }
   }).addTo(map);
-
-  try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
-}
-
-function aggregateFeaturesByDepartment(features) {
-  const grouped = new Map();
-  for (const item of features) {
-    const key = (item.departement && String(item.departement).trim().slice(0, 2)) || (item.id && String(item.id).trim().slice(0, 2)) || '';
-    if (!key) continue;
-    const prev = grouped.get(key);
-    if (!prev) {
-      grouped.set(key, {
-        id: `dept-${key}`,
-        name: `Département ${key}`,
-        departement: key,
-        color: item.color || '#9ca3af',
-        status: item.status || 'Aucune donnée',
-        sampleCount: 1
-      });
-    } else {
-      prev.sampleCount += 1;
-      const severity = { '#e11d48': 4, '#f97316': 3, '#facc15': 2, '#22c55e': 1, '#9ca3af': 0 };
-      if ((severity[item.color] || 0) > (severity[prev.color] || 0)) {
-        prev.color = item.color;
-        prev.status = item.status;
-      }
-    }
-  }
-  return grouped;
-}
-
-/** 仅绘制部门层，初始全部灰色；点击某部门后展开该部门内的市镇并显示各市颜色 */
-async function renderDepartmentLayerOnly(features) {
-  const geojson = await ensureDepartmentsGeoJson();
-  const greyDept = { color: '#9ca3af', status: 'Aucune donnée', sampleCount: 0 };
-
-  clearDepartmentLayer();
-  departmentLayer = L.geoJSON(geojson, {
-    style: () => createCommuneStyle(greyDept),
-    onEachFeature: (geoFeature, layer) => {
-      const props = geoFeature.properties || {};
-      const deptCode = getDepartmentCode(geoFeature);
-      const dept2 = String(deptCode).trim().slice(-2);
-      const mapFeature = {
-        id: `dept-${dept2}`,
-        name: props.nom || `Département ${dept2}`,
-        departement: dept2,
-        status: 'Aucune donnée',
-        color: '#9ca3af',
-        sampleCount: 0
-      };
-      bindCommuneInteractions(layer, mapFeature, mapFeature.name);
-      layer.on('click', () => {
-        openDepartmentCode = dept2;
-        if (map.getZoom() >= ZOOM_COMMUNE_THRESHOLD) {
-          showCommunesForDepartment(dept2);
-        } else {
-          map.setZoom(ZOOM_COMMUNE_THRESHOLD);
-          map.once('zoomend', () => showCommunesForDepartment(dept2));
-        }
-      });
-    }
-  }).addTo(map);
-
-  try { map.fitBounds(departmentLayer.getBounds(), { padding: [20, 20] }); } catch { }
-}
-
-/** 只显示指定部门内的市镇，并用 allMapDataFeatures 的 color 为每个市镇上色（绿/黄/橙/红/灰）；同时只能有一个部门展开 */
-async function showCommunesForDepartment(deptCode) {
-  clearChoropleth();
-  zoneFallbackMode = 'communes';
-  const geojson = await ensureCommunesGeoJson();
-  const normalizedDept = normalizeDepartmentCode(deptCode);
-  const communeFeatures = (geojson.features || []).filter(f => {
-    const d = getDepartmentFromCommuneFeature(f);
-    return d === normalizedDept || normalizeDepartmentCode(d) === normalizedDept;
-  });
-  if (communeFeatures.length === 0) return;
-
-  const featuresForDept = allMapDataFeatures.filter(item => {
-    const raw = item.departement || (item.id && getDepartmentFromCommuneFeature({ properties: { code: item.id } })) || '';
-    const itemDept = normalizeDepartmentCode(raw);
-    return itemDept === normalizedDept;
-  });
-  const featureMap = new Map(featuresForDept.map(item => [normalizeCommuneCode(item.id), item]));
-
-  choroplethLayer = L.geoJSON({ type: 'FeatureCollection', features: communeFeatures }, {
-    style: geoFeature => {
-      const codeInsee = normalizeCommuneCode(getCommuneCode(geoFeature));
-      const mapFeature = featureMap.get(codeInsee);
-      return createCommuneStyle(mapFeature);
-    },
-    onEachFeature: (geoFeature, layer) => {
-      const props = geoFeature.properties || {};
-      const codeInsee = normalizeCommuneCode(getCommuneCode(geoFeature));
-      const mapFeature = featureMap.get(codeInsee);
-      const fallbackName = props.nom || props.name || `Commune ${codeInsee}`;
-      bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee);
-    }
-  }).addTo(map);
-
-  try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
+  try { choroplethLayer.bringToFront(); } catch { /* ignore */ }
 }
 
 async function refreshMapColors() {
-  const greyDept = { color: '#9ca3af', status: 'Aucune donnée', sampleCount: 0 };
-  if (departmentLayer) {
-    departmentLayer.eachLayer(l => l.setStyle(createCommuneStyle(greyDept)));
-  }
-  if (choroplethLayer && openDepartmentCode) {
-    await showCommunesForDepartment(openDepartmentCode);
-  }
-}
-
-async function renderDepartmentsFallback(features) {
-  const grouped = aggregateFeaturesByDepartment(features);
-  const geojson = await ensureDepartmentsGeoJson();
-  clearChoropleth();
-  choroplethLayer = L.geoJSON(geojson, {
-    style: geoFeature => {
-      const deptCode = getDepartmentCode(geoFeature);
-      const mapFeature = grouped.get(deptCode);
-      return createCommuneStyle(mapFeature);
-    },
-    onEachFeature: (geoFeature, layer) => {
-      const props = geoFeature.properties || {};
-      const deptCode = getDepartmentCode(geoFeature);
-      const mapFeature = grouped.get(deptCode) || {
-        id: `dept-${deptCode}`,
-        name: props.nom || `Département ${deptCode}`,
-        departement: deptCode,
-        status: 'Aucune donnée',
-        color: '#9ca3af',
-        sampleCount: 0
-      };
-      bindCommuneInteractions(layer, mapFeature, mapFeature.name);
-    }
-  }).addTo(map);
-  try { map.fitBounds(choroplethLayer.getBounds(), { padding: [20, 20] }); } catch { }
-}
-
-async function renderChoropleth(features) {
-  zoneFallbackMode = 'communes';
-  try {
-    await renderCommunesChoropleth(features);
-  } catch (error) {
-    console.warn('Commune choropleth failed, fallback to departments', error);
-    zoneFallbackMode = 'departments';
-    await renderDepartmentsFallback(features);
-  }
+  await renderCommunesChoropleth(allMapDataFeatures);
 }
 
 function centroidFromGeoFeature(geoFeature) {
   if (!geoFeature?.geometry?.coordinates) return null;
-  const coords = geoFeature.geometry.type === 'Polygon' ? geoFeature.geometry.coordinates[0] : geoFeature.geometry.coordinates;
-  if (!Array.isArray(coords) || coords.length === 0) return null;
+  const g = geoFeature.geometry;
+  let ring = null;
+  if (g.type === 'Polygon' && g.coordinates[0]) ring = g.coordinates[0];
+  else if (g.type === 'MultiPolygon' && g.coordinates[0]?.[0]) ring = g.coordinates[0][0];
+  if (!Array.isArray(ring) || ring.length === 0) return null;
   let sumLat = 0, sumLng = 0, n = 0;
-  for (const c of coords) {
+  for (const c of ring) {
     const lon = Array.isArray(c) ? c[0] : c;
     const lat = Array.isArray(c) ? c[1] : c;
     if (typeof lon === 'number' && typeof lat === 'number') { sumLng += lon; sumLat += lat; n++; }
   }
   return n ? [sumLat / n, sumLng / n] : null;
+}
+
+/** 搜索跳转：优先 API 坐标，否则市镇 GeoJSON 质心 */
+async function resolveCommuneLatLng(city) {
+  if (city.latitude != null && city.longitude != null) {
+    const lat = Number(city.latitude);
+    const lon = Number(city.longitude);
+    if (Number.isFinite(lat) && Number.isFinite(lon)) return [lat, lon];
+  }
+  const geojson = await ensureCommunesGeoJson().catch(() => null);
+  if (!geojson?.features?.length) return null;
+  const targetCode = normalizeCommuneCode(city.codeInsee);
+  const feature = geojson.features.find(f => normalizeCommuneCode(getCommuneCode(f)) === targetCode);
+  if (!feature) return null;
+  const c = centroidFromGeoFeature(feature);
+  return c && c.length === 2 ? c : null;
+}
+
+const SEARCH_RESULT_ZOOM = 12;
+
+/** 仅用于搜索选中：将地图中心移到该市镇（侧栏打开后 invalidateSize 再对齐一次） */
+async function focusSearchResultOnMap(city) {
+  const latlng = await resolveCommuneLatLng(city);
+  if (!latlng) return null;
+  map.setView(latlng, SEARCH_RESULT_ZOOM, { animate: true });
+  setTimeout(() => {
+    map.invalidateSize({ animate: false });
+    map.setView(latlng, SEARCH_RESULT_ZOOM, { animate: false });
+  }, 320);
+  return L.latLng(latlng[0], latlng[1]);
+}
+
+/**
+ * 搜索选中后在目标坐标打开与市镇多边形相同风格的弹窗（独立 L.popup，非图层绑定）
+ */
+async function openSearchResultMapPopup(pick, latlng) {
+  if (!latlng) return;
+  const featureData = {
+    id: pick.codeInsee,
+    name: pick.nomCommune,
+    departement: pick.departement,
+    status: pick.status || 'Aucune donnée',
+    color: pick.color || '#cbd5e1',
+    sampleCount: 1
+  };
+  if (pick.codeInsee) {
+    try {
+      const commune = await fetchCommuneFromBackend(pick.codeInsee);
+      featureData.id = commune.codeInsee || featureData.id;
+      featureData.name = commune.nomCommune || featureData.name;
+      featureData.departement = commune.departement || featureData.departement;
+      featureData.status = commune.status || featureData.status;
+      featureData.color = commune.color || featureData.color;
+    } catch { /* garder les données recherche */ }
+  }
+
+  const html = renderRegionPopup(featureData);
+  const popup = L.popup({
+    minWidth: 280,
+    maxWidth: 340,
+    className: 'leaflet-water-popup',
+    autoPanPadding: [12, 12],
+    autoPan: true,
+    closeButton: true
+  })
+    .setLatLng(latlng)
+    .setContent(html)
+    .openOn(map);
+
+  const wireCta = () => {
+    const btn = document.querySelector(
+      `.leaflet-popup-pane .water-popup-cta[data-region="${CSS.escape(String(featureData.id))}"]`
+    );
+    if (btn && !btn.dataset.wired) {
+      btn.dataset.wired = '1';
+      btn.onclick = () => {
+        map.closePopup();
+        showRegionDetails(featureData);
+      };
+    }
+  };
+
+  popup.on('add', () => setTimeout(wireCta, 0));
+  setTimeout(wireCta, 200);
 }
 
 function buildInseeToCentroidMap(geojson) {
@@ -810,15 +675,23 @@ function demoFeaturesFromGeoJson(geojson, limit = 800) {
 async function loadMap() {
   markerLayer.clearLayers();
   clearCommuneLayer();
-  clearDepartmentLayer();
+  allMapDataFeatures = [];
+
+  // 1) 先画全市镇轮廓（不等待 API），一打开页面就能看到所有城市
+  await renderCommunesChoropleth([]);
+  try {
+    const gj = await ensureCommunesGeoJson();
+    setMetrics('Communes', String((gj.features || []).length));
+  } catch { setMetrics('Communes', '—'); }
+
   if (!sidePanel.classList.contains('is-hidden')) {
-    communeTitle.textContent = 'Chargement...';
-    communeMeta.textContent = 'Récupération des données depuis l\'API.';
-    analysisList.innerHTML = '<li>Chargement en cours.</li>';
+    communeTitle.textContent = 'Carte communale';
+    communeMeta.textContent = 'Toutes les communes sont affichées. Chargement des couleurs depuis l\'API…';
+    analysisList.innerHTML = '<li>Chargement des données de qualité…</li>';
   }
 
   try {
-    const response = await fetch(`${API_BASE}/map-data${queryString({ mode: 'regions' })}`);
+    const response = await fetch(`${API_BASE}/map-data${queryString()}`);
     const mapData = await response.json().catch(() => null);
     if (!response.ok) {
       const msg = (mapData && (mapData.message || mapData.error)) || `HTTP ${response.status}`;
@@ -826,22 +699,29 @@ async function loadMap() {
     }
     const features = mapData.features || [];
     allMapDataFeatures = features;
-    zoneFallbackMode = 'departments';
-    await renderDepartmentLayerOnly(features);
+    await renderCommunesChoropleth(features);
+    setMetrics('Communes', String(features.length));
+    if (!sidePanel.classList.contains('is-hidden')) {
+      communeMeta.textContent = 'Couleurs à jour. Cliquez sur une commune pour la fiche.';
+    }
   } catch (error) {
-    console.warn('API map-data indisponible, carte en gris', error);
-    await ensureDepartmentsGeoJson();
-    await renderDepartmentsFallback([]);
-    openPanel();
-    communeTitle.textContent = 'Données base indisponibles';
-    detailHeading.textContent = 'Connexion BDD requise';
-    communeMeta.textContent = 'Démarrez le backend et MySQL pour afficher les données.';
-    setStatusBadge('Sans BDD', '#9ca3af');
-    analysisList.innerHTML = '<li><button type="button" class="popup-btn" id="check-connection-btn">Vérifier la connexion</button></li>';
-    document.getElementById('check-connection-btn')?.addEventListener('click', runConnectionCheck);
+    console.warn('API map-data indisponible, carte reste sur tous les contours communaux (sans couleurs API)', error);
+    allMapDataFeatures = [];
+    try {
+      const gj2 = await ensureCommunesGeoJson();
+      setMetrics('Communes', String((gj2.features || []).length));
+    } catch { setMetrics('Communes', '0'); }
+    if (!sidePanel.classList.contains('is-hidden')) {
+      communeTitle.textContent = 'Données base indisponibles';
+      detailHeading.textContent = 'Connexion BDD requise';
+      communeMeta.textContent = 'Les communes restent visibles en gris. Démarrez le backend et MySQL pour les couleurs.';
+      setStatusBadge('Sans BDD', '#9ca3af');
+      analysisList.innerHTML = '<li><button type="button" class="popup-btn" id="check-connection-btn">Vérifier la connexion</button></li>';
+      document.getElementById('check-connection-btn')?.addEventListener('click', runConnectionCheck);
+    }
   }
 
-  setMetrics('Département', '—');
+  requestAnimationFrame(() => { map.invalidateSize(); });
 }
 
 async function runSearch() {
@@ -857,20 +737,39 @@ async function runSearch() {
   if (!Array.isArray(data)) return;
   currentSearchItems = data;
 
+  const inner = document.createElement('div');
+  inner.className = 'dropdown-list';
+
   data.forEach(city => {
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'result-item';
     button.textContent = `${city.nomCommune} (${city.departement || 'N/A'})`;
+    button.title = 'Centrer la carte sur cette commune et ouvrir la fiche';
     button.onclick = async () => {
       results.innerHTML = '';
       results.classList.remove('has-items');
-      await focusOnCommuneOnMap(city);
-      showCommuneDetails(city);
+      searchInput.value = city.nomCommune || '';
+      const pick = {
+        codeInsee: city.codeInsee,
+        nomCommune: city.nomCommune,
+        departement: city.departement,
+        status: city.status,
+        color: city.color,
+        latitude: city.latitude,
+        longitude: city.longitude
+      };
+      openPanel();
+      const ll = await focusSearchResultOnMap(pick);
+      await new Promise(r => setTimeout(r, 340));
+      await openSearchResultMapPopup(pick, ll);
+      showCommuneDetails(pick);
     };
-    results.appendChild(button);
+    inner.appendChild(button);
   });
 
+  results.innerHTML = '';
+  results.appendChild(inner);
   if (data.length) results.classList.add('has-items');
 }
 
@@ -888,13 +787,7 @@ searchInput.addEventListener('input', () => {
   searchDebounce = setTimeout(runSearch, 300);
 });
 
-// 缩小到一定级别后只显示部门，隐藏市镇
-map.on('zoomend', () => {
-  if (map.getZoom() < ZOOM_COMMUNE_THRESHOLD) {
-    clearCommuneLayer();
-    zoneFallbackMode = 'departments';
-  }
-});
+// 全部市镇常驻显示，不再随缩放隐藏 choropleth
 
 // 全屏切换（地图容器）
 const mapContainer = document.getElementById('map');
@@ -934,10 +827,8 @@ function setTerritoryButtonSelected(territoryKey) {
   });
 }
 
-function applyTerritoryView(territoryKey) {
-  const bounds = TERRITORY_VIEWS[territoryKey];
-  if (!bounds) return;
-  map.fitBounds(bounds, { padding: [20, 20] });
+async function applyTerritoryView(territoryKey) {
+  if (!territoryKey || !TERRITORY_LABELS[territoryKey]) return;
   openPanel();
   setTerritoryButtonSelected(territoryKey);
   const label = TERRITORY_LABELS[territoryKey] || territoryKey;
@@ -946,13 +837,15 @@ function applyTerritoryView(territoryKey) {
   const isDrom = DROM_KEYS.includes(territoryKey);
   clearDromCardLayer();
   clearCommuneLayer();
+  // 始终重绘全市镇（有 API 则上色，无则浅色）
+  await renderCommunesChoropleth(allMapDataFeatures);
   if (isDrom) {
     const name = DROM_LABELS[territoryKey] || territoryKey;
-    communeMeta.textContent = `Vue : ${name}. Cliquez sur un département pour afficher les communes (si les données GeoJSON incluent ce territoire).`;
-    analysisList.innerHTML = '<li>Cliquez sur un département dans la zone pour afficher les communes et les analyses.</li>';
+    communeMeta.textContent = `Vue : ${name}. Zoomez et cliquez sur une commune pour voir la qualité de l'eau et les analyses.`;
+    analysisList.innerHTML = '<li>Les communes sont colorées selon le dernier contrôle sanitaire disponible en base.</li>';
   } else {
-    communeMeta.textContent = `Vue : ${label}. Utilisez le zoom et cliquez sur une zone pour afficher sa fiche.`;
-    analysisList.innerHTML = '<li>Raccourci de navigation territoriale.</li>';
+    communeMeta.textContent = `Vue : ${label}. Cliquez sur une commune pour ouvrir la fiche détaillée (comme sur la carte nationale).`;
+    analysisList.innerHTML = '<li>Navigation territoriale — la carte reste à l\'échelle communale.</li>';
   }
   setStatusBadge('Navigation', '#22c55e');
 }
@@ -960,17 +853,19 @@ function applyTerritoryView(territoryKey) {
 territoryIconBtns.forEach(btn => {
   btn.addEventListener('click', () => {
     const territory = btn.getAttribute('data-territory');
-    if (!territory || !TERRITORY_VIEWS[territory]) return;
-    applyTerritoryView(territory);
+    if (!territory || !TERRITORY_LABELS[territory]) return;
+    applyTerritoryView(territory).catch(() => { });
   });
 });
 
 loadMap().catch(err => {
   console.error('Erreur chargement carte', err);
-  openPanel();
-  communeTitle.textContent = 'Carte indisponible';
-  detailHeading.textContent = 'Erreur';
-  communeMeta.textContent = 'Le design et les filtres sont prêts, mais l\'API ne répond pas encore.';
-  setStatusBadge('Indisponible', '#9ca3af');
-  analysisList.innerHTML = '<li>Vérifie le backend et la base de données.</li>';
+  // Ne pas ouvrir automatiquement le panneau (index doit rester "fermé" par défaut).
+  if (!sidePanel.classList.contains('is-hidden')) {
+    communeTitle.textContent = 'Carte indisponible';
+    detailHeading.textContent = 'Erreur';
+    communeMeta.textContent = 'Le design et les filtres sont prêts, mais l\'API ne répond pas encore.';
+    setStatusBadge('Indisponible', '#9ca3af');
+    analysisList.innerHTML = '<li>Vérifie le backend et la base de données.</li>';
+  }
 });

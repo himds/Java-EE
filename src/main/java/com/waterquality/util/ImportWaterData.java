@@ -319,27 +319,27 @@ public class ImportWaterData {
                     pstmt.executeUpdate();
                     fileCount++;
 
-                    // 每1000条提交一次
+                    // Commit tous les 1000 enregistrements
                     if (fileCount % 1000 == 0) {
                         conn.commit();
                     }
                 }
 
-                conn.commit(); // 提交剩余的数据
+                conn.commit(); // Reste des données
                 totalCount += fileCount;
                 skippedCount += fileSkipped;
-                System.out.println("  导入 " + fileCount + " 行, 跳过 " + fileSkipped + " 行");
+                System.out.println("  Importé " + fileCount + " lignes, ignoré " + fileSkipped + " lignes");
 
             } catch (Exception e) {
-                System.out.println("处理文件 " + file.getName() + " 时出错: " + e.getMessage());
+                System.out.println("Erreur sur le fichier " + file.getName() + " : " + e.getMessage());
             }
         }
 
         pstmt.close();
-        System.out.println("Resultats 数据导入完成: 总共 " + totalCount + " 行, 跳过 " + skippedCount + " 行");
+        System.out.println("Import resultats terminé : " + totalCount + " lignes au total, " + skippedCount + " ignorées.");
     }
 
-    // 加载 prelevements 映射
+    // Charger le mapping prelevements (referenceprel -> id)
     private static Map<String, Integer> loadPrelevementMap(Connection conn) throws Exception {
         Map<String, Integer> map = new HashMap<>();
 
@@ -356,7 +356,7 @@ public class ImportWaterData {
         return map;
     }
 
-    // 解析 CSV 行（处理引号内的逗号）
+    // Parser une ligne CSV (virgules à l'intérieur des guillemets)
     private static String[] parseCSVLine(String line) {
         List<String> values = new ArrayList<>();
         StringBuilder current = new StringBuilder();
@@ -379,7 +379,7 @@ public class ImportWaterData {
         return values.toArray(new String[0]);
     }
 
-    // 清理值
+    // Nettoyer la valeur (trim, guillemets)
     private static String cleanValue(String value) {
         if (value == null) return null;
         String cleaned = value.trim();

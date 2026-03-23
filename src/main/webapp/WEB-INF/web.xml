@@ -5,5 +5,5 @@
          version="6.0"
          metadata-complete="false">
 
-    <!-- Tomcat 11：仅用 @WebServlet，流程 浏览器 → Tomcat → @WebServlet → Service -->
+    <!-- Tomcat 11 : servlets déclarées via @WebServlet uniquement ; flux : navigateur → Tomcat → @WebServlet → Service -->
 </web-app>

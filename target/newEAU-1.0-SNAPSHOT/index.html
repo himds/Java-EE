@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dans mon eau — démo</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body class="landing-body">
   <header class="site-header">
     <div class="brand">Dans mon eau</div>
@@ -20,10 +22,12 @@
     <div class="hero-copy">
       <div class="eyebrow">La transparence à portée de clic</div>
       <h1>Découvrez la qualité de l'eau autour de vous</h1>
-      <p>Une interface inspirée de dansmoneau.fr, mais adaptée à ton besoin réel : une carte administrative sans routes ni fond OSM, uniquement des zones colorées et leurs frontières, avec affichage de secours si la couche communale est trop lourde.</p>
+      <p>Interface inspirée de <a href="https://dansmoneau.fr/" target="_blank" rel="noopener">Dans Mon Eau</a> : carte
+        par commune, couleurs selon le contrôle sanitaire, clic pour la fiche et les analyses détaillées.</p>
       <div class="hero-actions">
         <a class="btn-primary" href="#map-frame">Ouvrir la carte</a>
-        <a class="btn-secondary" href="embed.html?api=http://localhost:8082/newEAU/api" target="_blank" rel="noopener">Carte (nouvel onglet)</a>
+        <a class="btn-secondary" href="embed.html?api=http://localhost:8082/newEAU/api" target="_blank"
+          rel="noopener">Carte (nouvel onglet)</a>
         <a class="btn-secondary" href="#about">Comprendre la lecture</a>
       </div>
     </div>
@@ -38,22 +42,28 @@
   </section>
 
   <section id="map-frame" class="frame-section">
-    <iframe class="map-iframe" src="embed.html?api=http://localhost:8082/newEAU/api" title="Carte de qualité de l'eau"></iframe>
+    <iframe class="map-iframe" src="embed.html?api=http://localhost:8082/newEAU/api"
+      title="Carte de qualité de l'eau"></iframe>
   </section>
 
   <section id="about" class="info-section">
     <div class="info-card">
       <h2>Comment lire cette carte</h2>
-      <p>La carte d'accueil charge une vue territoriale agrégée par département pour se rapprocher d'une logique UDI / zone de desserte. Tu peux ensuite basculer vers une vue détaillée par communes.</p>
+      <p>La carte d'accueil charge une vue territoriale agrégée par département pour se rapprocher d'une logique UDI /
+        zone de desserte. Tu peux ensuite basculer vers une vue détaillée par communes.</p>
     </div>
     <div class="info-card">
       <h2>France métropolitaine et outre-mer</h2>
-      <p>Comme sur <a href="https://dansmoneau.fr/" target="_blank" rel="noopener">dansmoneau.fr</a>, la carte couvre la <strong>métropole</strong> et les <strong>DROM</strong> : Guadeloupe, Martinique, Guyane, La Réunion, Mayotte. Utilisez le sélecteur « Territoires » pour zoomer sur chaque territoire.</p>
+      <p>Comme sur <a href="https://dansmoneau.fr/" target="_blank" rel="noopener">dansmoneau.fr</a>, la carte couvre la
+        <strong>métropole</strong> et les <strong>DROM</strong> : Guadeloupe, Martinique, Guyane, La Réunion, Mayotte.
+        Utilisez le sélecteur « Territoires » pour zoomer sur chaque territoire.</p>
     </div>
     <div class="info-card">
       <h2>Panneau détail</h2>
-      <p>Le panneau latéral présente un résumé visuel, le statut principal, les métadonnées du territoire ou de la commune, et la liste des analyses disponibles.</p>
+      <p>Le panneau latéral présente un résumé visuel, le statut principal, les métadonnées du territoire ou de la
+        commune, et la liste des analyses disponibles.</p>
     </div>
   </section>
 </body>
+
 </html>
