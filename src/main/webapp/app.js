@@ -9,7 +9,7 @@ const API_BASE = (() => {
 })();
 const COMMUNES_GEOJSON_URL = './data/communes.geojson';
 const COMMUNES_DROM_GEOJSON_URL = './data/communes-drom.geojson';
-/** 仅初始中心/级别，之后不再程序性 setView / fitBounds（缩放平移全靠用户） */
+/** Vue initiale uniquement ; ensuite aucun setView/fitBounds automatique (zoom/deplacement manuel). */
 const map = L.map('map', {
   zoomControl: false,
   attributionControl: false,
@@ -23,10 +23,10 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 
 const markerLayer = L.layerGroup().addTo(map);
-let choroplethLayer = null;   // 仅市镇面 choropleth（不加载省/部门 GeoJSON）
+let choroplethLayer = null;   // Couche choropleth communale uniquement (sans GeoJSON departemental).
 let dromCardLayer = null;
 let communesGeoJson = null;
-let allMapDataFeatures = []; // map-data 全量（着色 + 侧栏列表）
+let allMapDataFeatures = []; // Ensemble map-data (coloration + panneau lateral).
 const appShell = document.querySelector('.app-shell');
 if (appShell) {
   appShell.classList.add('no-transition');
@@ -412,7 +412,7 @@ function bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee) {
   });
   layer.on('popupopen', () => {
     if (codeInsee) {
-      // 打开 popup 时也刷新一次（避免首屏全灰但点击后才变色的体验）
+      // Rafraichit aussi a l'ouverture du popup (evite un premier affichage tout gris).
       fetchCommuneFromBackend(codeInsee)
         .then(commune => {
           featureData.id = commune.codeInsee || codeInsee;
@@ -445,7 +445,7 @@ function clearCommuneLayer() {
 
 async function renderCommunesChoropleth(features) {
   const geojson = await ensureCommunesGeoJson();
-  // featureMap: code_insee (id) -> { color, status, ... } 来自后端/数据库，前端仅按 id 匹配着色
+  // featureMap: code_insee (id) -> { color, status, ... } ; donnees backend/BDD, association par id cote front.
   const featureMap = new Map(features.map(item => [normalizeCommuneCode(item.id), item]));
 
   clearChoropleth();
@@ -464,7 +464,7 @@ async function renderCommunesChoropleth(features) {
       const mapFeature = featureMap.get(codeInsee);
       const fallbackName = props.nom || props.name || `Commune ${codeInsee}`;
 
-      // 从GeoJSON几何中获取中心点坐标
+      // Calcule un centre a partir de la geometrie GeoJSON.
       if (geoFeature.geometry && geoFeature.geometry.type === 'Polygon' && geoFeature.geometry.coordinates) {
         const coordinates = geoFeature.geometry.coordinates[0];
         let sumLat = 0, sumLng = 0;
@@ -475,7 +475,7 @@ async function renderCommunesChoropleth(features) {
         const centerLng = sumLng / coordinates.length;
         const centerLat = sumLat / coordinates.length;
 
-        // 如果需要点视图中心，前端会用 GeoJSON 质心；这里不再把坐标塞进后端对象
+        // Si un recentrage est necessaire, le front utilise le centroide GeoJSON ; pas d'injection dans l'objet backend.
       }
 
       bindCommuneInteractions(layer, mapFeature, fallbackName, codeInsee);
@@ -504,7 +504,7 @@ function centroidFromGeoFeature(geoFeature) {
   return n ? [sumLat / n, sumLng / n] : null;
 }
 
-/** 搜索跳转：优先 API 坐标，否则市镇 GeoJSON 质心 */
+/** Recentrage via recherche : priorite aux coordonnees API, sinon centroide GeoJSON communal. */
 async function resolveCommuneLatLng(city) {
   if (city.latitude != null && city.longitude != null) {
     const lat = Number(city.latitude);
@@ -522,7 +522,7 @@ async function resolveCommuneLatLng(city) {
 
 const SEARCH_RESULT_ZOOM = 12;
 
-/** 仅用于搜索选中：将地图中心移到该市镇（侧栏打开后 invalidateSize 再对齐一次） */
+/** Utilise uniquement apres selection de recherche : centre la carte sur la commune puis realigne apres invalidateSize. */
 async function focusSearchResultOnMap(city) {
   const latlng = await resolveCommuneLatLng(city);
   if (!latlng) return null;
@@ -535,7 +535,7 @@ async function focusSearchResultOnMap(city) {
 }
 
 /**
- * 搜索选中后在目标坐标打开与市镇多边形相同风格的弹窗（独立 L.popup，非图层绑定）
+ * Apres selection dans la recherche, ouvre un popup au point cible avec le meme style que les polygones communaux (L.popup independant).
  */
 async function openSearchResultMapPopup(pick, latlng) {
   if (!latlng) return;
@@ -677,7 +677,7 @@ async function loadMap() {
   clearCommuneLayer();
   allMapDataFeatures = [];
 
-  // 1) 先画全市镇轮廓（不等待 API），一打开页面就能看到所有城市
+  // 1) Dessine d'abord tous les contours communaux (sans attendre l'API) pour afficher immediatement toutes les villes.
   await renderCommunesChoropleth([]);
   try {
     const gj = await ensureCommunesGeoJson();
@@ -773,7 +773,7 @@ async function runSearch() {
   if (data.length) results.classList.add('has-items');
 }
 
-// 输入至少 3 个字符后触发搜索，防抖 300ms，保证 1.5s 内返回
+// Lance la recherche a partir de 3 caracteres, debounce 300 ms, retour attendu < 1.5 s.
 let searchDebounce = null;
 searchInput.addEventListener('input', () => {
   if (searchDebounce) clearTimeout(searchDebounce);
@@ -787,9 +787,9 @@ searchInput.addEventListener('input', () => {
   searchDebounce = setTimeout(runSearch, 300);
 });
 
-// 全部市镇常驻显示，不再随缩放隐藏 choropleth
+// Les communes restent toujours visibles ; le choropleth ne se masque plus selon le zoom.
 
-// 全屏切换（地图容器）
+// Bascule plein ecran (conteneur de carte)
 const mapContainer = document.getElementById('map');
 const fullscreenBtn = document.getElementById('fullscreen-btn');
 if (fullscreenBtn && mapContainer) {
@@ -837,7 +837,7 @@ async function applyTerritoryView(territoryKey) {
   const isDrom = DROM_KEYS.includes(territoryKey);
   clearDromCardLayer();
   clearCommuneLayer();
-  // 始终重绘全市镇（有 API 则上色，无则浅色）
+  // Re-dessine toujours toutes les communes (colorees si API disponible, sinon teinte claire).
   await renderCommunesChoropleth(allMapDataFeatures);
   if (isDrom) {
     const name = DROM_LABELS[territoryKey] || territoryKey;

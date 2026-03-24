@@ -1,168 +1,205 @@
-# newEAU — 开发文档（中文）
+# newEAU — 开发文档（中文，数据流版）
 
-## 1. 项目简介
+## 1. 文档目标
 
-newEAU 是一个**水质可视化 Web 应用**，参考 [dansmoneau.fr](https://dansmoneau.fr)，提供法国本土与海外省（DROM）的行政区划地图，按市镇展示饮用水合规状态（绿/黄/橙/红），并支持搜索、详情与色盲模式。
+本文重点回答四件事：
 
-- **后端**：Java + Jakarta Servlet + MySQL，提供 REST 风格 API。
-- **前端**：HTML/CSS/JavaScript + Leaflet 地图，单页式交互。
-- **数据**：市镇与部门边界来自 GeoJSON；合规颜色由数据库中的 prélèvement 四个合规字段计算。
-
----
-
-## 2. 技术栈
-
-| 层级     | 技术 |
-|----------|------|
-| 后端     | Java 8+、Jakarta Servlet API 6、Maven、MySQL 8 (JDBC) |
-| 前端     | 原生 HTML5 / CSS3 / JavaScript、Leaflet 1.9.4 |
-| 构建     | Maven（packaging: war） |
-| 部署     | Tomcat 或兼容 Servlet 的容器 |
+1. 项目代码结构如何组织；
+2. 每个模块各自做什么；
+3. 后端数据如何流向前端；
+4. 地图颜色如何由后端结果驱动显示。
 
 ---
 
-## 3. 项目结构
+## 2. 整体架构（一句话）
 
+`MySQL -> Service -> Servlet(JSON API) -> app.js(fetch) -> Leaflet GeoJSON 图层着色`
+
+前端拿到的是“每个市镇的状态与颜色”，然后按 `code_insee` 与 GeoJSON 多边形做关联，最终上色。
+
+---
+
+## 3. 目录与模块职责
+
+### 3.1 后端（`src/main/java/com/waterquality`）
+
+- `controller/`：HTTP 入口（Servlet）
+  - `MapDataServlet`：返回地图着色数据
+  - `SearchServlet`：搜索城市
+  - `LatestServlet`：取某城市最新检测
+  - `DetailsServlet`：取某次 prélèvement 的详细指标
+- `service/`：业务查询与组装
+  - `MapDataService`：主地图数据
+  - `LatestService`：详情面板头部数据
+  - `DetailsService`：详情面板指标数据
+  - `SearchService`：城市名搜索
+- `util/ConformityColor`：四个合规字段 -> 颜色/状态文本
+- `dao/DatabaseConnection`：数据库连接
+
+### 3.2 前端（`src/main/webapp`）
+
+- `embed.html`：地图页主体
+- `app.js`：地图渲染、搜索、弹窗、侧栏详情、色盲模式
+- `style.css`：界面样式
+- `data/*.geojson`：市镇/部门边界数据（本土 + DROM）
+
+---
+
+## 4. API 设计（前端会直接用到）
+
+| 方法 | 路径 | 用途 |
+|---|---|---|
+| GET | `/api/map-data` | 地图着色主数据（市镇级） |
+| GET | `/api/search?q=...` | 搜索市镇 |
+| GET | `/api/latest/{codeInsee}` | 某市镇最新 prélèvement |
+| GET | `/api/details/{prelevementId}` | 某次 prélèvement 的指标详情 |
+
+前端可通过 URL 参数 `api` 指定 API 根地址，例如：  
+`embed.html?api=http://localhost:8082/newEAU/api`
+
+---
+
+## 5. 核心数据流（重点）
+
+## 5.1 首屏地图着色流程
+
+1. `loadMap()` 启动；
+2. 先调用 `renderCommunesChoropleth([])`：立即画出全市镇轮廓（无数据时浅灰）；
+3. 请求 `GET /api/map-data`；
+4. 得到 `features`（每个市镇含 `id/name/departement/color/status`）；
+5. 再调用 `renderCommunesChoropleth(features)` 做真实上色；
+6. 用户点击市镇后，进入详情流（`/latest` + `/details`）。
+
+这保证了“页面一开就有全图轮廓”，API 慢时不会白屏。
+
+## 5.2 搜索后跳转与弹窗流程
+
+1. `runSearch()` 调 `/api/search` 返回候选城市；
+2. 选中某条结果后：
+   - `focusSearchResultOnMap(pick)`：计算坐标并 `setView`
+   - `openSearchResultMapPopup(pick, latlng)`：在目标点打开 popup
+   - `showCommuneDetails(pick)`：右侧面板显示详细信息
+3. popup 和面板都可继续触发 `latest/details` 拉取。
+
+## 5.3 详情面板数据流
+
+点击市镇（地图或搜索）后：
+
+1. `showCommuneDetails(city)` 请求 `/api/latest/{codeInsee}`；
+2. 拿到 `prelevement.id` 后调用 `loadAnalyses(prelevementId)`；
+3. `loadAnalyses` 请求 `/api/details/{id}`；
+4. 渲染参数、实测值、法定限值，并标记超限项。
+
+---
+
+## 6. 关键代码讲解（按函数）
+
+### 6.1 `MapDataService#getMapFeatures`（后端核心）
+
+作用：为“地图主图层”准备每个市镇的颜色状态。
+
+主要步骤：
+
+1. SQL 从 `communes` 左连接其“最新 prélèvement”；
+2. 读四个合规字段：`bacterio/chimique/refBact/refChim`；
+3. 调 `ConformityColor.fromPrelevement(...)` 得到 `color + status`；
+4. 输出为列表：`id, name, departement, color, status`。
+
+这个列表由 `MapDataServlet` 序列化成：
+
+```json
+{
+  "features": [
+    {
+      "id": "75056",
+      "name": "Paris",
+      "departement": "75",
+      "color": "#22c55e",
+      "status": "Conforme"
+    }
+  ]
+}
 ```
-newEAU/
-├── pom.xml
-├── database/
-│   └── schema.sql              # 建表脚本（communes, prelevements, resultats_analyses）
-├── datas/                       # 原始数据（CSV/TXT 导入用）
-│   ├── Table communes/
-│   ├── Table prelevements/
-│   └── Table resultats/
-├── docs/
-│   ├── DEVELOPMENT_ZH.md       # 本文档（中文）
-│   └── DEVELOPMENT_FR.md      # 开发文档（法语）
-├── src/main/
-│   ├── java/com/waterquality/
-│   │   ├── controller/         # Servlet（API 入口）
-│   │   │   ├── DetailsServlet.java   # GET /api/details/{id}
-│   │   │   ├── LatestServlet.java    # GET /api/latest/{codeInsee}
-│   │   │   ├── MapDataServlet.java   # GET /api/map-data
-│   │   │   ├── SearchServlet.java    # GET /api/search?q=
-│   │   │   └── TestServlet.java     # GET /api/test
-│   │   ├── dao/
-│   │   │   └── DatabaseConnection.java
-│   │   ├── model/
-│   │   │   ├── Commune.java
-│   │   │   ├── Prelevement.java
-│   │   │   └── ResultatAnalyse.java
-│   │   ├── service/
-│   │   │   ├── DetailsService.java
-│   │   │   ├── LatestService.java
-│   │   │   ├── MapDataService.java
-│   │   │   └── SearchService.java
-│   │   └── util/
-│   │       ├── ConformityColor.java  # 四字段 → 颜色/状态
-│   │       └── ImportWaterData.java  # 数据导入（main）
-│   └── webapp/
-│       ├── WEB-INF/web.xml
-│       ├── data/
-│       │   ├── README.md
-│       │   ├── departements-drom.geojson
-│       │   └── communes-drom.geojson
-│       ├── embed.html          # 地图页（iframe 或直接打开）
-│       ├── index.html          # 落地页（含 iframe）
-│       ├── app.js              # 地图、搜索、图例、色盲模式
-│       └── style.css
-└── target/                     # Maven 构建输出（war）
-```
+
+### 6.2 `renderCommunesChoropleth(features)`（前端着色核心）
+
+作用：把 API 的 `features` 映射到 GeoJSON 多边形颜色。
+
+关键点：
+
+1. 建立 `featureMap = Map<code_insee, feature>`；
+2. 遍历 GeoJSON 的每个市镇面；
+3. 用 `getCommuneCode(geoFeature)` 取 code；
+4. 在 `featureMap` 查颜色并调用 `createCommuneStyle`；
+5. `bindCommuneInteractions` 绑定 hover/click/popup 行为。
+
+本质是：**几何来自 GeoJSON，颜色来自后端 API，通过 code_insee 关联。**
+
+### 6.3 `createCommuneStyle(mapFeature)`（颜色落地）
+
+当 `mapFeature` 存在时使用其 `color`；不存在时用默认浅灰。  
+色盲模式时会通过 `resolveDisplayColor` 做颜色替换。
+
+### 6.4 `bindCommuneInteractions(...)`（交互桥接）
+
+负责：
+
+- popup 初次内容；
+- 鼠标移入/移出样式；
+- 点击后按 `codeInsee` 请求 `/latest`，刷新状态并打开详情面板；
+- popup 按钮跳转到详细 fiche。
 
 ---
 
-## 4. 数据库
+## 7. 颜色规则来源
 
-### 4.1 表结构
+规则在 `ConformityColor` 中（后端计算，前端仅展示）：
 
-- **communes**：市镇（code_insee, nom_commune, departement）
-- **prelevements**：水样检测记录（code_insee, referenceprel, dateprel，及四个合规字段）
-- **resultats_analyses**：每次检测的指标（prelevement_id, parametre, valeur_mesuree, limite_legale）
+- 全部合规 -> 绿
+- 参考合规但指标异常 -> 黄
+- 细菌合规且化学不合规 -> 橙
+- 无数据 -> 灰
+- 其他不合规 -> 红
 
-详见 `database/schema.sql`。
+这保证前后端职责清晰：
 
-### 4.2 连接配置
-
-`DatabaseConnection.java` 默认连接：
-
-- URL: `jdbc:mysql://localhost:3307/waterdb?...`
-- 用户/密码：可通过环境变量 `DB_URL`、`DB_USER`、`DB_PASSWORD` 覆盖。
+- 后端定义“怎么算”
+- 前端只负责“怎么画”
 
 ---
 
-## 5. API 接口
+## 8. 当前前端主要模块速览（`app.js`）
 
-| 方法 | 路径 | 说明 |
-|------|------|------|
-| GET | `/api/test` | 连通性测试 |
-| GET | `/api/search?q=xxx` | 按市镇名模糊搜索，返回 JSON 数组 |
-| GET | `/api/map-data` | 所有市镇的 id、name、departement、color、status（用于地图着色） |
-| GET | `/api/latest/{codeInsee}` | 该市镇最新 prélèvement + commune 信息（含 color） |
-| GET | `/api/details/{prelevementId}` | 该 prélèvement 的 referenceprel 及 analyses 列表（parametre, valeurMesuree, limiteLegale） |
-
-API 根路径由前端通过 URL 参数 `api` 指定，例如：`embed.html?api=http://localhost:8081/newEAU/api`。
-
----
-
-## 6. 颜色逻辑（合规 → 地图颜色）
-
-由 `ConformityColor.fromPrelevement(bacterio, chimique, refBact, refChim)` 根据四个字段（C/N）计算：
-
-| 条件 | 颜色 | 含义 |
-|------|------|------|
-| 四字段均为 C | 绿 | 全部合格 |
-| 参考合格 + 指标异常 | 黄 | 健康合格、指标异常 |
-| 细菌合格 + 化学不合格 | 橙 | 细菌 OK、化学不 OK |
-| 无数据 | 灰 | 无 prélèvement 或四字段全空 |
-| 其他 | 红 | 非合格 |
-
-地图仅在使用「市镇」视图时按该颜色着色；部门层初始为灰色，点击部门后展开的市镇层才显示上述颜色。
+- 地图初始化：Leaflet map/tile/zoom control
+- 数据加载：`loadMap`
+- 地图着色：`renderCommunesChoropleth`
+- 搜索：`runSearch`
+- 搜索定位：`resolveCommuneLatLng` + `focusSearchResultOnMap`
+- 搜索弹窗：`openSearchResultMapPopup`
+- 详情面板：`showCommuneDetails` + `loadAnalyses`
+- 颜色切换：`resolveDisplayColor` + `refreshMapColors`
+- 领土按钮：`applyTerritoryView`
 
 ---
 
-## 7. 前端功能概览
+## 9. 调试建议（和“地图没颜色”最相关）
 
-- **地图**：Leaflet，底图 OSM；先加载部门层（灰），点击部门后加载该部门市镇层并按 map-data 着色。
-- **领土**：侧栏左侧图标切换 Métropole / Guadeloupe / Martinique / Guyane / La Réunion / Mayotte，fitBounds 定位。
-- **搜索**：防抖请求 `/api/search`，下拉补全，选中后定位并打开右侧详情。
-- **右侧面板**：市镇/部门信息、最新 prélèvement、Analyses détaillées（referenceprel + parametre / valeurMesuree / limiteLegale）。
-- **图例**：左下角 Légende，含「Mode daltonien」色盲模式开关；开启后使用色盲友好配色并刷新地图与徽章。
-
----
-
-## 8. GeoJSON 数据
-
-- **可选**：`data/departements.geojson`、`data/communes.geojson`（本土，可从 [Contours administratifs](https://etalab-datasets.geo.data.gouv.fr/contours-administratifs/latest/geojson/) 下载）。
-- **内置**：`data/departements-drom.geojson`、`data/communes-drom.geojson`（海外省简化几何）。
-
-前端会合并主文件与 DROM 文件的 features，统一用于部门层与市镇层。属性需含 `code`（或 `code_insee`）、`nom`。
+1. 先看 `/api/map-data` 是否返回 `features`；
+2. 检查返回中的 `id` 是否与 GeoJSON 的 `code/code_insee` 对得上；
+3. 看浏览器 network 是否有 `/latest`、`/details` 404/500；
+4. 若 Docker 与本地结果不同，优先确认挂载的静态目录与 `target`/`src` 是否一致。
 
 ---
 
-## 9. 运行与部署
+## 10. 运行与部署（简版）
 
-### 9.1 本地运行
-
-1. MySQL：创建数据库 `waterdb`，执行 `database/schema.sql`；可选运行 `ImportWaterData` 导入数据。
-2. 构建：`mvn clean package`，生成 `target/newEAU-1.0-SNAPSHOT.war`。
-3. 部署：将 war 放入 Tomcat 的 `webapps/`，或使用 IDE 配置 Tomcat 运行。
-4. 前端：浏览器打开 `http://localhost:8080/newEAU/embed.html`（端口与上下文路径以实际为准）；若 API 在不同端口，使用 `?api=http://...` 指定。
-
-### 9.2 上下文路径
-
-默认访问路径为 `/newEAU/`（与 artifactId 一致），API 基址为 `http://<host>:<port>/newEAU/api`。
+1. 执行 `database/schema.sql` 初始化 MySQL；
+2. `mvn clean package` 产出 `target/newEAU-1.0-SNAPSHOT.war`；
+3. 部署到 Tomcat；
+4. 打开 `embed.html` 或 `index.html`，必要时加 `?api=...`。
 
 ---
 
-## 10. 色盲模式
+## 11. 一句话总结主链路
 
-- 开关位于左下角图例「Légende — Qualité de l'eau」内，标签为「Mode daltonien」。
-- 开启后：地图填充色、图例色块、右侧状态徽章统一切换为色盲友好配色（蓝/黄/橙/红橙等），并立即刷新当前部门层与市镇层。
-
----
-
-## 11. 版本与依赖
-
-- 项目版本：1.0-SNAPSHOT（见 `pom.xml`）。
-- 主要依赖：jakarta.servlet-api 6.0.0、mysql-connector-j 8.2.0、Leaflet 1.9.4（前端 CDN）。
+后端把每个市镇算成颜色状态 -> 前端用市镇 code 把颜色贴到 GeoJSON 面上 -> 用户点击后再按城市拉最新检测与详细指标。
